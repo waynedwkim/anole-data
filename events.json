@@ -650,6 +650,19 @@
     "checkedAt": "2026-08-22"
   },
   {
+    "id": "show-me-reptile-show-boise-2026-10-17",
+    "seriesId": "show-me-reptile-show",
+    "title": "Boise Reptile Expo",
+    "city": "Boise",
+    "state": "ID",
+    "venue": "Expo Idaho, 5610 N Glenwood St",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-18",
+    "url": "https://expoidaho.com/event/show-me-reptile-exotics-show-19/2026-10-17/",
+    "source": "https://expoidaho.com/event/show-me-reptile-exotics-show-19/2026-10-17/",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "show-me-reptile-show-knoxville-2026-10-17",
     "seriesId": "show-me-reptile-show",
     "title": "Show Me Reptile Show - Knoxville",
