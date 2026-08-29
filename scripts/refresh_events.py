@@ -46,6 +46,50 @@ MEC_SOURCES = [
     },
 ]
 
+# Organizers who publish their own schedule as a data file. cvrexpo's is the
+# same URL already recorded as the `source` on every hand-entered CVRE event —
+# it was being read by a person and then typed back in.
+JSON_SOURCES = [
+    {
+        "seriesId": "cvre",
+        "url": "https://cvrexpo.com/_json/expos.json",
+        "base": "https://cvrexpo.com/expos",
+    },
+]
+
+# Organizers whose schedule is plain HTML with the weekday spelled out next to
+# the date. The weekday is what makes these safe to parse: a page that says
+# "Sunday, September 13, 2026" is checkable against the calendar, and a
+# mismatch means the page is wrong or our parse is, either way not shippable.
+WEEKDAY_HTML_SOURCES = [
+    {
+        "seriesId": "ny-metro-reptile-expo",
+        "url": "https://reptileexpo.com/new-york-metro-reptileexpo/",
+        "title": "New York Metro ReptileExpo",
+        "city": "White Plains",
+        "state": "NY",
+        "venue": "Westchester County Center, 198 Central Ave",
+    },
+    {
+        "seriesId": "new-england-reptile-expo",
+        "url": "https://reptileexpo.com/new-hampshire-reptile-expo/",
+        "title": "New England ReptileExpo",
+        "city": "Manchester",
+        "state": "NH",
+        "venue": "DoubleTree Hotel, 700 Elm Street",
+    },
+]
+
+MONTHS = {
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+    "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12,
+}
+
+WEEKDAYS = {
+    "monday": 0, "tuesday": 1, "wednesday": 2, "thursday": 3,
+    "friday": 4, "saturday": 5, "sunday": 6,
+}
+
 STATE_NAMES = {
     "alabama": "AL", "alaska": "AK", "arizona": "AZ", "arkansas": "AR",
     "california": "CA", "colorado": "CO", "connecticut": "CT", "delaware": "DE",
@@ -103,8 +147,11 @@ def fetch_text(url):
 
 
 def unescape_title(value):
-    """WordPress returns titles with HTML entities (&#8211; and friends)."""
-    return re.sub(r"\s+", " ", html.unescape(value or "")).strip()
+    """WordPress returns titles with HTML entities (&#8211; and friends), and
+    cvrexpo's venue strings carry real markup (`<br>`) meant for its own page.
+    """
+    text = re.sub(r"<[^>]+>", " ", html.unescape(value or ""))
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def parse_vevent(ics):
@@ -205,6 +252,158 @@ def scrape_mec(source, today):
     return events
 
 
+def parse_span(text, today):
+    """'Mar. 7-8, 2026' -> ('2026-03-07', '2026-03-08'). Single days return
+    (start, None), matching how the feed records a one-day show.
+
+    Deliberately strict: anything whose shape isn't recognised returns None
+    rather than a guess, because a wrong date is worse here than a missing one.
+    """
+    if not text:
+        return None
+    cleaned = re.sub(r"\s+", " ", html.unescape(text)).strip().replace("–", "-")
+
+    # Sep. 12-13, 2026  /  September 12 - 13, 2026
+    match = re.match(
+        r"^([A-Za-z]{3,9})\.?\s+(\d{1,2})\s*-\s*(\d{1,2}),?\s*(\d{4})$", cleaned)
+    if match:
+        month = MONTHS.get(match.group(1)[:3].lower())
+        if not month:
+            return None
+        year = int(match.group(4))
+        first, second = int(match.group(2)), int(match.group(3))
+        if second < first:
+            return None
+        try:
+            start = date(year, month, first)
+            end = date(year, month, second)
+        except ValueError:
+            return None
+        return start.isoformat(), (end.isoformat() if end != start else None)
+
+    # Feb. 28 - Mar. 1, 2027 — a span that crosses a month boundary.
+    match = re.match(
+        r"^([A-Za-z]{3,9})\.?\s+(\d{1,2})\s*-\s*([A-Za-z]{3,9})\.?\s+(\d{1,2}),?\s*(\d{4})$",
+        cleaned)
+    if match:
+        first_month = MONTHS.get(match.group(1)[:3].lower())
+        second_month = MONTHS.get(match.group(3)[:3].lower())
+        if not (first_month and second_month):
+            return None
+        year = int(match.group(5))
+        try:
+            start = date(year, first_month, int(match.group(2)))
+            # December -> January rolls the year forward.
+            end = date(year + (1 if second_month < first_month else 0),
+                       second_month, int(match.group(4)))
+        except ValueError:
+            return None
+        if end < start:
+            return None
+        return start.isoformat(), end.isoformat()
+
+    # Mar. 7, 2026
+    match = re.match(r"^([A-Za-z]{3,9})\.?\s+(\d{1,2}),?\s*(\d{4})$", cleaned)
+    if match:
+        month = MONTHS.get(match.group(1)[:3].lower())
+        if not month:
+            return None
+        try:
+            start = date(int(match.group(3)), month, int(match.group(2)))
+        except ValueError:
+            return None
+        return start.isoformat(), None
+
+    return None
+
+
+def scrape_json_schedule(source, today):
+    """cvrexpo publishes the schedule the hand-entered CVRE events already cite
+    as their source. Reading it directly is the same evidence, minus the typing.
+    """
+    payload = fetch_json(source["url"])
+    events = []
+    for item in payload.get("expos", []):
+        if item.get("status") not in (None, "published", "sales_closed"):
+            continue
+        span = parse_span(item.get("dates"), today)
+        if not span:
+            continue
+        start, end = span
+        if start < today.isoformat():
+            continue
+        title = unescape_title(item.get("name"))
+        city, state = None, None
+        location = html.unescape(item.get("city_state_zip") or "")
+        match = re.match(r"^(.+?),\s*([A-Z]{2})\b", location.strip())
+        if match:
+            city, state = match.group(1).strip(), match.group(2)
+        if not (title and state):
+            continue
+        venue = ", ".join(
+            part for part in (
+                unescape_title(item.get("venue")),
+                unescape_title(item.get("address")),
+            ) if part
+        ) or None
+        events.append({
+            "id": f"{source['seriesId']}-{slugify(city or title)}-{start}",
+            "seriesId": source["seriesId"],
+            "title": title,
+            "city": city,
+            "state": state,
+            "venue": venue,
+            "startDate": start,
+            "endDate": end,
+            "url": source["base"],
+            "source": source["url"],
+            "checkedAt": today.isoformat(),
+        })
+    return events
+
+
+def scrape_weekday_html(source, today):
+    """Pages that print the weekday beside the date, which gives us a checksum:
+    if the page says Sunday and that date is a Tuesday, one of us is wrong and
+    the entry is dropped rather than shipped.
+    """
+    text = re.sub(r"<[^>]+>", " ", fetch_text(source["url"]))
+    text = re.sub(r"\s+", " ", html.unescape(text))
+    events = []
+    seen = set()
+    pattern = (r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+"
+               r"([A-Za-z]{3,9})\.?\s+(\d{1,2})(?:st|nd|rd|th)?,?\s+(\d{4})")
+    for weekday, month_name, day, year in re.findall(pattern, text):
+        month = MONTHS.get(month_name[:3].lower())
+        if not month:
+            continue
+        try:
+            when = date(int(year), month, int(day))
+        except ValueError:
+            continue
+        if when.weekday() != WEEKDAYS[weekday.lower()]:
+            print(f"  weekday mismatch on {source['seriesId']}: page says "
+                  f"{weekday} for {when.isoformat()} — skipped", file=sys.stderr)
+            continue
+        if when < today or when.isoformat() in seen:
+            continue
+        seen.add(when.isoformat())
+        events.append({
+            "id": f"{source['seriesId']}-{slugify(source['city'])}-{when.isoformat()}",
+            "seriesId": source["seriesId"],
+            "title": source["title"],
+            "city": source["city"],
+            "state": source["state"],
+            "venue": source["venue"],
+            "startDate": when.isoformat(),
+            "endDate": None,
+            "url": source["url"],
+            "source": source["url"],
+            "checkedAt": today.isoformat(),
+        })
+    return events
+
+
 def scrape_tribe(source, today):
     url = source["api"].format(start=today.isoformat())
     payload = fetch_json(url)
@@ -299,16 +498,24 @@ def main():
     pruned = len(existing) - len(kept)
 
     scraped, failures = [], []
-    for source in TRIBE_SOURCES:
-        try:
-            scraped.extend(scrape_tribe(source, today))
-        except Exception as error:  # noqa: BLE001 — a dead source must not kill the run
-            failures.append(f"{source['seriesId']}: {error}")
-    for source in MEC_SOURCES:
-        try:
-            scraped.extend(scrape_mec(source, today))
-        except Exception as error:  # noqa: BLE001
-            failures.append(f"{source['seriesId']}: {error}")
+    for scraper, sources in (
+        (scrape_tribe, TRIBE_SOURCES),
+        (scrape_mec, MEC_SOURCES),
+        (scrape_json_schedule, JSON_SOURCES),
+        (scrape_weekday_html, WEEKDAY_HTML_SOURCES),
+    ):
+        for source in sources:
+            try:
+                found = scraper(source, today)
+            except Exception as error:  # noqa: BLE001 — a dead source must not kill the run
+                failures.append(f"{source['seriesId']}: {error}")
+                continue
+            # A source that returns nothing is indistinguishable from a source
+            # that quietly changed its markup — and the second one is how a
+            # calendar rots without anyone noticing. Say so.
+            if not found:
+                failures.append(f"{source['seriesId']}: parsed 0 events (markup changed?)")
+            scraped.extend(found)
 
     merged = {e["id"]: e for e in kept}
     added = updated = 0
@@ -317,12 +524,25 @@ def main():
         # checkedAt moves on every run; it shouldn't count as a change.
         return {k: v for k, v in event.items() if k != "checkedAt"}
 
+    def preserving_detail(previous, incoming):
+        """A hand-checked venue often carries the hall or the gate a schedule
+        file doesn't ("World Market Center (North Hall)" against plain "World
+        Market Center"). Don't let an automated pass throw that away.
+        """
+        kept = dict(incoming)
+        was, now = previous.get("venue"), incoming.get("venue")
+        if was and (not now or now.split(",")[0].strip() in was):
+            kept["venue"] = was
+        return kept
+
     for event in scraped:
         previous = merged.get(event["id"])
         if previous is None:
             added += 1
-        elif substance(previous) != substance(event):
-            updated += 1
+        else:
+            event = preserving_detail(previous, event)
+            if substance(previous) != substance(event):
+                updated += 1
         merged[event["id"]] = event
 
     # Organizers overlap: the Diamondback feed also carries the All-Maryland
