@@ -65,6 +65,19 @@
     "checkedAt": "2026-08-22"
   },
   {
+    "id": "cin-city-reptile-show-west-chester-2026-09-12",
+    "seriesId": "cin-city-reptile-show",
+    "title": "Cin City Reptile Show",
+    "city": "West Chester",
+    "state": "OH",
+    "venue": "Holiday Inn - West Chester",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-13",
+    "url": "https://www.cincityreptileshow.com/show-dates",
+    "source": "https://www.cincityreptileshow.com/show-dates",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "herps-conroe-2026-09-12",
     "seriesId": "herps-exotic-reptile-pet-shows",
     "title": "HERPS Conroe",
@@ -130,6 +143,19 @@
     "checkedAt": "2026-08-22"
   },
   {
+    "id": "all-ohio-reptile-show-hilliard-2026-09-19",
+    "seriesId": "all-ohio-reptile-show",
+    "title": "All Ohio Reptile Show",
+    "city": "Hilliard",
+    "state": "OH",
+    "venue": "Franklin County Fairgrounds",
+    "startDate": "2026-09-19",
+    "endDate": null,
+    "url": "https://www.columbusonthecheap.com/all-ohio-reptile-show/",
+    "source": "https://www.columbusonthecheap.com/all-ohio-reptile-show/",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "reptilian-nation-expo-atlanta-2026-09-19",
     "seriesId": "reptilian-nation-expo",
     "title": "Reptilian Nation Expo Atlanta",
@@ -143,6 +169,19 @@
     "checkedAt": "2026-08-22"
   },
   {
+    "id": "cleveland-reptile-show-medina-2026-09-20",
+    "seriesId": "cleveland-reptile-show",
+    "title": "Cleveland Reptile Show & Sale",
+    "city": "Medina",
+    "state": "OH",
+    "venue": "Medina County Fairgrounds",
+    "startDate": "2026-09-20",
+    "endDate": null,
+    "url": "https://www.zerklereptilecompany.com/current-show-schedule",
+    "source": "https://www.zerklereptilecompany.com/current-show-schedule",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "cold-blooded-expos-crystal-lake-2026-09-20",
     "seriesId": "cold-blooded-expos",
     "title": "Chicago Reptile Show",
@@ -153,6 +192,19 @@
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/chicago-reptile-show-17/",
     "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29",
+    "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "midwest-reptile-show-indianapolis-2026-09-20",
+    "seriesId": "midwest-reptile-show",
+    "title": "Midwest Reptile Show",
+    "city": "Indianapolis",
+    "state": "IN",
+    "venue": "Indiana State Fairgrounds - Harvest Pavilion",
+    "startDate": "2026-09-20",
+    "endDate": null,
+    "url": "https://www.midwestreptile.com/index.php?target=dates",
+    "source": "https://www.midwestreptile.com/index.php?target=dates",
     "checkedAt": "2026-08-29"
   },
   {
@@ -299,6 +351,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "all-ohio-reptile-show-hilliard-2026-10-17",
+    "seriesId": "all-ohio-reptile-show",
+    "title": "All Ohio Reptile Show",
+    "city": "Hilliard",
+    "state": "OH",
+    "venue": "Franklin County Fairgrounds",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "url": "https://www.columbusonthecheap.com/all-ohio-reptile-show/",
+    "source": "https://www.columbusonthecheap.com/all-ohio-reptile-show/",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "hamburg-reptile-show-2026-10-17",
     "seriesId": "hamburg-reptile-show",
     "title": "Hamburg Reptile Show",
@@ -336,6 +401,19 @@
     "url": "https://reptiliannationexpo.com/",
     "source": "https://reptiliannationexpo.com/",
     "checkedAt": "2026-08-22"
+  },
+  {
+    "id": "cin-city-reptile-show-west-chester-2026-10-18",
+    "seriesId": "cin-city-reptile-show",
+    "title": "Cin City Reptile Show",
+    "city": "West Chester",
+    "state": "OH",
+    "venue": "Holiday Inn - West Chester",
+    "startDate": "2026-10-18",
+    "endDate": null,
+    "url": "https://www.cincityreptileshow.com/show-dates",
+    "source": "https://www.cincityreptileshow.com/show-dates",
+    "checkedAt": "2026-08-29"
   },
   {
     "id": "cold-blooded-expos-bellevue-2026-10-18",
@@ -414,6 +492,45 @@
     "url": "https://repticon.com/california/los-angeles-costa-mesa/",
     "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-08-22"
+  },
+  {
+    "id": "cin-city-reptile-show-west-chester-2026-11-08",
+    "seriesId": "cin-city-reptile-show",
+    "title": "Cin City Reptile Show",
+    "city": "West Chester",
+    "state": "OH",
+    "venue": "Holiday Inn - West Chester",
+    "startDate": "2026-11-08",
+    "endDate": null,
+    "url": "https://www.cincityreptileshow.com/show-dates",
+    "source": "https://www.cincityreptileshow.com/show-dates",
+    "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "midwest-reptile-show-indianapolis-2026-11-08",
+    "seriesId": "midwest-reptile-show",
+    "title": "Midwest Reptile Show",
+    "city": "Indianapolis",
+    "state": "IN",
+    "venue": "Indiana State Fairgrounds - Harvest Pavilion",
+    "startDate": "2026-11-08",
+    "endDate": null,
+    "url": "https://www.midwestreptile.com/index.php?target=dates",
+    "source": "https://www.midwestreptile.com/index.php?target=dates",
+    "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "all-ohio-reptile-show-hilliard-2026-11-14",
+    "seriesId": "all-ohio-reptile-show",
+    "title": "All Ohio Reptile Show",
+    "city": "Hilliard",
+    "state": "OH",
+    "venue": "Franklin County Fairgrounds",
+    "startDate": "2026-11-14",
+    "endDate": null,
+    "url": "https://www.columbusonthecheap.com/all-ohio-reptile-show/",
+    "source": "https://www.columbusonthecheap.com/all-ohio-reptile-show/",
+    "checkedAt": "2026-08-29"
   },
   {
     "id": "herps-sulphur-2026-11-14",
@@ -507,6 +624,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "cin-city-reptile-show-west-chester-2026-12-13",
+    "seriesId": "cin-city-reptile-show",
+    "title": "Cin City Reptile Show",
+    "city": "West Chester",
+    "state": "OH",
+    "venue": "Holiday Inn - West Chester",
+    "startDate": "2026-12-13",
+    "endDate": null,
+    "url": "https://www.cincityreptileshow.com/show-dates",
+    "source": "https://www.cincityreptileshow.com/show-dates",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "md-reptile-farm-york-2026-12-13",
     "seriesId": "md-reptile-farm",
     "title": "York County Reptile Show",
@@ -517,6 +647,19 @@
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/york-county-reptile-show-355-436-358-840/",
     "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
+    "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "all-ohio-reptile-show-hilliard-2026-12-19",
+    "seriesId": "all-ohio-reptile-show",
+    "title": "All Ohio Reptile Show",
+    "city": "Hilliard",
+    "state": "OH",
+    "venue": "Franklin County Fairgrounds",
+    "startDate": "2026-12-19",
+    "endDate": null,
+    "url": "https://www.columbusonthecheap.com/all-ohio-reptile-show/",
+    "source": "https://www.columbusonthecheap.com/all-ohio-reptile-show/",
     "checkedAt": "2026-08-29"
   },
   {
