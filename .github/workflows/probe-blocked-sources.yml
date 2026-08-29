@@ -1,9 +1,7 @@
 name: Probe blocked sources
 
-# One-off diagnostic. Several organizer sites refuse requests from the
-# maintainer's network, and the open question was whether a US GitHub runner
-# gets through. Datacenter IPs are usually treated worse by bot protection,
-# not better, so this settles it with a fact instead of an assumption.
+# Diagnostic. Expo Idaho refuses the maintainer's network but answers a US
+# runner, so this pulls the venue's own reptile-show listings from here.
 on:
   workflow_dispatch: {}
 
@@ -11,14 +9,22 @@ jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
-      - name: Try each blocked source
+      - name: Pull Expo Idaho reptile listings
         run: |
           UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
           for url in \
-            "https://showmereptileshow.com/shows/idaho-repile-shows" \
             "https://expoidaho.com/events/" \
-            "https://repticon.com/events/" \
-            "https://www.lllreptile.com/events/" ; do
-            code=$(curl -s -o /dev/null -w '%{http_code}' -A "$UA" --max-time 25 "$url" || echo "000")
-            printf '%-60s %s\n' "$url" "$code"
+            "https://expoidaho.com/?s=reptile" ; do
+            echo "===== $url"
+            curl -s -A "$UA" --max-time 30 "$url" \
+              | python3 -c "
+import re,sys,html
+t=sys.stdin.read()
+t=re.sub(r'<script.*?</script>','',t,flags=re.S|re.I)
+t=re.sub(r'<style.*?</style>','',t,flags=re.S|re.I)
+t=html.unescape(re.sub(r'<[^>]+>',' ',t))
+t=re.sub(r'\s+',' ',t)
+for m in re.finditer(r'.{140}[Rr]eptile.{220}', t):
+    print(m.group(0).strip()); print('---')
+"
           done
