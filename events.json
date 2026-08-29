@@ -1,17 +1,5 @@
 [
   {
-    "id": "cold-blooded-expos-tulsa-2026-08-23",
-    "seriesId": "cold-blooded-expos",
-    "title": "The Oklahoma Reptile Show",
-    "city": "Tulsa",
-    "state": "OK",
-    "venue": "DoubleTree by Hilton Hotel Tulsa – Warren Place",
-    "startDate": "2026-08-23",
-    "endDate": null,
-    "url": "https://coldbloodedexpos.com/reptile-show/the-oklahoma-reptile-show-39/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-22"
-  },
-  {
     "id": "herps-bryan-college-station-2026-08-29",
     "seriesId": "herps-exotic-reptile-pet-shows",
     "title": "HERPS Bryan-College Station",
@@ -105,7 +93,7 @@
     "startDate": "2026-09-13",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/kansas-city-reptile-show-52/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-22"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
   },
   {
     "id": "ny-metro-reptile-expo-white-plains-2026-09-13",
@@ -141,7 +129,7 @@
     "startDate": "2026-09-20",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/chicago-reptile-show-17/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-22"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
   },
   {
     "id": "herps-abilene-2026-09-26",
@@ -165,7 +153,7 @@
     "startDate": "2026-09-27",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/iowa-reptile-show-32/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-22"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
   },
   {
     "id": "herps-stillwater-2026-10-03",
@@ -249,7 +237,7 @@
     "startDate": "2026-10-11",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/the-minnesota-reptile-show-41/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-22"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
   },
   {
     "id": "hamburg-reptile-show-2026-10-17",
@@ -297,7 +285,7 @@
     "startDate": "2026-10-18",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-26/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-22"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
   },
   {
     "id": "cold-blooded-expos-overland-park-2026-11-01",
@@ -309,7 +297,7 @@
     "startDate": "2026-11-01",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/kansas-city-reptile-show-53/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-22"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
   },
   {
     "id": "all-maryland-reptile-show-2026-11-07",
@@ -369,7 +357,7 @@
     "startDate": "2026-11-15",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/iowa-reptile-show-33/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-22"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
   },
   {
     "id": "east-coast-reptile-super-expo-oaks-2026-11-21",
@@ -393,6 +381,6 @@
     "startDate": "2026-12-06",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-27/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-22"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
   }
 ]
