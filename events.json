@@ -104,6 +104,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "md-reptile-farm-state-college-2026-09-13",
+    "seriesId": "md-reptile-farm",
+    "title": "State College PA Reptile Show",
+    "city": "State College",
+    "state": "PA",
+    "venue": null,
+    "startDate": "2026-09-13",
+    "endDate": null,
+    "url": "https://mdreptilefarm.com/events/state-college-pa-reptile-show-829-665-850-912/",
+    "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "ny-metro-reptile-expo-white-plains-2026-09-13",
     "seriesId": "ny-metro-reptile-expo",
     "title": "NY Metro ReptileExpo",
@@ -156,6 +169,19 @@
     "checkedAt": "2026-08-22"
   },
   {
+    "id": "md-reptile-farm-york-2026-09-26",
+    "seriesId": "md-reptile-farm",
+    "title": "Reptiles at the York Expo",
+    "city": "York",
+    "state": "PA",
+    "venue": null,
+    "startDate": "2026-09-26",
+    "endDate": null,
+    "url": "https://mdreptilefarm.com/events/reptiles-at-the-york-expo-923-562-461-772-907-331/",
+    "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "cold-blooded-expos-des-moines-2026-09-27",
     "seriesId": "cold-blooded-expos",
     "title": "Iowa Reptile Show",
@@ -180,6 +206,19 @@
     "url": "https://www.herpshow.net/shows",
     "source": "https://www.herpshow.net/shows",
     "checkedAt": "2026-08-22"
+  },
+  {
+    "id": "md-reptile-farm-berryville-2026-10-03",
+    "seriesId": "md-reptile-farm",
+    "title": "Northern Virginia Reptile Expo – Berryville",
+    "city": "Berryville",
+    "state": "VA",
+    "venue": null,
+    "startDate": "2026-10-03",
+    "endDate": null,
+    "url": "https://mdreptilefarm.com/events/northern-virginia-reptile-expo-554-642-785-132-354-513-410-272-114/",
+    "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
+    "checkedAt": "2026-08-29"
   },
   {
     "id": "repticon-houston-2026-10-03",
@@ -312,6 +351,32 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "md-reptile-farm-boonsboro-2026-10-25",
+    "seriesId": "md-reptile-farm",
+    "title": "Washington County Reptile Show",
+    "city": "Boonsboro",
+    "state": "MD",
+    "venue": null,
+    "startDate": "2026-10-25",
+    "endDate": null,
+    "url": "https://mdreptilefarm.com/events/washington-county-reptile-show-629-395/",
+    "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
+    "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "md-reptile-farm-york-2026-10-31",
+    "seriesId": "md-reptile-farm",
+    "title": "Reptiles at the York Expo",
+    "city": "York",
+    "state": "PA",
+    "venue": null,
+    "startDate": "2026-10-31",
+    "endDate": null,
+    "url": "https://mdreptilefarm.com/events/reptiles-at-the-york-expo-923-562-461-772-907/",
+    "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "cold-blooded-expos-overland-park-2026-11-01",
     "seriesId": "cold-blooded-expos",
     "title": "Kansas City Reptile Show",
@@ -364,6 +429,19 @@
     "checkedAt": "2026-08-22"
   },
   {
+    "id": "md-reptile-farm-richmond-2026-11-14",
+    "seriesId": "md-reptile-farm",
+    "title": "Richmond Reptile Expo",
+    "city": "Richmond",
+    "state": "VA",
+    "venue": null,
+    "startDate": "2026-11-14",
+    "endDate": null,
+    "url": "https://mdreptilefarm.com/events/richmond-reptile-expo-484-441-233/",
+    "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "narbc-st-charles-2026-11-14",
     "seriesId": "narbc",
     "title": "NARBC St. Charles",
@@ -413,6 +491,45 @@
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-27/",
     "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29",
+    "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "md-reptile-farm-havre-de-grace-2026-12-12",
+    "seriesId": "md-reptile-farm",
+    "title": "All-Maryland Reptile Show",
+    "city": "Havre De Grace",
+    "state": "MD",
+    "venue": null,
+    "startDate": "2026-12-12",
+    "endDate": null,
+    "url": "https://mdreptilefarm.com/events/all-maryland-reptile-show-116-396-329-333-674-736-180-678-571-776/",
+    "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
+    "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "md-reptile-farm-york-2026-12-13",
+    "seriesId": "md-reptile-farm",
+    "title": "York County Reptile Show",
+    "city": "York",
+    "state": "PA",
+    "venue": null,
+    "startDate": "2026-12-13",
+    "endDate": null,
+    "url": "https://mdreptilefarm.com/events/york-county-reptile-show-355-436-358-840/",
+    "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
+    "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "md-reptile-farm-fredericksburg-2026-12-19",
+    "seriesId": "md-reptile-farm",
+    "title": "Northern Virginia Reptile Expo – Fredericksburg",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "venue": null,
+    "startDate": "2026-12-19",
+    "endDate": null,
+    "url": "https://mdreptilefarm.com/events/northern-virginia-reptile-expo-554-642-785-132-552-328-929/",
+    "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
     "checkedAt": "2026-08-29"
   }
 ]

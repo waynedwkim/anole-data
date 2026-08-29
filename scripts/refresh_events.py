@@ -5,6 +5,7 @@ that expose structured data (The Events Calendar REST API).
 Merge strategy: existing future events are kept (so hand-added and emailed
 submissions survive); scraped events overlay by id. Stdlib only.
 """
+import html
 import json
 import re
 import sys
@@ -16,13 +17,25 @@ ROOT = Path(__file__).resolve().parent.parent
 EVENTS_PATH = ROOT / "events.json"
 
 # Sources with a working The Events Calendar REST API.
-# Repticon is Cloudflare-gated and mdreptilefarm has no REST route — those
-# stay manual/email-curated.
+# Repticon stays manual: it is Cloudflare-gated on every route we know
+# (wp-json, ?ical=1, plain HTML) as of 2026-08-29.
 TRIBE_SOURCES = [
     {
         "seriesId": "cold-blooded-expos",
         "base": "https://coldbloodedexpos.com",
         "api": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date={start}",
+    },
+]
+
+# Modern Events Calendar sites: the REST list carries no dates, so each event's
+# ICS export is fetched for the real start/end. Diamondback runs the Maryland
+# shows plus the Virginia and Pennsylvania ones we used to miss entirely.
+MEC_SOURCES = [
+    {
+        "seriesId": "md-reptile-farm",
+        "base": "https://mdreptilefarm.com",
+        "list": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
+        "ical": "https://mdreptilefarm.com/?method=ical&id={id}",
     },
 ]
 
@@ -67,10 +80,122 @@ def tidy_venue(value):
     return value
 
 
+USER_AGENT = "scalespot-data/1.0 (+https://github.com/waynedwkim/scalespot-data)"
+
+
 def fetch_json(url):
-    request = urllib.request.Request(url, headers={"User-Agent": "scalespot-data/1.0"})
+    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(request, timeout=30) as response:
         return json.load(response)
+
+
+def fetch_text(url):
+    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(request, timeout=30) as response:
+        return response.read().decode("utf-8", "replace")
+
+
+def unescape_title(value):
+    """WordPress returns titles with HTML entities (&#8211; and friends)."""
+    return re.sub(r"\s+", " ", html.unescape(value or "")).strip()
+
+
+def parse_vevent(ics):
+    """Reads the VEVENT block only — VTIMEZONE carries DTSTART lines too."""
+    text = ics.replace("\r\n ", "").replace("\r\n\t", "")
+    block = re.search(r"BEGIN:VEVENT(.*?)END:VEVENT", text, re.S)
+    if not block:
+        return None
+    body = block.group(1)
+
+    def field(name):
+        match = re.search(rf"^{name}[^:\r\n]*:(.*)$", body, re.M)
+        return match.group(1).strip() if match else None
+
+    return {
+        "start": field("DTSTART"),
+        "end": field("DTEND"),
+        "location": field("LOCATION"),
+    }
+
+
+STREET_SUFFIXES = (
+    "street", "st", "road", "rd", "avenue", "ave", "boulevard", "blvd",
+    "drive", "dr", "lane", "ln", "pike", "way", "place", "pl", "highway",
+    "hwy", "route", "rt", "circle", "cir", "court", "ct", "parkway", "pkwy",
+)
+
+
+def parse_location(value):
+    """'890 West Main Street Berryville, VA 22611' -> ('Berryville', 'VA').
+
+    Organizer addresses are inconsistent: some separate the city with a comma,
+    others run the street straight into it.
+    """
+    if not value:
+        return None, None
+    cleaned = re.sub(r"\s+", " ", value.replace("\\,", ",")).strip()
+    match = re.search(r"(.+?),?\s*\b([A-Za-z]{2})\b[,\s]*\d{0,5}\s*$", cleaned)
+    if not match:
+        return None, None
+    state = match.group(2).upper()
+    head = match.group(1).strip().rstrip(",")
+
+    if "," in head:
+        city = head.rsplit(",", 1)[-1]
+    else:
+        words = head.split()
+        cut = 0
+        for index, word in enumerate(words):
+            if word.lower().strip(".") in STREET_SUFFIXES:
+                cut = index + 1
+        city = " ".join(words[cut:]) if cut else " ".join(words[-1:])
+
+    city = re.sub(r"^\d+\s*", "", city).strip(" ,.")
+    if not city or not re.search(r"[A-Za-z]", city):
+        return None, state
+    return city.title(), state
+
+
+def scrape_mec(source, today):
+    posts = fetch_json(source["list"])
+    events = []
+    for post in posts:
+        title = unescape_title((post.get("title") or {}).get("rendered"))
+        if not title:
+            continue
+        try:
+            parsed = parse_vevent(fetch_text(source["ical"].format(id=post["id"])))
+        except Exception:  # noqa: BLE001 — one dead event must not kill the run
+            continue
+        if not parsed or not parsed.get("start"):
+            continue
+        start = f"{parsed['start'][0:4]}-{parsed['start'][4:6]}-{parsed['start'][6:8]}"
+        if start < today.isoformat():
+            continue
+        end = None
+        if parsed.get("end"):
+            raw_end = parsed["end"]
+            end = f"{raw_end[0:4]}-{raw_end[4:6]}-{raw_end[6:8]}"
+            if end == start:
+                end = None
+        city, state = parse_location(parsed.get("location"))
+        if not state:
+            continue
+        events.append({
+            "id": f"{source['seriesId']}-{slugify(city or title)}-{start}",
+            "seriesId": source["seriesId"],
+            "title": title,
+            "city": city,
+            "state": state,
+            "venue": None,
+            "startDate": start,
+            "endDate": end,
+            "url": post.get("link") or source["base"],
+            "source": source["list"],
+            "checkedAt": today.isoformat(),
+        })
+    return events
 
 
 def scrape_tribe(source, today):
@@ -117,6 +242,11 @@ def main():
             scraped.extend(scrape_tribe(source, today))
         except Exception as error:  # noqa: BLE001 — a dead source must not kill the run
             failures.append(f"{source['seriesId']}: {error}")
+    for source in MEC_SOURCES:
+        try:
+            scraped.extend(scrape_mec(source, today))
+        except Exception as error:  # noqa: BLE001
+            failures.append(f"{source['seriesId']}: {error}")
 
     merged = {e["id"]: e for e in kept}
     added = updated = 0
@@ -133,10 +263,33 @@ def main():
             updated += 1
         merged[event["id"]] = event
 
-    result = sorted(merged.values(), key=lambda e: (e["startDate"], e["id"]))
+    # Organizers overlap: the Diamondback feed also carries the All-Maryland
+    # show we track as its own series. Collapse the same show on the same day
+    # to one entry, keeping whichever id the file already had.
+    previous_ids = {e["id"] for e in existing}
+
+    def natural_key(event):
+        title = re.sub(r"[^a-z0-9]+", "", (event.get("title") or "").lower())
+        return (event["startDate"], event.get("state"), title)
+
+    canonical = {}
+    for event in merged.values():
+        key = natural_key(event)
+        incumbent = canonical.get(key)
+        if incumbent is None:
+            canonical[key] = event
+            continue
+        keep_incumbent = (incumbent["id"] in previous_ids) or (
+            event["id"] not in previous_ids and incumbent["id"] < event["id"]
+        )
+        canonical[key] = incumbent if keep_incumbent else event
+    deduped = len(merged) - len(canonical)
+
+    result = sorted(canonical.values(), key=lambda e: (e["startDate"], e["id"]))
     EVENTS_PATH.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n")
 
-    print(f"pruned={pruned} scraped={len(scraped)} added={added} updated={updated} total={len(result)}")
+    print(f"pruned={pruned} scraped={len(scraped)} added={added} updated={updated} "
+          f"deduped={deduped} total={len(result)}")
     if failures:
         print("source failures (non-fatal):", "; ".join(failures), file=sys.stderr)
 
