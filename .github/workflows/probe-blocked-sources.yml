@@ -1,0 +1,24 @@
+name: Probe blocked sources
+
+# One-off diagnostic. Several organizer sites refuse requests from the
+# maintainer's network, and the open question was whether a US GitHub runner
+# gets through. Datacenter IPs are usually treated worse by bot protection,
+# not better, so this settles it with a fact instead of an assumption.
+on:
+  workflow_dispatch: {}
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Try each blocked source
+        run: |
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
+          for url in \
+            "https://showmereptileshow.com/shows/idaho-repile-shows" \
+            "https://expoidaho.com/events/" \
+            "https://repticon.com/events/" \
+            "https://www.lllreptile.com/events/" ; do
+            code=$(curl -s -o /dev/null -w '%{http_code}' -A "$UA" --max-time 25 "$url" || echo "000")
+            printf '%-60s %s\n' "$url" "$code"
+          done
