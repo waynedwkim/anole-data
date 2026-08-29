@@ -174,7 +174,7 @@
     "title": "Kansas City Reptile Show",
     "city": "Overland Park",
     "state": "KS",
-    "venue": "DoubleTree by Hilton Hotel Kansas City – Overland Park",
+    "venue": "DoubleTree by Hilton Hotel Kansas City \u2013 Overland Park",
     "startDate": "2026-09-13",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/kansas-city-reptile-show-52/",
@@ -418,7 +418,7 @@
   {
     "id": "md-reptile-farm-berryville-2026-10-03",
     "seriesId": "md-reptile-farm",
-    "title": "Northern Virginia Reptile Expo – Berryville",
+    "title": "Northern Virginia Reptile Expo \u2013 Berryville",
     "city": "Berryville",
     "state": "VA",
     "venue": null,
@@ -689,6 +689,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "show-me-reptile-show-albuquerque-2026-10-24",
+    "seriesId": "show-me-reptile-show",
+    "title": "Albuquerque Reptile Expo",
+    "city": "Albuquerque",
+    "state": "NM",
+    "venue": "Expo New Mexico, Creative Arts Center, 300 San Pedro Dr NE",
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-25",
+    "url": "https://www.exponm.com/events?view=list&search=reptile",
+    "source": "https://www.exponm.com/events?view=list&search=reptile",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "wasatch-reptile-expo-salt-lake-city-2026-10-24",
     "seriesId": "wasatch-reptile-expo",
     "title": "Wasatch Reptile Expo",
@@ -759,7 +772,7 @@
     "title": "Kansas City Reptile Show",
     "city": "Overland Park",
     "state": "KS",
-    "venue": "DoubleTree by Hilton Hotel Kansas City – Overland Park",
+    "venue": "DoubleTree by Hilton Hotel Kansas City \u2013 Overland Park",
     "startDate": "2026-11-01",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/kansas-city-reptile-show-53/",
@@ -1211,7 +1224,7 @@
   {
     "id": "md-reptile-farm-fredericksburg-2026-12-19",
     "seriesId": "md-reptile-farm",
-    "title": "Northern Virginia Reptile Expo – Fredericksburg",
+    "title": "Northern Virginia Reptile Expo \u2013 Fredericksburg",
     "city": "Fredericksburg",
     "state": "VA",
     "venue": null,
