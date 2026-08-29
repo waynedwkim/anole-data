@@ -9,7 +9,8 @@
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
     "url": "https://www.herpshow.net/shows",
-    "source": "https://www.herpshow.net/shows"
+    "source": "https://www.herpshow.net/shows",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "reptilian-nation-expo-san-antonio-2026-08-29",
@@ -21,7 +22,8 @@
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
     "url": "https://reptiliannationexpo.com/",
-    "source": "https://reptiliannationexpo.com/"
+    "source": "https://reptiliannationexpo.com/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "east-coast-reptile-super-expo-oaks-2026-09-05",
@@ -33,7 +35,8 @@
     "startDate": "2026-09-05",
     "endDate": null,
     "url": "https://eastcoastreptilesuperexpos.com/info.html",
-    "source": "https://eastcoastreptilesuperexpos.com/info.html"
+    "source": "https://eastcoastreptilesuperexpos.com/info.html",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "reptiday-ft-myers-2026-09-05",
@@ -45,7 +48,8 @@
     "startDate": "2026-09-05",
     "endDate": null,
     "url": "https://repticon.com/florida/reptiday-ft-myers/",
-    "source": "https://repticon.com/show-calendar/"
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "all-maryland-reptile-show-2026-09-12",
@@ -57,7 +61,8 @@
     "startDate": "2026-09-12",
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/",
-    "source": "https://mdreptilefarm.com/events/"
+    "source": "https://mdreptilefarm.com/events/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "herps-conroe-2026-09-12",
@@ -69,7 +74,8 @@
     "startDate": "2026-09-12",
     "endDate": "2026-09-13",
     "url": "https://www.herpshow.net/shows",
-    "source": "https://www.herpshow.net/shows"
+    "source": "https://www.herpshow.net/shows",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "repticon-greenville-2026-09-12",
@@ -81,7 +87,8 @@
     "startDate": "2026-09-12",
     "endDate": "2026-09-13",
     "url": "https://repticon.com/south-carolina/greenville/",
-    "source": "https://repticon.com/show-calendar/"
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "cold-blooded-expos-overland-park-2026-09-13",
@@ -93,7 +100,8 @@
     "startDate": "2026-09-13",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/kansas-city-reptile-show-52/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29",
+    "checkedAt": "2026-08-29"
   },
   {
     "id": "ny-metro-reptile-expo-white-plains-2026-09-13",
@@ -105,7 +113,8 @@
     "startDate": "2026-09-13",
     "endDate": null,
     "url": "https://reptileexpo.com/",
-    "source": "https://reptileexpo.com/"
+    "source": "https://reptileexpo.com/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "reptilian-nation-expo-atlanta-2026-09-19",
@@ -117,7 +126,8 @@
     "startDate": "2026-09-19",
     "endDate": "2026-09-20",
     "url": "https://reptiliannationexpo.com/",
-    "source": "https://reptiliannationexpo.com/"
+    "source": "https://reptiliannationexpo.com/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "cold-blooded-expos-crystal-lake-2026-09-20",
@@ -129,7 +139,8 @@
     "startDate": "2026-09-20",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/chicago-reptile-show-17/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29",
+    "checkedAt": "2026-08-29"
   },
   {
     "id": "herps-abilene-2026-09-26",
@@ -141,7 +152,8 @@
     "startDate": "2026-09-26",
     "endDate": "2026-09-27",
     "url": "https://www.herpshow.net/shows",
-    "source": "https://www.herpshow.net/shows"
+    "source": "https://www.herpshow.net/shows",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "cold-blooded-expos-des-moines-2026-09-27",
@@ -153,7 +165,8 @@
     "startDate": "2026-09-27",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/iowa-reptile-show-32/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29",
+    "checkedAt": "2026-08-29"
   },
   {
     "id": "herps-stillwater-2026-10-03",
@@ -165,7 +178,8 @@
     "startDate": "2026-10-03",
     "endDate": "2026-10-04",
     "url": "https://www.herpshow.net/shows",
-    "source": "https://www.herpshow.net/shows"
+    "source": "https://www.herpshow.net/shows",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "repticon-houston-2026-10-03",
@@ -177,7 +191,8 @@
     "startDate": "2026-10-03",
     "endDate": "2026-10-04",
     "url": "https://repticon.com/texas/houston/",
-    "source": "https://repticon.com/show-calendar/"
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "reptile-super-show-anaheim-2026-10-03",
@@ -189,7 +204,8 @@
     "startDate": "2026-10-03",
     "endDate": "2026-10-04",
     "url": "https://reptilesupershow.com/",
-    "source": "https://reptilesupershow.com/"
+    "source": "https://reptilesupershow.com/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "all-maryland-reptile-show-2026-10-10",
@@ -201,7 +217,8 @@
     "startDate": "2026-10-10",
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/",
-    "source": "https://mdreptilefarm.com/events/"
+    "source": "https://mdreptilefarm.com/events/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "narbc-tinley-park-2026-10-10",
@@ -213,7 +230,8 @@
     "startDate": "2026-10-10",
     "endDate": "2026-10-11",
     "url": "http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html",
-    "source": "http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html"
+    "source": "http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "repticon-denver-2026-10-10",
@@ -225,7 +243,8 @@
     "startDate": "2026-10-10",
     "endDate": "2026-10-11",
     "url": "https://repticon.com/colorado/denver/",
-    "source": "https://repticon.com/show-calendar/"
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "cold-blooded-expos-st-paul-2026-10-11",
@@ -237,7 +256,8 @@
     "startDate": "2026-10-11",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/the-minnesota-reptile-show-41/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29",
+    "checkedAt": "2026-08-29"
   },
   {
     "id": "hamburg-reptile-show-2026-10-17",
@@ -249,7 +269,8 @@
     "startDate": "2026-10-17",
     "endDate": null,
     "url": "https://hamburgreptileshow.com/",
-    "source": "https://hamburgreptileshow.com/"
+    "source": "https://hamburgreptileshow.com/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "herps-alexandria-2026-10-17",
@@ -261,7 +282,8 @@
     "startDate": "2026-10-17",
     "endDate": "2026-10-18",
     "url": "https://www.herpshow.net/shows",
-    "source": "https://www.herpshow.net/shows"
+    "source": "https://www.herpshow.net/shows",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "reptilian-nation-expo-oklahoma-city-2026-10-17",
@@ -273,7 +295,8 @@
     "startDate": "2026-10-17",
     "endDate": "2026-10-18",
     "url": "https://reptiliannationexpo.com/",
-    "source": "https://reptiliannationexpo.com/"
+    "source": "https://reptiliannationexpo.com/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "cold-blooded-expos-bellevue-2026-10-18",
@@ -285,7 +308,8 @@
     "startDate": "2026-10-18",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-26/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29",
+    "checkedAt": "2026-08-29"
   },
   {
     "id": "cold-blooded-expos-overland-park-2026-11-01",
@@ -297,7 +321,8 @@
     "startDate": "2026-11-01",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/kansas-city-reptile-show-53/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29",
+    "checkedAt": "2026-08-29"
   },
   {
     "id": "all-maryland-reptile-show-2026-11-07",
@@ -309,7 +334,8 @@
     "startDate": "2026-11-07",
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/",
-    "source": "https://mdreptilefarm.com/events/"
+    "source": "https://mdreptilefarm.com/events/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "repticon-costa-mesa-2026-11-07",
@@ -321,7 +347,8 @@
     "startDate": "2026-11-07",
     "endDate": "2026-11-08",
     "url": "https://repticon.com/california/los-angeles-costa-mesa/",
-    "source": "https://repticon.com/show-calendar/"
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "herps-sulphur-2026-11-14",
@@ -333,7 +360,8 @@
     "startDate": "2026-11-14",
     "endDate": "2026-11-15",
     "url": "https://www.herpshow.net/shows",
-    "source": "https://www.herpshow.net/shows"
+    "source": "https://www.herpshow.net/shows",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "narbc-st-charles-2026-11-14",
@@ -345,7 +373,8 @@
     "startDate": "2026-11-14",
     "endDate": "2026-11-15",
     "url": "http://www.narbc.com/StLouis/show_info_narbc_stlouis.html",
-    "source": "http://www.narbc.com/StLouis/show_info_narbc_stlouis.html"
+    "source": "http://www.narbc.com/StLouis/show_info_narbc_stlouis.html",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "cold-blooded-expos-des-moines-2026-11-15",
@@ -357,7 +386,8 @@
     "startDate": "2026-11-15",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/iowa-reptile-show-33/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29",
+    "checkedAt": "2026-08-29"
   },
   {
     "id": "east-coast-reptile-super-expo-oaks-2026-11-21",
@@ -369,7 +399,8 @@
     "startDate": "2026-11-21",
     "endDate": null,
     "url": "https://eastcoastreptilesuperexpos.com/info.html",
-    "source": "https://eastcoastreptilesuperexpos.com/info.html"
+    "source": "https://eastcoastreptilesuperexpos.com/info.html",
+    "checkedAt": "2026-08-22"
   },
   {
     "id": "cold-blooded-expos-bellevue-2026-12-06",
@@ -381,6 +412,7 @@
     "startDate": "2026-12-06",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-27/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-29",
+    "checkedAt": "2026-08-29"
   }
 ]

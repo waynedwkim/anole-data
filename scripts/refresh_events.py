@@ -98,6 +98,7 @@ def scrape_tribe(source, today):
             "endDate": end if end and end != start else None,
             "url": item.get("url") or source["base"],
             "source": url,
+            "checkedAt": today.isoformat(),
         })
     return events
 
@@ -119,12 +120,17 @@ def main():
 
     merged = {e["id"]: e for e in kept}
     added = updated = 0
+
+    def substance(event):
+        # checkedAt moves on every run; it shouldn't count as a change.
+        return {k: v for k, v in event.items() if k != "checkedAt"}
+
     for event in scraped:
-        if event["id"] in merged:
-            if merged[event["id"]] != event:
-                updated += 1
-        else:
+        previous = merged.get(event["id"])
+        if previous is None:
             added += 1
+        elif substance(previous) != substance(event):
+            updated += 1
         merged[event["id"]] = event
 
     result = sorted(merged.values(), key=lambda e: (e["startDate"], e["id"]))
