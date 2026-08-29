@@ -1,0 +1,505 @@
+[
+  {
+    "id": "lllreptile",
+    "name": "LLLReptile & Supply Company",
+    "city": "Oceanside",
+    "state": "CA",
+    "latitude": 33.1961,
+    "longitude": -117.3772,
+    "website": "https://www.lllreptile.com",
+    "phone": "(760) 439-8496",
+    "founded": 1996,
+    "tags": [
+      "snakes",
+      "lizards",
+      "supplies",
+      "feeders"
+    ],
+    "blurb": "Southern California reptile chain with multiple locations; the Oceanside shop was its first retail storefront.",
+    "confidence": "high",
+    "sources": [
+      "https://www.lllreptile.com/locations/",
+      "https://reptilesmagazine.com/reptile-retailer-spotlight-lllreptile-of-southern-california/"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "ball-python",
+      "leopard-gecko",
+      "bearded-dragon",
+      "corn-snake",
+      "crested-gecko"
+    ],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "prehistoric-pets",
+    "name": "Prehistoric Pets",
+    "city": "Fountain Valley",
+    "state": "CA",
+    "latitude": 33.6894,
+    "longitude": -117.9532,
+    "website": "https://prehistoricpets.com",
+    "phone": "(714) 500-0591",
+    "founded": 1992,
+    "tags": [
+      "snakes",
+      "lizards",
+      "breeding",
+      "education"
+    ],
+    "blurb": "Jay Brewer's big reptile store sharing a building with The Reptile Zoo attraction; huge YouTube following.",
+    "confidence": "high",
+    "sources": [
+      "https://prehistoricpets.com/",
+      "https://thereptilezoo.com/about/"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [],
+    "speciesUnlisted": true
+  },
+  {
+    "id": "east-bay-vivarium",
+    "name": "East Bay Vivarium",
+    "city": "Berkeley",
+    "state": "CA",
+    "latitude": 37.8696,
+    "longitude": -122.299,
+    "website": "https://www.eastbayvivarium.org",
+    "phone": "(510) 841-1400",
+    "founded": 1970,
+    "tags": [
+      "snakes",
+      "lizards",
+      "amphibians",
+      "supplies",
+      "feeders"
+    ],
+    "blurb": "One of the oldest reptile specialty shops in the country, serving the Bay Area since 1970.",
+    "confidence": "high",
+    "sources": [
+      "https://www.eastbayvivarium.org/",
+      "https://www.visitberkeley.com/directory/east-bay-vivarium/"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [],
+    "speciesUnlisted": true
+  },
+  {
+    "id": "underground-reptiles",
+    "name": "Underground Reptiles",
+    "city": "Deerfield Beach",
+    "state": "FL",
+    "latitude": 26.3208,
+    "longitude": -80.1527,
+    "website": "https://undergroundreptiles.com",
+    "phone": "(954) 428-8434",
+    "founded": null,
+    "tags": [
+      "snakes",
+      "lizards",
+      "geckos",
+      "breeding",
+      "feeders"
+    ],
+    "blurb": "Long-running South Florida reptile shop and breeder with a large retail storefront and heavy expo presence.",
+    "confidence": "high",
+    "sources": [
+      "https://undergroundreptiles.com/about-us/",
+      "https://www.yelp.com/biz/underground-reptiles-deerfield-beach"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "ball-python",
+      "leopard-gecko",
+      "bearded-dragon",
+      "corn-snake",
+      "crested-gecko"
+    ],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "snakes-at-sunset",
+    "name": "Snakes at Sunset",
+    "city": "Miami",
+    "state": "FL",
+    "latitude": 25.7024,
+    "longitude": -80.3347,
+    "website": "https://snakesatsunset.com",
+    "phone": "(305) 757-6253",
+    "founded": null,
+    "tags": [
+      "snakes",
+      "lizards",
+      "feeders",
+      "supplies"
+    ],
+    "blurb": "Miami reptile shop and online seller with a walk-in storefront stocking snakes, lizards, inverts and feeders.",
+    "confidence": "high",
+    "sources": [
+      "https://snakesatsunset.com/",
+      "https://www.yelp.com/biz/snakes-at-sunset-miami"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "ball-python",
+      "leopard-gecko",
+      "bearded-dragon",
+      "corn-snake",
+      "crested-gecko"
+    ],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "the-bio-dude",
+    "name": "The Bio Dude",
+    "city": "Webster",
+    "state": "TX",
+    "latitude": 29.5386,
+    "longitude": -95.1189,
+    "website": "https://www.thebiodude.com",
+    "phone": "(717) 305-0684",
+    "founded": 2017,
+    "tags": [
+      "bioactive",
+      "supplies",
+      "inverts",
+      "feeders"
+    ],
+    "blurb": "Bioactive terrarium specialist in the Houston metro; substrates, plants and kits made in-house, plus a walk-in store.",
+    "confidence": "high",
+    "sources": [
+      "https://www.thebiodude.com/pages/houston-reptile-store",
+      "https://www.yelp.com/biz/the-bio-dude-webster"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "leopard-gecko",
+      "corn-snake"
+    ],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "dfw-reptarium",
+    "name": "DFW Reptarium",
+    "city": "Plano",
+    "state": "TX",
+    "latitude": 33.029,
+    "longitude": -96.7684,
+    "website": "https://www.dfwreptarium.com",
+    "phone": "(972) 596-7350",
+    "founded": null,
+    "tags": [
+      "snakes",
+      "lizards",
+      "inverts",
+      "supplies",
+      "feeders"
+    ],
+    "blurb": "Dallas-area specialty store for reptiles, amphibians and invertebrates, plus feeders, live plants and vivarium supplies.",
+    "confidence": "high",
+    "sources": [
+      "https://www.dfwreptarium.com/",
+      "https://www.yelp.com/biz/dfw-reptarium-plano"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "ball-python",
+      "leopard-gecko",
+      "bearded-dragon",
+      "corn-snake",
+      "crested-gecko"
+    ],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "new-england-reptile-distributors",
+    "name": "New England Reptile Distributors (NERD)",
+    "city": "Plaistow",
+    "state": "NH",
+    "latitude": 42.8466,
+    "longitude": -71.1059,
+    "website": "https://newenglandreptilestore.com",
+    "phone": "(603) 382-2772",
+    "founded": null,
+    "tags": [
+      "snakes",
+      "breeding",
+      "education"
+    ],
+    "blurb": "Kevin McCurley's ball python and boa breeding operation, with a retail store and venomous room open to the public.",
+    "confidence": "high",
+    "sources": [
+      "https://newenglandreptilestore.com/pages/about-nerd",
+      "https://newenglandreptilestore.com/pages/contact-us"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "ball-python",
+      "corn-snake"
+    ],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "jungle-bobs-reptile-world",
+    "name": "Jungle Bob's Reptile World",
+    "city": "Selden",
+    "state": "NY",
+    "latitude": 40.8639,
+    "longitude": -73.047,
+    "website": "https://www.junglebobsreptileworld.com",
+    "phone": "(631) 737-6474",
+    "founded": 2008,
+    "tags": [
+      "snakes",
+      "lizards",
+      "turtles",
+      "supplies",
+      "feeders"
+    ],
+    "blurb": "Long Island's largest reptile store, run by the Jungle Bob Enterprises family of reptile supply brands.",
+    "confidence": "high",
+    "sources": [
+      "https://www.junglebobsreptileworld.com/pages/store-location",
+      "https://www.discoverlongisland.com/listing/jungle-bobs-reptile-world/1422/"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "ball-python",
+      "leopard-gecko",
+      "bearded-dragon",
+      "corn-snake",
+      "crested-gecko"
+    ],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "the-reptarium",
+    "name": "LegaSea Aquarium & The Reptarium",
+    "city": "Utica",
+    "state": "MI",
+    "latitude": 42.6306,
+    "longitude": -83.0325,
+    "website": "https://legaseaaquarium.com",
+    "phone": "(586) 884-6941",
+    "founded": null,
+    "tags": [
+      "snakes",
+      "lizards",
+      "education"
+    ],
+    "blurb": "BHB Reptiles' reptile zoo, expanded in 2025 into LegaSea Aquarium; a ticketed attraction with an on-site shop.",
+    "confidence": "high",
+    "sources": [
+      "https://legaseaaquarium.com/",
+      "https://www.candgnews.com/news/utica-reptarium-expanding-to-include-30000squarefoot-legasea-aquarium-4172"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "reptile-rapture",
+    "name": "Reptile Rapture",
+    "city": "Monona",
+    "state": "WI",
+    "latitude": 43.0492,
+    "longitude": -89.3247,
+    "website": "https://reptilerapture.net",
+    "phone": "(608) 221-0094",
+    "founded": 2005,
+    "tags": [
+      "snakes",
+      "lizards",
+      "supplies",
+      "education",
+      "feeders"
+    ],
+    "blurb": "Madison-area store that stocks reptiles only and no other pets; widely used care sheets and expo regulars.",
+    "confidence": "high",
+    "sources": [
+      "https://reptilerapture.net/our-retail-store.html",
+      "https://reptilesmagazine.com/monona-wisconsins-reptile-rapture/"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "ball-python",
+      "leopard-gecko",
+      "bearded-dragon",
+      "corn-snake",
+      "crested-gecko"
+    ],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "snake-discovery",
+    "name": "Snake Discovery: A Reptile Experience",
+    "city": "Maplewood",
+    "state": "MN",
+    "latitude": 44.9666,
+    "longitude": -92.9859,
+    "website": "https://snakediscovery.com",
+    "phone": "(612) 642-2960",
+    "founded": 2021,
+    "tags": [
+      "snakes",
+      "education",
+      "supplies",
+      "feeders"
+    ],
+    "blurb": "Ticketed reptile zoo, rescue and pet store built by the Snake Discovery YouTube channel; attraction plus retail.",
+    "confidence": "high",
+    "sources": [
+      "https://snakediscovery.com/",
+      "https://www.minnesotamonthly.com/travel-recreation/snake-discovery-and-minnesota-reptile-house-by-youtube-star-emily-roberts/"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [],
+    "speciesUnlisted": true
+  },
+  {
+    "id": "chicago-reptile-house",
+    "name": "The Chicago Reptile House",
+    "city": "Orland Park",
+    "state": "IL",
+    "latitude": 41.6287,
+    "longitude": -87.8501,
+    "website": "https://www.chicagoreptile.net",
+    "phone": "(708) 349-9055",
+    "founded": 1993,
+    "tags": [
+      "snakes",
+      "lizards",
+      "amphibians",
+      "supplies",
+      "feeders"
+    ],
+    "blurb": "Chicagoland reptile and amphibian specialty store open since 1993, long a fixture of the local keeper scene.",
+    "confidence": "high",
+    "sources": [
+      "https://www.chicagoreptile.net/contact-us",
+      "https://www.cbsnews.com/chicago/news/best-pet-shops-for-reptile-owners/"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "ball-python",
+      "leopard-gecko",
+      "bearded-dragon",
+      "corn-snake",
+      "crested-gecko"
+    ],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "scales-n-tails-northglenn",
+    "name": "Scales 'N Tails",
+    "city": "Northglenn",
+    "state": "CO",
+    "latitude": 39.8838,
+    "longitude": -104.9996,
+    "website": "https://www.scalesntails.com",
+    "phone": "(303) 450-6169",
+    "founded": null,
+    "tags": [
+      "snakes",
+      "lizards",
+      "geckos",
+      "supplies",
+      "feeders"
+    ],
+    "blurb": "Exotic reptile chain with multiple locations across CO, UT, NV and AZ; eight of its stores are in Colorado.",
+    "confidence": "high",
+    "sources": [
+      "https://www.scalesntails.com/locations",
+      "https://www.yelp.com/biz/scales-n-tails-northglenn-northglenn-3"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "ball-python",
+      "leopard-gecko",
+      "bearded-dragon",
+      "corn-snake",
+      "crested-gecko"
+    ],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "predators-reptile-center",
+    "name": "Predators Reptile Center",
+    "city": "Mesa",
+    "state": "AZ",
+    "latitude": 33.3796,
+    "longitude": -111.8744,
+    "website": "https://predatorsreptile.com",
+    "phone": "(480) 668-6369",
+    "founded": null,
+    "tags": [
+      "snakes",
+      "lizards",
+      "breeding",
+      "supplies",
+      "feeders"
+    ],
+    "blurb": "Long-established Phoenix-area reptile store and breeder that also promotes regional reptile trade shows.",
+    "confidence": "high",
+    "sources": [
+      "https://predatorsreptile.com/",
+      "https://www.yelp.com/biz/predators-reptile-center-mesa"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "ball-python",
+      "leopard-gecko",
+      "bearded-dragon",
+      "crested-gecko"
+    ],
+    "speciesUnlisted": false
+  },
+  {
+    "id": "the-reptile-zone",
+    "name": "The Reptile Zone",
+    "city": "Bend",
+    "state": "OR",
+    "latitude": 44.0602,
+    "longitude": -121.298,
+    "website": "https://www.thereptilezone.com",
+    "phone": "(541) 728-0620",
+    "founded": null,
+    "tags": [
+      "snakes",
+      "lizards",
+      "supplies",
+      "feeders"
+    ],
+    "blurb": "Central Oregon's reptile specialty store, stocking reptiles, amphibians, invertebrates, feeders and supplies.",
+    "confidence": "high",
+    "sources": [
+      "https://www.thereptilezone.com/",
+      "https://www.yelp.com/biz/the-reptile-zone-bend"
+    ],
+    "source": "curated",
+    "verifiedAt": "2026-08",
+    "species": [
+      "ball-python",
+      "leopard-gecko",
+      "bearded-dragon",
+      "corn-snake",
+      "crested-gecko"
+    ],
+    "speciesUnlisted": false
+  }
+]
