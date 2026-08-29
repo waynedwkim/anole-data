@@ -598,6 +598,19 @@
     "checkedAt": "2026-08-22"
   },
   {
+    "id": "hamburg-reptile-show-morgantown-2026-12-05",
+    "seriesId": "hamburg-reptile-show",
+    "title": "Hamburg Reptile Show",
+    "city": "Morgantown",
+    "state": "PA",
+    "venue": "Morgantown Event Center",
+    "startDate": "2026-12-05",
+    "endDate": null,
+    "url": "https://hamburgreptileshow.com/",
+    "source": "https://hamburgreptileshow.com/",
+    "checkedAt": "2026-08-29"
+  },
+  {
     "id": "cold-blooded-expos-bellevue-2026-12-06",
     "seriesId": "cold-blooded-expos",
     "title": "Nebraska Reptile Show",
