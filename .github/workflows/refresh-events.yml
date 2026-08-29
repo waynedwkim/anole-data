@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   refresh:
@@ -16,16 +17,67 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - name: Refresh events.json
         run: python scripts/refresh_events.py
+
       - name: Commit if changed
         run: |
-          if ! git diff --quiet events.json; then
+          if ! git diff --quiet events.json health.json; then
             git config user.name "scalespot-bot"
             git config user.email "actions@github.com"
-            git add events.json
+            git add events.json health.json
             git commit -m "Auto-refresh events feed ($(date -u +%Y-%m-%d))"
             git push
           else
             echo "No changes."
+          fi
+
+      # The refresh only prunes. Left alone the calendar shrinks quietly, which
+      # looks exactly like an abandoned app. Say it out loud instead.
+      - name: Report series that ran dry
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY' > body.md
+          import json, pathlib
+          health = json.loads(pathlib.Path("health.json").read_text())
+          empty, expiring = health["empty"], health["expiring"]
+          print(f"Feed check for **{health['checkedAt']}** — "
+                f"{health['totalEvents']} events across {health['states']} states, "
+                f"{health['seriesWithEvents']}/{health['seriesTracked']} series with a date on the books.\n")
+          if empty:
+              print("### Out of dates\n")
+              for r in empty:
+                  site = f" — {r['website']}" if r.get("website") else ""
+                  print(f"- [ ] **{r['name']}**{site}")
+              print()
+          if expiring:
+              print("### Last date is close\n")
+              for r in expiring:
+                  site = f" — {r['website']}" if r.get("website") else ""
+                  print(f"- [ ] **{r['name']}** runs out after `{r['lastDate']}`{site}")
+              print()
+          print("Check each organizer's own page or the venue's booking calendar. "
+                "Aggregator and vendor-schedule dates do not count as a source.")
+          PY
+
+          NEEDS=$(python -c "import json;h=json.load(open('health.json'));print(len(h['empty'])+len(h['expiring']))")
+          TITLE="Expo calendar needs restocking"
+          EXISTING=$(gh issue list --state open --search "$TITLE in:title" --json number --jq '.[0].number')
+
+          if [ "$NEEDS" -eq 0 ]; then
+            if [ -n "$EXISTING" ]; then
+              gh issue close "$EXISTING" --comment "Every tracked series has an upcoming date again."
+            fi
+            echo "Nothing running dry."
+            exit 0
+          fi
+
+          if [ -n "$EXISTING" ]; then
+            gh issue edit "$EXISTING" --body-file body.md
+            echo "Updated issue #$EXISTING"
+          else
+            gh issue create --title "$TITLE" --body-file body.md --label "" || \
+              gh issue create --title "$TITLE" --body-file body.md
           fi

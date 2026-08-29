@@ -15,6 +15,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 EVENTS_PATH = ROOT / "events.json"
+ROSTER_PATH = ROOT / "series_roster.json"
+HEALTH_PATH = ROOT / "health.json"
+
+# A series is "running dry" once its last known date is this close. That is
+# about how long it takes to find a replacement date, email an organizer, and
+# wait for a reply.
+DRY_HORIZON_DAYS = 60
 
 # Sources with a working The Events Calendar REST API.
 # Repticon stays manual: it is Cloudflare-gated on every route we know
@@ -228,6 +235,61 @@ def scrape_tribe(source, today):
     return events
 
 
+def write_health(events, today):
+    """The refresh only ever prunes, so a neglected series doesn't break —
+    it silently empties. Nobody notices a calendar that got smaller. This
+    writes down what ran out so the workflow can say so out loud.
+    """
+    roster = json.loads(ROSTER_PATH.read_text()) if ROSTER_PATH.exists() else []
+    horizon = (today + timedelta(days=DRY_HORIZON_DAYS)).isoformat()
+
+    last_date = {}
+    counts = {}
+    for event in events:
+        series = event.get("seriesId")
+        if not series:
+            continue
+        counts[series] = counts.get(series, 0) + 1
+        end = event.get("endDate") or event["startDate"]
+        if end > last_date.get(series, ""):
+            last_date[series] = end
+
+    empty, expiring = [], []
+    for entry in roster:
+        series = entry["id"]
+        record = {
+            "id": series,
+            "name": entry.get("name") or series,
+            "website": entry.get("website"),
+            "upcoming": counts.get(series, 0),
+            "lastDate": last_date.get(series),
+        }
+        if record["upcoming"] == 0:
+            empty.append(record)
+        elif record["lastDate"] and record["lastDate"] < horizon:
+            expiring.append(record)
+
+    states = sorted({e["state"] for e in events if e.get("state")})
+    health = {
+        "checkedAt": today.isoformat(),
+        "totalEvents": len(events),
+        "states": len(states),
+        "seriesTracked": len(roster),
+        "seriesWithEvents": len([r for r in roster if counts.get(r["id"])]),
+        "empty": sorted(empty, key=lambda r: r["name"]),
+        "expiring": sorted(expiring, key=lambda r: r["lastDate"]),
+    }
+    HEALTH_PATH.write_text(json.dumps(health, indent=2, ensure_ascii=False) + "\n")
+
+    print(f"health: {len(events)} events across {len(states)} states; "
+          f"{len(empty)} series empty, {len(expiring)} running dry within {DRY_HORIZON_DAYS}d")
+    for record in empty:
+        print(f"  EMPTY    {record['name']}")
+    for record in expiring:
+        print(f"  DRY BY   {record['lastDate']}  {record['name']}")
+    return health
+
+
 def main():
     today = date.today()
     cutoff = (today - timedelta(days=1)).isoformat()
@@ -287,6 +349,8 @@ def main():
 
     result = sorted(canonical.values(), key=lambda e: (e["startDate"], e["id"]))
     EVENTS_PATH.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n")
+
+    write_health(result, today)
 
     print(f"pruned={pruned} scraped={len(scraped)} added={added} updated={updated} "
           f"deduped={deduped} total={len(result)}")

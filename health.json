@@ -1,0 +1,102 @@
+{
+  "checkedAt": "2026-08-29",
+  "totalEvents": 136,
+  "states": 36,
+  "seriesTracked": 35,
+  "seriesWithEvents": 34,
+  "empty": [
+    {
+      "id": "national-reptile-breeders-expo",
+      "name": "National Reptile Breeders' Expo",
+      "website": "https://www.reptilebreedersexpo.com/",
+      "upcoming": 0,
+      "lastDate": null
+    }
+  ],
+  "expiring": [
+    {
+      "id": "kentucky-reptile-expo",
+      "name": "Kentucky Reptile Expo",
+      "website": "https://www.kentuckyreptileexpo.com/",
+      "upcoming": 1,
+      "lastDate": "2026-09-19"
+    },
+    {
+      "id": "nw-reptile-expos",
+      "name": "Northwest Reptile Expos",
+      "website": "https://nwreptileexpos.com/",
+      "upcoming": 1,
+      "lastDate": "2026-09-19"
+    },
+    {
+      "id": "cleveland-reptile-show",
+      "name": "Cleveland Reptile Show & Sale",
+      "website": "https://www.facebook.com/clevreptileshow/",
+      "upcoming": 1,
+      "lastDate": "2026-09-20"
+    },
+    {
+      "id": "washington-reptile-expos",
+      "name": "Washington Reptile Expos",
+      "website": "https://washingtonreptileexpos.com/",
+      "upcoming": 1,
+      "lastDate": "2026-09-26"
+    },
+    {
+      "id": "sacramento-reptile-show",
+      "name": "Sacramento Reptile Show",
+      "website": "https://sacreptileshow.com/",
+      "upcoming": 1,
+      "lastDate": "2026-09-27"
+    },
+    {
+      "id": "reptile-super-show",
+      "name": "Reptile Super Show",
+      "website": "https://reptilesupershow.com/",
+      "upcoming": 1,
+      "lastDate": "2026-10-04"
+    },
+    {
+      "id": "tucson-reptile-show",
+      "name": "Tucson Reptile & Amphibian Show",
+      "website": "https://tucsonreptileshow.com/",
+      "upcoming": 1,
+      "lastDate": "2026-10-04"
+    },
+    {
+      "id": "pacnwrs",
+      "name": "Pacific NW Reptile & Exotic Animal Show",
+      "website": "https://www.pacnwrs.com/",
+      "upcoming": 1,
+      "lastDate": "2026-10-11"
+    },
+    {
+      "id": "saratoga-reptile-show",
+      "name": "Saratoga Reptile Show",
+      "website": "https://www.saratogareptileshow.com/",
+      "upcoming": 1,
+      "lastDate": "2026-10-11"
+    },
+    {
+      "id": "reptilian-nation-expo",
+      "name": "Reptilian Nation Expo",
+      "website": "https://reptiliannationexpo.com/",
+      "upcoming": 3,
+      "lastDate": "2026-10-18"
+    },
+    {
+      "id": "sewerfest",
+      "name": "SEWERFest",
+      "website": "https://www.sewerfest.com/",
+      "upcoming": 1,
+      "lastDate": "2026-10-25"
+    },
+    {
+      "id": "wasatch-reptile-expo",
+      "name": "Wasatch Reptile Expo",
+      "website": "https://wasatchreptileexpo.com/WRE/Page_1x.html",
+      "upcoming": 1,
+      "lastDate": "2026-10-25"
+    }
+  ]
+}
