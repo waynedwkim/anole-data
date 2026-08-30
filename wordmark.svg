@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <!-- Type-only lockup. The icon carries recognition on the home screen; on a
+       web page the name does that work, so the wordmark stays out of its way.
+       currentColor lets one file serve both the light and dark site themes. -->
+  <text x="0" y="176"
+        font-family="Avenir Next, -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="150" font-weight="600" letter-spacing="-5" fill="currentColor">Anole</text>
+  <text x="6" y="232"
+        font-family="Avenir Next, -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="25" font-weight="600" letter-spacing="6.5" fill="#1f7a4d">VERIFIED REPTILE EXPOS</text>
+</svg>
