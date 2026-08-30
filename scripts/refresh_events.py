@@ -131,7 +131,7 @@ def tidy_venue(value):
     return value
 
 
-USER_AGENT = "scalespot-data/1.0 (+https://github.com/waynedwkim/scalespot-data)"
+USER_AGENT = "anole-data/1.0 (+https://github.com/waynedwkim/anole-data)"
 
 
 def fetch_json(url):

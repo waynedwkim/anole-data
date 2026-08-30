@@ -24,7 +24,7 @@ jobs:
       - name: Commit if changed
         run: |
           if ! git diff --quiet events.json health.json; then
-            git config user.name "scalespot-bot"
+            git config user.name "anole-bot"
             git config user.email "actions@github.com"
             git add events.json health.json
             git commit -m "Auto-refresh events feed ($(date -u +%Y-%m-%d))"

@@ -1,6 +1,6 @@
-# scalespot-data
+# anole-data
 
-Public data feed for the [ScaleSpot](https://github.com/waynedwkim/scalespot) iOS app (US reptile shop & expo finder).
+Public data feed for the [Anole](https://github.com/waynedwkim/anole) iOS app (US reptile shop & expo finder).
 
 - `events.json` — upcoming US reptile expo events. The app fetches this at launch, so updating this file updates every installed app without an App Store release.
 

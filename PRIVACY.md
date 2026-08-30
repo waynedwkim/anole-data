@@ -1,8 +1,8 @@
-# ScaleSpot Privacy Policy
+# Anole Privacy Policy
 
 _Last updated: August 22, 2026_
 
-ScaleSpot does not collect, store, or transmit any personal data to us or to third parties.
+Anole does not collect, store, or transmit any personal data to us or to third parties.
 
 ## Location
 
@@ -10,11 +10,11 @@ If you grant location permission, your location is used **on-device only** to ce
 
 ## Map searches
 
-Shop searches are performed through Apple Maps (MapKit). Those requests are handled by Apple and are subject to [Apple's privacy policy](https://www.apple.com/legal/privacy/). ScaleSpot adds no identifiers to these requests.
+Shop searches are performed through Apple Maps (MapKit). Those requests are handled by Apple and are subject to [Apple's privacy policy](https://www.apple.com/legal/privacy/). Anole adds no identifiers to these requests.
 
 ## Calendar
 
-If you use "Add to calendar," ScaleSpot requests **write-only** calendar access and creates the single event you chose. It cannot read your existing calendar. Choosing Google Calendar simply opens Google's event page in your browser.
+If you use "Add to calendar," Anole requests **write-only** calendar access and creates the single event you chose. It cannot read your existing calendar. Choosing Google Calendar simply opens Google's event page in your browser.
 
 ## Saved shops
 
@@ -22,7 +22,7 @@ Your saved (favorited) shops are stored locally on your device and are never upl
 
 ## Analytics & tracking
 
-ScaleSpot contains no analytics SDKs, no advertising, and no tracking of any kind.
+Anole contains no analytics SDKs, no advertising, and no tracking of any kind.
 
 ## Contact
 
