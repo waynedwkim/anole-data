@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Washington Reptile Expos
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Washington Reptile Expos — dates verified against the organi
+ zer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:washington-reptile-expos-spokane-2026-09-26@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Spokane Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Spokane County Fairgrounds\, Spokane\, WA
+URL:https://washingtonreptileexpos.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

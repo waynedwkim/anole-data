@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Reptilian Nation Expo
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Reptilian Nation Expo — dates verified against the organizer
+ .
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:reptilian-nation-expo-san-antonio-2026-08-29@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Reptilian Nation Expo San Antonio
+TRANSP:TRANSPARENT
+LOCATION:Freeman Expo Hall\, San Antonio\, TX
+URL:https://reptiliannationexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:reptilian-nation-expo-atlanta-2026-09-19@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Reptilian Nation Expo Atlanta
+TRANSP:TRANSPARENT
+LOCATION:Cobb Galleria\, Atlanta\, GA
+URL:https://reptiliannationexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:reptilian-nation-expo-oklahoma-city-2026-10-17@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Reptilian Nation Expo Oklahoma City
+TRANSP:TRANSPARENT
+LOCATION:Oklahoma City Convention Center\, Oklahoma City\, OK
+URL:https://reptiliannationexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

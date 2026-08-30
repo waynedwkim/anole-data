@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NY Metro ReptileExpo
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:NY Metro ReptileExpo — dates verified against the organizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2026-09-13@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2026-11-22@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2027-01-31@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2027-04-11@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2027-07-11@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2027-09-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2027-11-21@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

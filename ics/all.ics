@@ -1,0 +1,1695 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:US reptile expos — verified
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:US reptile expos — verified — dates verified against the o
+ rganizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:herps-bryan-college-station-2026-08-29@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:HERPS Bryan-College Station
+TRANSP:TRANSPARENT
+LOCATION:Bryan-College Station\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-trussville-2026-08-29@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Repticon Birmingham
+TRANSP:TRANSPARENT
+LOCATION:Trussville Civic Center\, 5381 Trussville Clay Rd\, Trussville\, A
+ L
+URL:https://www.trussvilletribune.com/2026/08/04/repticon-returning-to-trus
+ sville-in-august/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:reptilian-nation-expo-san-antonio-2026-08-29@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Reptilian Nation Expo San Antonio
+TRANSP:TRANSPARENT
+LOCATION:Freeman Expo Hall\, San Antonio\, TX
+URL:https://reptiliannationexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-green-bay-2026-08-30@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Scaled Up Reptile Expo - Green Bay
+TRANSP:TRANSPARENT
+LOCATION:Oneida Hotel and Conference Center\, 2040 Airport Dr\, Green Bay\,
+  WI
+URL:https://www.scaledupexpos.com/green-bay-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:east-coast-reptile-super-expo-oaks-2026-09-05@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:East Coast Reptile Super Expo
+TRANSP:TRANSPARENT
+LOCATION:Greater Philadelphia Expo Center\, Oaks\, PA
+URL:https://eastcoastreptilesuperexpos.com/info.html
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:reptiday-ft-myers-2026-09-05@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:ReptiDay Ft Myers
+TRANSP:TRANSPARENT
+LOCATION:Ft Myers\, FL
+URL:https://repticon.com/florida/reptiday-ft-myers/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:all-maryland-reptile-show-2026-09-12@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:All-Maryland Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Havre de Grace Community Center\, Havre de Grace\, MD
+URL:https://mdreptilefarm.com/events/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cin-city-reptile-show-west-chester-2026-09-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Cin City Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Holiday Inn - West Chester\, West Chester\, OH
+URL:https://www.cincityreptileshow.com/show-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-del-mar-2026-09-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Del Mar/San Diego Mega Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Del Mar Fairgrounds (O'Brien Hall)\, 2260 Jimmy Durante Blvd.\, De
+ l Mar\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-conroe-2026-09-12@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:HERPS Conroe
+TRANSP:TRANSPARENT
+LOCATION:Conroe\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:kalamazoo-reptile-expo-kalamazoo-2026-09-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Kalamazoo Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Kalamazoo County Expo Center (2900 Lake St)\, Kalamazoo\, MI
+URL:https://collisonzoo.com/kalamazooreptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-reptile-show-taylor-2026-09-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Michigan Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Taylor Town Trade Center\, 22525 Ecorse Rd\, Taylor\, MI
+URL:https://www.michiganreptileshow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-greenville-2026-09-12@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Repticon Greenville
+TRANSP:TRANSPARENT
+LOCATION:Greenville\, SC
+URL:https://repticon.com/south-carolina/greenville/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cold-blooded-expos-overland-park-2026-09-13@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Kansas City Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:DoubleTree by Hilton Hotel Kansas City – Overland Park\, Overlan
+ d Park\, KS
+URL:https://coldbloodedexpos.com/reptile-show/kansas-city-reptile-show-52/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:md-reptile-farm-state-college-2026-09-13@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:State College PA Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:State College\, PA
+URL:https://mdreptilefarm.com/events/state-college-pa-reptile-show-829-665-
+ 850-912/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2026-09-13@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:all-ohio-reptile-show-hilliard-2026-09-19@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:All Ohio Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Franklin County Fairgrounds\, Hilliard\, OH
+URL:https://www.columbusonthecheap.com/all-ohio-reptile-show/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-las-vegas-2026-09-19@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Las Vegas Exotic Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:World Market Center (North Hall)\, 435 S. Grand Central Parkway\, 
+ Las Vegas\, NV
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:kentucky-reptile-expo-lexington-2026-09-19@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Kentucky Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Central Bank Center\, 430 W Vine St\, Lexington\, KY
+URL:https://www.centralbankcenter.com/events/detail/kentucky-reptile-expo-3
+ 6
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:nw-reptile-expos-central-point-2026-09-19@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Medford Metro Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Jackson County Expo\, Central Point\, OR
+URL:https://nwreptileexpos.com/events/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:reptilian-nation-expo-atlanta-2026-09-19@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Reptilian Nation Expo Atlanta
+TRANSP:TRANSPARENT
+LOCATION:Cobb Galleria\, Atlanta\, GA
+URL:https://reptiliannationexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cleveland-reptile-show-medina-2026-09-20@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Cleveland Reptile Show & Sale
+TRANSP:TRANSPARENT
+LOCATION:Medina County Fairgrounds\, Medina\, OH
+URL:https://www.zerklereptilecompany.com/current-show-schedule
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cold-blooded-expos-crystal-lake-2026-09-20@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Chicago Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Holiday Inn Crystal Lake\, Crystal Lake\, IL
+URL:https://coldbloodedexpos.com/reptile-show/chicago-reptile-show-17/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:midwest-reptile-show-indianapolis-2026-09-20@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Midwest Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Indiana State Fairgrounds - Harvest Pavilion\, Indianapolis\, IN
+URL:https://www.midwestreptile.com/index.php?target=dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2026-09-20@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/rothschild-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2026-09-20@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:West Virginia Reptile Expo (Charleston area)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-abilene-2026-09-26@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:HERPS Abilene
+TRANSP:TRANSPARENT
+LOCATION:Abilene\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:md-reptile-farm-york-2026-09-26@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Reptiles at the York Expo
+TRANSP:TRANSPARENT
+LOCATION:York\, PA
+URL:https://mdreptilefarm.com/events/reptiles-at-the-york-expo-923-562-461-
+ 772-907-331/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:sacramento-reptile-show-sacramento-2026-09-26@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Sacramento Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Cal Expo Pavilion\, 1600 Exposition Blvd\, Sacramento\, CA
+URL:https://calexpo.com/event/sac-reptile-show/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-reptile-expos-spokane-2026-09-26@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Spokane Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Spokane County Fairgrounds\, Spokane\, WA
+URL:https://washingtonreptileexpos.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cold-blooded-expos-des-moines-2026-09-27@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Iowa Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Hilton Garden Inn West Des Moines\, Des Moines\, IA
+URL:https://coldbloodedexpos.com/reptile-show/iowa-reptile-show-32/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-stillwater-2026-10-03@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:HERPS Stillwater
+TRANSP:TRANSPARENT
+LOCATION:Stillwater\, OK
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:md-reptile-farm-berryville-2026-10-03@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Northern Virginia Reptile Expo – Berryville
+TRANSP:TRANSPARENT
+LOCATION:Berryville\, VA
+URL:https://mdreptilefarm.com/events/northern-virginia-reptile-expo-554-642
+ -785-132-354-513-410-272-114/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-houston-2026-10-03@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Repticon Houston
+TRANSP:TRANSPARENT
+LOCATION:Houston\, TX
+URL:https://repticon.com/texas/houston/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:reptile-super-show-anaheim-2026-10-03@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Reptile Super Show Anaheim
+TRANSP:TRANSPARENT
+LOCATION:Anaheim Convention Center Hall D\, Anaheim\, CA
+URL:https://reptilesupershow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:tucson-reptile-show-tucson-2026-10-03@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Tucson Reptile & Amphibian Show
+TRANSP:TRANSPARENT
+LOCATION:Pima County Fairgrounds (Old Pueblo Hall)\, Tucson\, AZ
+URL:https://tucsonreptileshow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-fond-du-lac-2026-10-04@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Scaled Up Reptile Expo - Fond du Lac
+TRANSP:TRANSPARENT
+LOCATION:Fond du Lac County Fairgrounds\, 520 Fond du Lac Ave\, Fond du Lac
+ \, WI
+URL:https://www.scaledupexpos.com/fond-du-lac-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:all-maryland-reptile-show-2026-10-10@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:All-Maryland Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Havre de Grace Community Center\, Havre de Grace\, MD
+URL:https://mdreptilefarm.com/events/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-reptile-show-taylor-2026-10-10@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Michigan Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Taylor Town Trade Center\, 22525 Ecorse Rd\, Taylor\, MI
+URL:https://www.michiganreptileshow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:narbc-tinley-park-2026-10-10@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:NARBC Tinley Park
+TRANSP:TRANSPARENT
+LOCATION:Tinley Park Convention Center\, Tinley Park\, IL
+URL:http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:pacnwrs-hillsboro-2026-10-10@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Pacific NW Reptile & Exotic Animal Show
+TRANSP:TRANSPARENT
+LOCATION:Westside Commons\, Hillsboro\, OR
+URL:https://www.pacnwrs.com/upcoming-events
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-denver-2026-10-10@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Repticon Denver
+TRANSP:TRANSPARENT
+LOCATION:Denver\, CO
+URL:https://repticon.com/colorado/denver/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cold-blooded-expos-st-paul-2026-10-11@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:The Minnesota Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:North End Event Center @ MN State Fairgrounds\, St. Paul\, MN
+URL:https://coldbloodedexpos.com/reptile-show/the-minnesota-reptile-show-41
+ /
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:saratoga-reptile-show-saratoga-springs-2026-10-11@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Saratoga Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Saratoga Springs City Center\, 522 Broadway\, Saratoga Springs\, N
+ Y
+URL:https://www.saratogareptileshow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:all-ohio-reptile-show-hilliard-2026-10-17@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:All Ohio Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Franklin County Fairgrounds\, Hilliard\, OH
+URL:https://www.columbusonthecheap.com/all-ohio-reptile-show/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-san-luis-obispo-2026-10-17@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:San Luis Obispo Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Madonna Inn\, 100 Madonna Road\, San Luis Obispo\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:hamburg-reptile-show-2026-10-17@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Hamburg Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Morgantown Event Center\, Morgantown\, PA
+URL:https://hamburgreptileshow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-alexandria-2026-10-17@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:HERPS Alexandria
+TRANSP:TRANSPARENT
+LOCATION:Alexandria\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:kalamazoo-reptile-expo-kalamazoo-2026-10-17@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Kalamazoo Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Kalamazoo County Expo Center (2900 Lake St)\, Kalamazoo\, MI
+URL:https://collisonzoo.com/kalamazooreptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:reptilian-nation-expo-oklahoma-city-2026-10-17@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Reptilian Nation Expo Oklahoma City
+TRANSP:TRANSPARENT
+LOCATION:Oklahoma City Convention Center\, Oklahoma City\, OK
+URL:https://reptiliannationexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:show-me-reptile-show-boise-2026-10-17@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Boise Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Expo Idaho\, 5610 N Glenwood St\, Boise\, ID
+URL:https://expoidaho.com/event/show-me-reptile-exotics-show-19/2026-10-17/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:show-me-reptile-show-knoxville-2026-10-17@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Show Me Reptile Show - Knoxville
+TRANSP:TRANSPARENT
+LOCATION:Knoxville Expo Center\, 5441 Clinton Hwy\, Knoxville\, TN
+URL:https://www.knoxvilleexpocenter.com/events/show-me-reptiles-show-9/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cin-city-reptile-show-west-chester-2026-10-18@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Cin City Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Holiday Inn - West Chester\, West Chester\, OH
+URL:https://www.cincityreptileshow.com/show-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cold-blooded-expos-bellevue-2026-10-18@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Nebraska Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Courtyard Marriott Bellevue At Beardmore Event Center\, Bellevue\,
+  NE
+URL:https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-26/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:show-me-reptile-show-albuquerque-2026-10-24@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Albuquerque Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Expo New Mexico\, Creative Arts Center\, 300 San Pedro Dr NE\, Alb
+ uquerque\, NM
+URL:https://www.exponm.com/events?view=list&search=reptile
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:wasatch-reptile-expo-salt-lake-city-2026-10-24@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Wasatch Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Utah State Fairpark\, Salt Lake City\, UT
+URL:https://wasatchreptileexpo.com/WRE/Page_1x.html
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:md-reptile-farm-boonsboro-2026-10-25@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Washington County Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Boonsboro\, MD
+URL:https://mdreptilefarm.com/events/washington-county-reptile-show-629-395
+ /
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:sewerfest-sturtevant-2026-10-25@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:SEWERFest Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Fountain Banquet Hall\, Sturtevant\, WI
+URL:https://www.sewerfest.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2026-10-25@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:md-reptile-farm-york-2026-10-31@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Reptiles at the York Expo
+TRANSP:TRANSPARENT
+LOCATION:York\, PA
+URL:https://mdreptilefarm.com/events/reptiles-at-the-york-expo-923-562-461-
+ 772-907/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cold-blooded-expos-overland-park-2026-11-01@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Kansas City Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:DoubleTree by Hilton Hotel Kansas City – Overland Park\, Overlan
+ d Park\, KS
+URL:https://coldbloodedexpos.com/reptile-show/kansas-city-reptile-show-53/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:kalamazoo-reptile-expo-kalamazoo-2026-11-01@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Kalamazoo Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Kalamazoo County Expo Center (2900 Lake St)\, Kalamazoo\, MI
+URL:https://collisonzoo.com/kalamazooreptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:all-maryland-reptile-show-2026-11-07@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:All-Maryland Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Havre de Grace Community Center\, Havre de Grace\, MD
+URL:https://mdreptilefarm.com/events/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-ventura-2026-11-07@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Ventura Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Ventura County Fairgrounds\, 10 West Harbor Boulevard\, Ventura\, 
+ CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-costa-mesa-2026-11-07@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Repticon Costa Mesa
+TRANSP:TRANSPARENT
+LOCATION:Costa Mesa\, CA
+URL:https://repticon.com/california/los-angeles-costa-mesa/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-la-crosse-2026-11-07@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Scaled Up Reptile Expo - La Crosse
+TRANSP:TRANSPARENT
+LOCATION:La Crosse Center\, 300 Harborview Plaza\, La Crosse\, WI
+URL:https://www.scaledupexpos.com/la-crosse-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cin-city-reptile-show-west-chester-2026-11-08@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Cin City Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Holiday Inn - West Chester\, West Chester\, OH
+URL:https://www.cincityreptileshow.com/show-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:midwest-reptile-show-indianapolis-2026-11-08@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Midwest Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Indiana State Fairgrounds - Harvest Pavilion\, Indianapolis\, IN
+URL:https://www.midwestreptile.com/index.php?target=dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:new-england-reptile-expo-manchester-2026-11-08@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:New England ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:DoubleTree Hotel\, 700 Elm Street\, Manchester\, NH
+URL:https://reptileexpo.com/new-hampshire-reptile-expo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-madison-2026-11-08@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Scaled Up Reptile Expo - Madison
+TRANSP:TRANSPARENT
+LOCATION:Madison Marriott West Conference Center\, 1313 John Q Hammons Dr\,
+  Middleton\, Madison\, WI
+URL:https://www.scaledupexpos.com/madison-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:all-ohio-reptile-show-hilliard-2026-11-14@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:All Ohio Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Franklin County Fairgrounds\, Hilliard\, OH
+URL:https://www.columbusonthecheap.com/all-ohio-reptile-show/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-lancaster-2026-11-14@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Lancaster Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:AV Fair & Event Center\, 2551 West Avenue H\, Lancaster\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-sulphur-2026-11-14@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:HERPS Sulphur
+TRANSP:TRANSPARENT
+LOCATION:Sulphur\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:md-reptile-farm-richmond-2026-11-14@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Richmond Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Richmond\, VA
+URL:https://mdreptilefarm.com/events/richmond-reptile-expo-484-441-233/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-reptile-show-taylor-2026-11-14@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Michigan Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Taylor Town Trade Center\, 22525 Ecorse Rd\, Taylor\, MI
+URL:https://www.michiganreptileshow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:narbc-st-charles-2026-11-14@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:NARBC St. Charles
+TRANSP:TRANSPARENT
+LOCATION:Saint Charles Convention Center\, St. Charles\, MO
+URL:http://www.narbc.com/StLouis/show_info_narbc_stlouis.html
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cold-blooded-expos-des-moines-2026-11-15@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Iowa Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Hilton Garden Inn West Des Moines\, Des Moines\, IA
+URL:https://coldbloodedexpos.com/reptile-show/iowa-reptile-show-33/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:massachusetts-reptile-expo-hanover-2026-11-15@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Massachusetts Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Starland Sportsplex\, 637 Washington St\, Hanover\, MA
+URL:https://www.neherp.com/pages/massachusetts-reptile-expo
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:east-coast-reptile-super-expo-oaks-2026-11-21@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:East Coast Reptile Super Expo
+TRANSP:TRANSPARENT
+LOCATION:Greater Philadelphia Expo Center\, Oaks\, PA
+URL:https://eastcoastreptilesuperexpos.com/info.html
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-reptile-expo-mesa-2026-11-21@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:Phoenix Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Mesa Convention Center\, Mesa\, AZ
+URL:http://www.phxreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2026-11-22@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2026-11-22@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:West Virginia Reptile Expo (Charleston area)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:exotic-pet-expos-paris-2026-11-28@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Exotic Pet Expo - Paris TN
+TRANSP:TRANSPARENT
+LOCATION:Henry County Fairgrounds\, 517 Royal Oak Dr\, Paris\, TN
+URL:https://www.exoticpetexpos.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-raleigh-2026-11-28@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Repticon Raleigh
+TRANSP:TRANSPARENT
+LOCATION:Agri Supply Exposition Center\, NC State Fairgrounds\, 4825 Trinit
+ y Rd\, Raleigh\, NC
+URL:https://www.visitraleigh.com/event/repticon-2026/104758/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:hamburg-reptile-show-morgantown-2026-12-05@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Hamburg Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Morgantown Event Center\, Morgantown\, PA
+URL:https://hamburgreptileshow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cold-blooded-expos-bellevue-2026-12-06@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Nebraska Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Courtyard Marriott Bellevue At Beardmore Event Center\, Bellevue\,
+  NE
+URL:https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-27/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-san-bernardino-2026-12-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:San Bernardino Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:National Orange Show @ NOS Event Center\, 690 S. Arrowhead Avenue\
+ , Gate 8\, San Bernardino\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:md-reptile-farm-havre-de-grace-2026-12-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:All-Maryland Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Havre De Grace\, MD
+URL:https://mdreptilefarm.com/events/all-maryland-reptile-show-116-396-329-
+ 333-674-736-180-678-571-776/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-reptile-show-taylor-2026-12-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Michigan Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Taylor Town Trade Center\, 22525 Ecorse Rd\, Taylor\, MI
+URL:https://www.michiganreptileshow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:show-me-reptile-show-knoxville-2026-12-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Show Me Reptile Show - Knoxville
+TRANSP:TRANSPARENT
+LOCATION:Knoxville Expo Center\, 5441 Clinton Hwy\, Knoxville\, TN
+URL:https://www.knoxvilleexpocenter.com/events/show-me-reptiles-show-11/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cin-city-reptile-show-west-chester-2026-12-13@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Cin City Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Holiday Inn - West Chester\, West Chester\, OH
+URL:https://www.cincityreptileshow.com/show-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:md-reptile-farm-york-2026-12-13@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:York County Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:York\, PA
+URL:https://mdreptilefarm.com/events/york-county-reptile-show-355-436-358-8
+ 40/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2026-12-13@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/rothschild-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:all-ohio-reptile-show-hilliard-2026-12-19@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:All Ohio Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Franklin County Fairgrounds\, Hilliard\, OH
+URL:https://www.columbusonthecheap.com/all-ohio-reptile-show/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:kalamazoo-reptile-expo-kalamazoo-2026-12-19@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Kalamazoo Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Kalamazoo County Expo Center (2900 Lake St)\, Kalamazoo\, MI
+URL:https://collisonzoo.com/kalamazooreptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:md-reptile-farm-fredericksburg-2026-12-19@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Northern Virginia Reptile Expo – Fredericksburg
+TRANSP:TRANSPARENT
+LOCATION:Fredericksburg\, VA
+URL:https://mdreptilefarm.com/events/northern-virginia-reptile-expo-554-642
+ -785-132-552-328-929/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2026-12-20@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-fond-du-lac-2027-01-03@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Scaled Up Reptile Expo - Fond du Lac
+TRANSP:TRANSPARENT
+LOCATION:Fond du Lac County Fairgrounds\, 520 Fond du Lac Ave\, Fond du Lac
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2027-01-31@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-bakersfield-2027-02-06@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+SUMMARY:Bakersfield Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Kern County Fair and Event Center\, 1142 South P Street\, Bakersfi
+ eld\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:new-england-reptile-expo-manchester-2027-02-07@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:New England ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:DoubleTree Hotel\, 700 Elm Street\, Manchester\, NH
+URL:https://reptileexpo.com/new-hampshire-reptile-expo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2027-02-07@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-madison-2027-02-14@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Scaled Up Reptile Expo - Madison
+TRANSP:TRANSPARENT
+LOCATION:Madison Marriott West Conference Center\, 1313 John Q Hammons Dr\,
+  Middleton\, Madison\, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2027-02-21@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:West Virginia Reptile Expo (Charleston)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-green-bay-2027-02-28@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Scaled Up Reptile Expo - Green Bay
+TRANSP:TRANSPARENT
+LOCATION:Oneida Hotel and Conference Center\, 2040 Airport Dr\, Green Bay\,
+  WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-del-mar-2027-03-13@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+SUMMARY:Del Mar/San Diego Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Del Mar Fairgrounds\, 2260 Jimmy Durante Blvd.\, Del Mar\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-shepherdstown-2027-03-20@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:West Virginia Reptile Expo (Shepherdstown)
+TRANSP:TRANSPARENT
+LOCATION:Shepherd University Wellness Center\, 164 University Dr\, Shepherd
+ stown\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-fond-du-lac-2027-04-04@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Scaled Up Reptile Expo - Fond du Lac
+TRANSP:TRANSPARENT
+LOCATION:Fond du Lac County Fairgrounds\, 520 Fond du Lac Ave\, Fond du Lac
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2027-04-11@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-la-crosse-2027-04-17@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Scaled Up Reptile Expo - La Crosse
+TRANSP:TRANSPARENT
+LOCATION:La Crosse Center\, 300 Harborview Plaza\, La Crosse\, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2027-04-24@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:new-england-reptile-expo-manchester-2027-04-25@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:New England ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:DoubleTree Hotel\, 700 Elm Street\, Manchester\, NH
+URL:https://reptileexpo.com/new-hampshire-reptile-expo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2027-05-23@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2027-05-23@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:West Virginia Reptile Expo (Charleston)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-fresno-2027-06-05@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+SUMMARY:Fresno Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Fresno Fairgrounds\, 1121 S. Chance Avenue\, Fresno\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:new-england-reptile-expo-manchester-2027-06-27@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:New England ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:DoubleTree Hotel\, 700 Elm Street\, Manchester\, NH
+URL:https://reptileexpo.com/new-hampshire-reptile-expo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2027-06-27@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2027-07-11@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-madison-2027-07-18@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Scaled Up Reptile Expo - Madison
+TRANSP:TRANSPARENT
+LOCATION:Madison Marriott West Conference Center\, 1313 John Q Hammons Dr\,
+  Middleton\, Madison\, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2027-07-25@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:West Virginia Reptile Expo (Charleston)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-fond-du-lac-2027-08-01@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Scaled Up Reptile Expo - Fond du Lac
+TRANSP:TRANSPARENT
+LOCATION:Fond du Lac County Fairgrounds\, 520 Fond du Lac Ave\, Fond du Lac
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-green-bay-2027-08-22@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Scaled Up Reptile Expo - Green Bay
+TRANSP:TRANSPARENT
+LOCATION:Oneida Hotel and Conference Center\, 2040 Airport Dr\, Green Bay\,
+  WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2027-08-29@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2027-09-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2027-09-26@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2027-09-26@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:West Virginia Reptile Expo (Charleston)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-la-crosse-2027-10-23@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:Scaled Up Reptile Expo - La Crosse
+TRANSP:TRANSPARENT
+LOCATION:La Crosse Center\, 300 Harborview Plaza\, La Crosse\, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-madison-2027-10-24@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:Scaled Up Reptile Expo - Madison
+TRANSP:TRANSPARENT
+LOCATION:Madison Marriott West Conference Center\, 1313 John Q Hammons Dr\,
+  Middleton\, Madison\, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2027-10-31@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:new-england-reptile-expo-manchester-2027-11-07@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:New England ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:DoubleTree Hotel\, 700 Elm Street\, Manchester\, NH
+URL:https://reptileexpo.com/new-hampshire-reptile-expo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-green-bay-2027-11-07@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:Scaled Up Reptile Expo - Green Bay
+TRANSP:TRANSPARENT
+LOCATION:Oneida Hotel and Conference Center\, 2040 Airport Dr\, Green Bay\,
+  WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-fond-du-lac-2027-11-14@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:Scaled Up Reptile Expo - Fond du Lac
+TRANSP:TRANSPARENT
+LOCATION:Fond du Lac County Fairgrounds\, 520 Fond du Lac Ave\, Fond du Lac
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:ny-metro-reptile-expo-white-plains-2027-11-21@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+SUMMARY:New York Metro ReptileExpo
+TRANSP:TRANSPARENT
+LOCATION:Westchester County Center\, 198 Central Ave\, White Plains\, NY
+URL:https://reptileexpo.com/new-york-metro-reptileexpo/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2027-11-28@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+SUMMARY:West Virginia Reptile Expo (Charleston)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2027-12-18@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271218
+DTEND;VALUE=DATE:20271219
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2027-12-19@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271219
+DTEND;VALUE=DATE:20271220
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

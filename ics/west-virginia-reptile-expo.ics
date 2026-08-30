@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West Virginia Reptile Expo
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:West Virginia Reptile Expo — dates verified against the orga
+ nizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2026-09-20@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:West Virginia Reptile Expo (Charleston area)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2026-10-25@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2026-11-22@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:West Virginia Reptile Expo (Charleston area)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2026-12-20@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2027-02-21@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:West Virginia Reptile Expo (Charleston)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-shepherdstown-2027-03-20@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:West Virginia Reptile Expo (Shepherdstown)
+TRANSP:TRANSPARENT
+LOCATION:Shepherd University Wellness Center\, 164 University Dr\, Shepherd
+ stown\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2027-04-24@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2027-05-23@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:West Virginia Reptile Expo (Charleston)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2027-06-27@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2027-07-25@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:West Virginia Reptile Expo (Charleston)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2027-08-29@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2027-09-26@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:West Virginia Reptile Expo (Charleston)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2027-10-31@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-institute-2027-11-28@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+SUMMARY:West Virginia Reptile Expo (Charleston)
+TRANSP:TRANSPARENT
+LOCATION:Wilson Student Union at West Virginia State University\, 301 Washi
+ ngton Ave\, Institute\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:west-virginia-reptile-expo-huntington-2027-12-18@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271218
+DTEND;VALUE=DATE:20271219
+SUMMARY:West Virginia Reptile Expo (Huntington)
+TRANSP:TRANSPARENT
+LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
+URL:https://www.wvreptileexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

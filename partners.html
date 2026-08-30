@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Anole for show organizers — a free verified-dates badge for your site</title>
+<meta name="description" content="Put your verified show dates on your own site, give attendees a calendar they can subscribe to, and tell us the moment a date moves.">
+<link rel="stylesheet" href="style.css">
+<script defer src="analytics.js"></script>
+<style>
+  .picker { display:flex; gap:0.6rem; flex-wrap:wrap; align-items:center; margin:0.5rem 0 1rem; }
+  select, textarea { font:inherit; color:var(--ink); background:var(--bg);
+    border:1px solid var(--line); border-radius:8px; padding:0.5rem 0.6rem; }
+  select { max-width:100%; }
+  textarea { width:100%; font-family:ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size:0.82rem; line-height:1.5; min-height:5.5rem; resize:vertical; }
+  iframe { width:100%; max-width:26rem; border:0; display:block; }
+  .copied { font-size:0.85rem; color:var(--accent); font-weight:600; margin-left:0.5rem; }
+</style>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="./">Anole</a>
+    <nav>
+      <a href="advertise.html">For shops</a>
+      <a href="partners.html">For organizers</a>
+      <a href="support.html">Support</a>
+      <a href="privacy.html">Privacy</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <h1>Your dates, on your site, verified.</h1>
+  <p class="lede">
+    We already check your published schedule and keep it in a free app. This page hands
+    that work back to you: a badge for your own site, a calendar your attendees can
+    subscribe to, and a one-click way to tell us the moment something moves.
+  </p>
+
+  <div class="panel">
+    <h3>What this costs you</h3>
+    <p style="margin:0">
+      Nothing, and there is no account to make. The badge is a plain <code>&lt;iframe&gt;</code>.
+      We do not set cookies, we do not track your visitors, and we never ask for exclusivity.
+    </p>
+  </div>
+
+  <h2>1. Pick your show</h2>
+  <div class="picker">
+    <label for="series">Series</label>
+    <select id="series"><option>Loading…</option></select>
+  </div>
+
+  <h2>2. Preview</h2>
+  <p>This is exactly what your visitors will see. It updates itself when your dates change.</p>
+  <iframe id="preview" height="230" title="Badge preview" loading="lazy"></iframe>
+
+  <h2>3. Paste this where you want it</h2>
+  <textarea id="snippet" readonly spellcheck="false"></textarea>
+  <p style="margin-top:0.5rem">
+    <button class="btn" id="copy" type="button">Copy embed code</button>
+    <span class="copied" id="copied" hidden>Copied</span>
+  </p>
+  <p>
+    Add <code>&amp;theme=light</code> or <code>&amp;theme=dark</code> to lock the colours,
+    or <code>&amp;limit=5</code> to show more dates. By default it follows the visitor's system theme.
+  </p>
+
+  <h2>Calendar subscription</h2>
+  <p>
+    Link this anywhere you list dates. Attendees subscribe once and every future show
+    lands in their calendar automatically — no app required.
+  </p>
+  <textarea id="icsurl" readonly spellcheck="false" style="min-height:3rem"></textarea>
+
+  <h2>A date moved. Tell us.</h2>
+  <p>
+    You are the source. If something shifts, gets added or gets cancelled, send it straight
+    to us and we will correct it — usually the same day. Aggregator sites will not.
+  </p>
+  <p><a class="btn ghost" id="correct" href="#">Report a change to this series</a></p>
+
+  <div class="panel">
+    <h3>Why we bother verifying</h3>
+    <p style="margin:0">
+      On one pass in August 2026 we found four dates that other listing sites were
+      publishing which the organizer's own page contradicted — one show was postponed with
+      tickets pulled, another was listed from a vendor's schedule that had never been updated.
+      We only take a date from the organizer, or from the venue's own booking calendar.
+    </p>
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    Anole · <a href="mailto:kjs140611@gmail.com?subject=Anole%20organizer%20badge">Email us</a>
+  </div>
+</footer>
+
+<script>
+(function () {
+  var BASE = location.href.replace(/\/partners\.html.*$/, '');
+  var sel = document.getElementById('series');
+  var preview = document.getElementById('preview');
+  var snippet = document.getElementById('snippet');
+  var icsurl = document.getElementById('icsurl');
+  var correct = document.getElementById('correct');
+
+  function update() {
+    var id = sel.value, name = sel.options[sel.selectedIndex].text;
+    var src = BASE + '/badge.html?series=' + encodeURIComponent(id);
+    preview.src = src;
+    snippet.value =
+      '<iframe src="' + src + '"\n' +
+      '        width="100%" height="230" style="border:0;max-width:26rem"\n' +
+      '        title="Upcoming ' + name.replace(/"/g, '') + ' dates" loading="lazy"></iframe>';
+    icsurl.value = BASE + '/ics/' + encodeURIComponent(id) + '.ics';
+    correct.href = 'mailto:kjs140611@gmail.com' +
+      '?subject=' + encodeURIComponent('Anole date correction: ' + name) +
+      '&body=' + encodeURIComponent(
+        'Series: ' + name + ' (' + id + ')\n\n' +
+        'What changed (add / move / cancel):\n\n' +
+        'Show city and state:\n\n' +
+        'New dates:\n\n' +
+        'Link on your site that shows this:\n\n' +
+        'Your name and role:\n');
+  }
+
+  fetch(BASE + '/series_roster.json').then(function (r) { return r.json(); }).then(function (roster) {
+    roster.sort(function (a, b) { return a.name.localeCompare(b.name); });
+    sel.innerHTML = '';
+    roster.forEach(function (s) {
+      var o = document.createElement('option');
+      o.value = s.id; o.textContent = s.name;
+      sel.appendChild(o);
+    });
+    // Deep link so an outreach email can drop an organizer straight onto their own row.
+    var want = new URLSearchParams(location.search).get('series');
+    if (want && roster.some(function (s) { return s.id === want; })) sel.value = want;
+    update();
+  }).catch(function () {
+    sel.innerHTML = '<option>Could not load the series list</option>';
+  });
+
+  sel.addEventListener('change', update);
+
+  document.getElementById('copy').addEventListener('click', function () {
+    snippet.select();
+    navigator.clipboard.writeText(snippet.value).then(function () {
+      var tag = document.getElementById('copied');
+      tag.hidden = false;
+      setTimeout(function () { tag.hidden = true; }, 1600);
+    }).catch(function () { /* the textarea is already selected; Cmd-C works */ });
+  });
+
+  // The badge tells us how tall it wants to be so the iframe never clips a
+  // series that publishes more dates than the others.
+  addEventListener('message', function (e) {
+    if (e.data && e.data.anoleBadge && e.data.height) {
+      preview.height = Math.max(120, Math.min(600, e.data.height + 4));
+    }
+  });
+})();
+</script>
+</body>
+</html>

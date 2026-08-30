@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HERPS Exotic Reptile & Pet Shows
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:HERPS Exotic Reptile & Pet Shows — dates verified against th
+ e organizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:herps-bryan-college-station-2026-08-29@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:HERPS Bryan-College Station
+TRANSP:TRANSPARENT
+LOCATION:Bryan-College Station\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-conroe-2026-09-12@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:HERPS Conroe
+TRANSP:TRANSPARENT
+LOCATION:Conroe\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-abilene-2026-09-26@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:HERPS Abilene
+TRANSP:TRANSPARENT
+LOCATION:Abilene\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-stillwater-2026-10-03@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:HERPS Stillwater
+TRANSP:TRANSPARENT
+LOCATION:Stillwater\, OK
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-alexandria-2026-10-17@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:HERPS Alexandria
+TRANSP:TRANSPARENT
+LOCATION:Alexandria\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-sulphur-2026-11-14@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:HERPS Sulphur
+TRANSP:TRANSPARENT
+LOCATION:Sulphur\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Repticon
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Repticon — dates verified against the organizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:repticon-trussville-2026-08-29@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Repticon Birmingham
+TRANSP:TRANSPARENT
+LOCATION:Trussville Civic Center\, 5381 Trussville Clay Rd\, Trussville\, A
+ L
+URL:https://www.trussvilletribune.com/2026/08/04/repticon-returning-to-trus
+ sville-in-august/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:reptiday-ft-myers-2026-09-05@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:ReptiDay Ft Myers
+TRANSP:TRANSPARENT
+LOCATION:Ft Myers\, FL
+URL:https://repticon.com/florida/reptiday-ft-myers/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-greenville-2026-09-12@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Repticon Greenville
+TRANSP:TRANSPARENT
+LOCATION:Greenville\, SC
+URL:https://repticon.com/south-carolina/greenville/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-houston-2026-10-03@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Repticon Houston
+TRANSP:TRANSPARENT
+LOCATION:Houston\, TX
+URL:https://repticon.com/texas/houston/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-denver-2026-10-10@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Repticon Denver
+TRANSP:TRANSPARENT
+LOCATION:Denver\, CO
+URL:https://repticon.com/colorado/denver/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-costa-mesa-2026-11-07@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Repticon Costa Mesa
+TRANSP:TRANSPARENT
+LOCATION:Costa Mesa\, CA
+URL:https://repticon.com/california/los-angeles-costa-mesa/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-raleigh-2026-11-28@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Repticon Raleigh
+TRANSP:TRANSPARENT
+LOCATION:Agri Supply Exposition Center\, NC State Fairgrounds\, 4825 Trinit
+ y Rd\, Raleigh\, NC
+URL:https://www.visitraleigh.com/event/repticon-2026/104758/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

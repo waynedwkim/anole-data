@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Massachusetts Reptile Expo
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Massachusetts Reptile Expo — dates verified against the orga
+ nizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:massachusetts-reptile-expo-hanover-2026-11-15@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Massachusetts Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Starland Sportsplex\, 637 Washington St\, Hanover\, MA
+URL:https://www.neherp.com/pages/massachusetts-reptile-expo
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

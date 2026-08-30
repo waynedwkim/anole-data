@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cin City Reptile Show
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Cin City Reptile Show — dates verified against the organizer
+ .
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cin-city-reptile-show-west-chester-2026-09-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Cin City Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Holiday Inn - West Chester\, West Chester\, OH
+URL:https://www.cincityreptileshow.com/show-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cin-city-reptile-show-west-chester-2026-10-18@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Cin City Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Holiday Inn - West Chester\, West Chester\, OH
+URL:https://www.cincityreptileshow.com/show-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cin-city-reptile-show-west-chester-2026-11-08@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Cin City Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Holiday Inn - West Chester\, West Chester\, OH
+URL:https://www.cincityreptileshow.com/show-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cin-city-reptile-show-west-chester-2026-12-13@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Cin City Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Holiday Inn - West Chester\, West Chester\, OH
+URL:https://www.cincityreptileshow.com/show-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

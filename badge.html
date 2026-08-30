@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Anole verified dates</title>
+<meta name="robots" content="noindex">
+<style>
+  :root {
+    --ink:#16181c; --muted:#5c6672; --line:#e4e7ec; --bg:#ffffff;
+    --accent:#1f7a4d; --accent-soft:#eaf5ef;
+  }
+  :root[data-theme="dark"] {
+    --ink:#eceef2; --muted:#9aa4b2; --line:#2a2f38; --bg:#101215;
+    --accent:#4ec98a; --accent-soft:#16261e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ink:#eceef2; --muted:#9aa4b2; --line:#2a2f38; --bg:#101215;
+      --accent:#4ec98a; --accent-soft:#16261e;
+    }
+  }
+  * { box-sizing:border-box; }
+  html,body { margin:0; }
+  body {
+    background:var(--bg); color:var(--ink);
+    font:14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .card { border:1px solid var(--line); border-radius:12px; padding:14px 16px; }
+  .top { display:flex; align-items:baseline; justify-content:space-between; gap:8px; margin-bottom:10px; }
+  .title { font-weight:700; letter-spacing:-0.01em; }
+  .verified {
+    font-size:11px; color:var(--accent); background:var(--accent-soft);
+    border-radius:999px; padding:2px 8px; font-weight:600; white-space:nowrap;
+  }
+  ul { list-style:none; margin:0; padding:0; }
+  li { display:flex; gap:10px; padding:7px 0; border-top:1px solid var(--line); }
+  li:first-child { border-top:0; }
+  .when { font-weight:600; white-space:nowrap; }
+  .where { color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .actions { display:flex; gap:8px; margin-top:12px; flex-wrap:wrap; }
+  a.btn {
+    text-decoration:none; font-weight:600; font-size:13px; border-radius:8px;
+    padding:7px 12px; background:var(--accent); color:#fff;
+  }
+  a.btn.ghost { background:transparent; color:var(--accent); border:1px solid var(--accent); }
+  .foot { margin-top:10px; font-size:11px; color:var(--muted); }
+  .foot a { color:var(--muted); }
+  .empty { color:var(--muted); padding:6px 0 2px; }
+</style>
+</head>
+<body>
+<div class="card" id="card"><div class="empty">Loading verified dates…</div></div>
+<script>
+(function () {
+  // The badge is embedded on other people's sites, so it must fail quietly and
+  // never throw into their console.
+  var BASE = location.href.replace(/\/badge\.html.*$/, '');
+  // Swap for the real App Store URL once the app has an ID. Until then the CTA
+  // points at the product page rather than offering a dead link.
+  var APP_URL = BASE + '/?utm_source=anole-badge&utm_medium=referral&utm_campaign=organizer_badge';
+
+  var q = new URLSearchParams(location.search);
+  var seriesId = q.get('series') || '';
+  var limit = Math.min(Math.max(parseInt(q.get('limit') || '3', 10) || 3, 1), 8);
+  var theme = q.get('theme');
+  if (theme === 'light' || theme === 'dark') document.documentElement.dataset.theme = theme;
+
+  var card = document.getElementById('card');
+
+  // "2026-09-12" must be read as a calendar day, not an instant. new Date() on a
+  // bare date string parses as UTC midnight, which renders as the previous day
+  // anywhere west of Greenwich — the same off-by-one that bites the .ics feeds.
+  function parseDay(s) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(s || '');
+    return m ? new Date(+m[1], +m[2] - 1, +m[3]) : null;
+  }
+  function fmt(startStr, endStr) {
+    var a = parseDay(startStr), b = parseDay(endStr) || a;
+    if (!a) return '';
+    var mon = { month: 'short', day: 'numeric' };
+    if (!b || +a === +b) return a.toLocaleDateString('en-US', mon);
+    if (a.getMonth() === b.getMonth()) {
+      return a.toLocaleDateString('en-US', mon) + '–' + b.getDate();
+    }
+    return a.toLocaleDateString('en-US', mon) + '–' + b.toLocaleDateString('en-US', mon);
+  }
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
+    });
+  }
+  function reportHeight() {
+    try {
+      parent.postMessage({ anoleBadge: true, series: seriesId,
+        height: document.documentElement.scrollHeight }, '*');
+    } catch (e) { /* cross-origin parent that does not listen; fine */ }
+  }
+  function render(html) { card.innerHTML = html; reportHeight(); }
+
+  if (!seriesId) {
+    render('<div class="empty">Add <code>?series=</code> to this URL.</div>');
+    return;
+  }
+
+  Promise.all([
+    fetch(BASE + '/events.json').then(function (r) { return r.json(); }),
+    fetch(BASE + '/series_roster.json').then(function (r) { return r.json(); })
+  ]).then(function (res) {
+    var events = res[0], roster = res[1];
+    var series = roster.filter(function (s) { return s.id === seriesId; })[0];
+    var name = series ? series.name : seriesId;
+
+    var today = new Date(); today.setHours(0, 0, 0, 0);
+    var mine = events.filter(function (e) {
+      if (e.seriesId !== seriesId) return false;
+      var end = parseDay(e.endDate) || parseDay(e.startDate);
+      return end && end >= today;
+    }).sort(function (a, b) { return a.startDate < b.startDate ? -1 : 1; });
+
+    var checked = mine.reduce(function (acc, e) {
+      return e.checkedAt && e.checkedAt > acc ? e.checkedAt : acc;
+    }, '');
+
+    var head = '<div class="top"><span class="title">' + esc(name) + '</span>' +
+      (checked ? '<span class="verified">Verified ' +
+        parseDay(checked).toLocaleDateString('en-US', { month: 'short', year: 'numeric' }) +
+        '</span>' : '') + '</div>';
+
+    var body;
+    if (!mine.length) {
+      // Say so plainly. A badge that renders blank looks broken and an
+      // organizer will pull it off their page.
+      body = '<div class="empty">Next dates to be announced.</div>';
+    } else {
+      body = '<ul>' + mine.slice(0, limit).map(function (e) {
+        var where = [e.city, e.state].filter(Boolean).join(', ');
+        return '<li><span class="when">' + esc(fmt(e.startDate, e.endDate)) +
+          '</span><span class="where">' + esc(where) + '</span></li>';
+      }).join('') + '</ul>';
+    }
+
+    var ics = BASE + '/ics/' + encodeURIComponent(seriesId) + '.ics';
+    var acts = '<div class="actions">' +
+      '<a class="btn" href="' + esc(ics) + '">Add to calendar</a>' +
+      '<a class="btn ghost" href="' + esc(APP_URL) + '" target="_blank" rel="noopener">See it in Anole</a>' +
+      '</div>';
+
+    render(head + body + acts +
+      '<div class="foot">Dates checked against this organizer’s own schedule. ' +
+      '<a href="' + esc(BASE) + '/" target="_blank" rel="noopener">Anole</a></div>');
+  }).catch(function () {
+    render('<div class="empty">Dates are temporarily unavailable.</div>');
+  });
+
+  addEventListener('load', reportHeight);
+})();
+</script>
+</body>
+</html>

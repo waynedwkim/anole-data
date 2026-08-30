@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exotic Pet Expos (TN/KY/AL)
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Exotic Pet Expos (TN/KY/AL) — dates verified against the org
+ anizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:exotic-pet-expos-paris-2026-11-28@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Exotic Pet Expo - Paris TN
+TRANSP:TRANSPARENT
+LOCATION:Henry County Fairgrounds\, 517 Royal Oak Dr\, Paris\, TN
+URL:https://www.exoticpetexpos.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Show Me Reptile & Exotic Show
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Show Me Reptile & Exotic Show — dates verified against the o
+ rganizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:show-me-reptile-show-boise-2026-10-17@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Boise Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Expo Idaho\, 5610 N Glenwood St\, Boise\, ID
+URL:https://expoidaho.com/event/show-me-reptile-exotics-show-19/2026-10-17/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:show-me-reptile-show-knoxville-2026-10-17@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Show Me Reptile Show - Knoxville
+TRANSP:TRANSPARENT
+LOCATION:Knoxville Expo Center\, 5441 Clinton Hwy\, Knoxville\, TN
+URL:https://www.knoxvilleexpocenter.com/events/show-me-reptiles-show-9/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:show-me-reptile-show-albuquerque-2026-10-24@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Albuquerque Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Expo New Mexico\, Creative Arts Center\, 300 San Pedro Dr NE\, Alb
+ uquerque\, NM
+URL:https://www.exponm.com/events?view=list&search=reptile
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:show-me-reptile-show-knoxville-2026-12-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Show Me Reptile Show - Knoxville
+TRANSP:TRANSPARENT
+LOCATION:Knoxville Expo Center\, 5441 Clinton Hwy\, Knoxville\, TN
+URL:https://www.knoxvilleexpocenter.com/events/show-me-reptiles-show-11/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

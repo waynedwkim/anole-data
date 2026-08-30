@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Scaled Up Reptile Expo
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Scaled Up Reptile Expo — dates verified against the organize
+ r.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-green-bay-2026-08-30@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Scaled Up Reptile Expo - Green Bay
+TRANSP:TRANSPARENT
+LOCATION:Oneida Hotel and Conference Center\, 2040 Airport Dr\, Green Bay\,
+  WI
+URL:https://www.scaledupexpos.com/green-bay-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2026-09-20@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/rothschild-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-fond-du-lac-2026-10-04@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Scaled Up Reptile Expo - Fond du Lac
+TRANSP:TRANSPARENT
+LOCATION:Fond du Lac County Fairgrounds\, 520 Fond du Lac Ave\, Fond du Lac
+ \, WI
+URL:https://www.scaledupexpos.com/fond-du-lac-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-la-crosse-2026-11-07@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Scaled Up Reptile Expo - La Crosse
+TRANSP:TRANSPARENT
+LOCATION:La Crosse Center\, 300 Harborview Plaza\, La Crosse\, WI
+URL:https://www.scaledupexpos.com/la-crosse-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-madison-2026-11-08@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Scaled Up Reptile Expo - Madison
+TRANSP:TRANSPARENT
+LOCATION:Madison Marriott West Conference Center\, 1313 John Q Hammons Dr\,
+  Middleton\, Madison\, WI
+URL:https://www.scaledupexpos.com/madison-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2026-12-13@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/rothschild-wi
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-fond-du-lac-2027-01-03@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Scaled Up Reptile Expo - Fond du Lac
+TRANSP:TRANSPARENT
+LOCATION:Fond du Lac County Fairgrounds\, 520 Fond du Lac Ave\, Fond du Lac
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2027-02-07@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-madison-2027-02-14@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Scaled Up Reptile Expo - Madison
+TRANSP:TRANSPARENT
+LOCATION:Madison Marriott West Conference Center\, 1313 John Q Hammons Dr\,
+  Middleton\, Madison\, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-green-bay-2027-02-28@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Scaled Up Reptile Expo - Green Bay
+TRANSP:TRANSPARENT
+LOCATION:Oneida Hotel and Conference Center\, 2040 Airport Dr\, Green Bay\,
+  WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-fond-du-lac-2027-04-04@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Scaled Up Reptile Expo - Fond du Lac
+TRANSP:TRANSPARENT
+LOCATION:Fond du Lac County Fairgrounds\, 520 Fond du Lac Ave\, Fond du Lac
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-la-crosse-2027-04-17@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Scaled Up Reptile Expo - La Crosse
+TRANSP:TRANSPARENT
+LOCATION:La Crosse Center\, 300 Harborview Plaza\, La Crosse\, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2027-05-23@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-madison-2027-07-18@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Scaled Up Reptile Expo - Madison
+TRANSP:TRANSPARENT
+LOCATION:Madison Marriott West Conference Center\, 1313 John Q Hammons Dr\,
+  Middleton\, Madison\, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-fond-du-lac-2027-08-01@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Scaled Up Reptile Expo - Fond du Lac
+TRANSP:TRANSPARENT
+LOCATION:Fond du Lac County Fairgrounds\, 520 Fond du Lac Ave\, Fond du Lac
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-green-bay-2027-08-22@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Scaled Up Reptile Expo - Green Bay
+TRANSP:TRANSPARENT
+LOCATION:Oneida Hotel and Conference Center\, 2040 Airport Dr\, Green Bay\,
+  WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2027-09-26@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-la-crosse-2027-10-23@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:Scaled Up Reptile Expo - La Crosse
+TRANSP:TRANSPARENT
+LOCATION:La Crosse Center\, 300 Harborview Plaza\, La Crosse\, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-madison-2027-10-24@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:Scaled Up Reptile Expo - Madison
+TRANSP:TRANSPARENT
+LOCATION:Madison Marriott West Conference Center\, 1313 John Q Hammons Dr\,
+  Middleton\, Madison\, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-green-bay-2027-11-07@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:Scaled Up Reptile Expo - Green Bay
+TRANSP:TRANSPARENT
+LOCATION:Oneida Hotel and Conference Center\, 2040 Airport Dr\, Green Bay\,
+  WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-fond-du-lac-2027-11-14@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:Scaled Up Reptile Expo - Fond du Lac
+TRANSP:TRANSPARENT
+LOCATION:Fond du Lac County Fairgrounds\, 520 Fond du Lac Ave\, Fond du Lac
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:scaled-up-reptile-expo-rothschild-2027-12-19@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271219
+DTEND;VALUE=DATE:20271220
+SUMMARY:Scaled Up Reptile Expo - Rothschild
+TRANSP:TRANSPARENT
+LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
+ \, WI
+URL:https://www.scaledupexpos.com/all-expo-dates
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

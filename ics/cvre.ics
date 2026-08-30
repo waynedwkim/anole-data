@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Central Valley Reptile Expo
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Central Valley Reptile Expo — dates verified against the org
+ anizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cvre-del-mar-2026-09-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:Del Mar/San Diego Mega Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Del Mar Fairgrounds (O'Brien Hall)\, 2260 Jimmy Durante Blvd.\, De
+ l Mar\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-las-vegas-2026-09-19@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Las Vegas Exotic Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:World Market Center (North Hall)\, 435 S. Grand Central Parkway\, 
+ Las Vegas\, NV
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-san-luis-obispo-2026-10-17@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:San Luis Obispo Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Madonna Inn\, 100 Madonna Road\, San Luis Obispo\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-ventura-2026-11-07@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Ventura Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Ventura County Fairgrounds\, 10 West Harbor Boulevard\, Ventura\, 
+ CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-lancaster-2026-11-14@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Lancaster Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:AV Fair & Event Center\, 2551 West Avenue H\, Lancaster\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-san-bernardino-2026-12-12@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:San Bernardino Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:National Orange Show @ NOS Event Center\, 690 S. Arrowhead Avenue\
+ , Gate 8\, San Bernardino\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-bakersfield-2027-02-06@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+SUMMARY:Bakersfield Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Kern County Fair and Event Center\, 1142 South P Street\, Bakersfi
+ eld\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-del-mar-2027-03-13@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+SUMMARY:Del Mar/San Diego Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Del Mar Fairgrounds\, 2260 Jimmy Durante Blvd.\, Del Mar\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cvre-fresno-2027-06-05@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+SUMMARY:Fresno Pet & Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Fresno Fairgrounds\, 1121 S. Chance Avenue\, Fresno\, CA
+URL:https://cvrexpo.com/expos
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

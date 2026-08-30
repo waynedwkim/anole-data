@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hamburg Reptile Show
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Hamburg Reptile Show — dates verified against the organizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:hamburg-reptile-show-2026-10-17@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Hamburg Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Morgantown Event Center\, Morgantown\, PA
+URL:https://hamburgreptileshow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:hamburg-reptile-show-morgantown-2026-12-05@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Hamburg Reptile Show
+TRANSP:TRANSPARENT
+LOCATION:Morgantown Event Center\, Morgantown\, PA
+URL:https://hamburgreptileshow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

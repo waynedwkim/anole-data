@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:North American Reptile Breeders Conference (NARBC)
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:North American Reptile Breeders Conference (NARBC) — dates v
+ erified against the organizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:narbc-tinley-park-2026-10-10@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:NARBC Tinley Park
+TRANSP:TRANSPARENT
+LOCATION:Tinley Park Convention Center\, Tinley Park\, IL
+URL:http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:narbc-st-charles-2026-11-14@anole.app
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:NARBC St. Charles
+TRANSP:TRANSPARENT
+LOCATION:Saint Charles Convention Center\, St. Charles\, MO
+URL:http://www.narbc.com/StLouis/show_info_narbc_stlouis.html
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

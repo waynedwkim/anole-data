@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Northwest Reptile Expos
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Northwest Reptile Expos — dates verified against the organiz
+ er.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:nw-reptile-expos-central-point-2026-09-19@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Medford Metro Reptile Expo
+TRANSP:TRANSPARENT
+LOCATION:Jackson County Expo\, Central Point\, OR
+URL:https://nwreptileexpos.com/events/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR

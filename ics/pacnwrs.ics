@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anole//Verified US reptile expo calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pacific NW Reptile & Exotic Animal Show
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Pacific NW Reptile & Exotic Animal Show — dates verified aga
+ inst the organizer.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pacnwrs-hillsboro-2026-10-10@anole.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Pacific NW Reptile & Exotic Animal Show
+TRANSP:TRANSPARENT
+LOCATION:Westside Commons\, Hillsboro\, OR
+URL:https://www.pacnwrs.com/upcoming-events
+DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+END:VCALENDAR
