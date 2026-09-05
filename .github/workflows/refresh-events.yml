@@ -86,3 +86,45 @@ jobs:
             gh issue create --title "$TITLE" --body-file body.md --label "" || \
               gh issue create --title "$TITLE" --body-file body.md
           fi
+
+      # The per-series check above is routine maintenance. This one is the
+      # alarm: below 100 upcoming shows or 25 states the calendar reads as
+      # abandoned, so look four and eight weeks ahead and shout before it
+      # happens, not after.
+      - name: Warn before the calendar drops below the coverage floor
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY' > floor.md
+          import json, datetime, pathlib
+          MIN_EVENTS, MIN_STATES = 100, 25
+          today = datetime.date.today()
+          events = json.loads(pathlib.Path("events.json").read_text())
+          def at(day):
+              fut = [e for e in events if e["startDate"] >= day.isoformat()]
+              return len(fut), len({e["state"] for e in fut})
+          rows = [("today", today)] + [(f"+{w} weeks", today + datetime.timedelta(weeks=w)) for w in (4, 8)]
+          breach = False
+          print(f"Coverage floor is {MIN_EVENTS} upcoming shows and {MIN_STATES} states.\n")
+          print("| when | shows | states |\n|---|---|---|")
+          for label, day in rows:
+              n, s = at(day)
+              flag = "" if n >= MIN_EVENTS and s >= MIN_STATES else " **below floor**"
+              breach |= bool(flag)
+              print(f"| {label} ({day}) | {n} | {s} |{flag}")
+          print("\nRestock the series listed in the restocking issue, then re-run this workflow.")
+          pathlib.Path("floor.flag").write_text("1" if breach else "0")
+          PY
+
+          TITLE="Calendar coverage floor"
+          EXISTING=$(gh issue list --state open --search "$TITLE in:title" --json number --jq '.[0].number')
+          if [ "$(cat floor.flag)" = "0" ]; then
+            [ -n "$EXISTING" ] && gh issue close "$EXISTING" --comment "Back above the floor at every horizon."
+            echo "Above the floor."; exit 0
+          fi
+          if [ -n "$EXISTING" ]; then
+            gh issue edit "$EXISTING" --body-file floor.md
+          else
+            gh issue create --title "$TITLE" --body-file floor.md
+          fi
