@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# Agent tooling scratch state, never part of the site.
+.omc/
