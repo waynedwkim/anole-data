@@ -57,8 +57,8 @@
   // The badge is embedded on other people's sites, so it must fail quietly and
   // never throw into their console.
   var BASE = location.href.replace(/\/badge\.html.*$/, '');
-  // Swap for the real App Store URL once the app has an ID. Until then the CTA
-  // points at the product page rather than offering a dead link.
+  // Until the app is live the CTA points at the product page rather than a
+  // dead store link; site.json flips it to the App Store URL on launch day.
   var APP_URL = BASE + '/?utm_source=anole-badge&utm_medium=referral&utm_campaign=organizer_badge';
 
   var q = new URLSearchParams(location.search);
@@ -106,9 +106,12 @@
 
   Promise.all([
     fetch(BASE + '/events.json').then(function (r) { return r.json(); }),
-    fetch(BASE + '/series_roster.json').then(function (r) { return r.json(); })
+    fetch(BASE + '/series_roster.json').then(function (r) { return r.json(); }),
+    // Optional: a missing or broken site.json must not take the badge down.
+    fetch(BASE + '/site.json').then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; })
   ]).then(function (res) {
-    var events = res[0], roster = res[1];
+    var events = res[0], roster = res[1], site = res[2];
+    if (site && site.appStoreUrl) APP_URL = String(site.appStoreUrl);
     var series = roster.filter(function (s) { return s.id === seriesId; })[0];
     var name = series ? series.name : seriesId;
 

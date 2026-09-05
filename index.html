@@ -32,7 +32,7 @@
 
   <!-- Swap this block for the real App Store badge and link once the app has
        an ID. Until then it says so rather than offering a dead button. -->
-  <div class="panel">
+  <div class="panel" id="cta">
     <h3 style="margin-bottom:0.35rem">Coming to the App Store</h3>
     <p style="margin:0">
       Free, for iPhone on iOS 17 or later. Want a note when it lands?
@@ -42,9 +42,9 @@
   </div>
 
   <div class="stat-row">
-    <div class="stat"><b>135</b><span>upcoming shows</span></div>
-    <div class="stat"><b>35</b><span>states covered</span></div>
-    <div class="stat"><b>35</b><span>expo series</span></div>
+    <div class="stat"><b data-stat="totalEvents">135</b><span>upcoming shows</span></div>
+    <div class="stat"><b data-stat="states">35</b><span>states covered</span></div>
+    <div class="stat"><b data-stat="seriesTracked">35</b><span>expo series</span></div>
     <div class="stat"><b>0</b><span>things we collect</span></div>
   </div>
 
@@ -97,5 +97,30 @@
     <p>Not affiliated with any shop, organizer or marketplace listed.</p>
   </div>
 </footer>
+<script>
+(function () {
+  // The numbers in the HTML are a snapshot; the feed refreshes weekly, so let
+  // the page read the live count and quietly correct itself. On launch day
+  // site.json gains an appStoreUrl and the "coming soon" panel becomes the
+  // real button. Both are progressive: without JS the page is still right.
+  function json(u) { return fetch(u, { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : null; }); }
+  json('health.json').then(function (h) {
+    if (!h) return;
+    document.querySelectorAll('[data-stat]').forEach(function (el) {
+      var v = h[el.getAttribute('data-stat')];
+      if (typeof v === 'number') el.textContent = v;
+    });
+  }).catch(function () {});
+  json('site.json').then(function (s) {
+    if (!s || !s.appStoreUrl) return;
+    var cta = document.getElementById('cta');
+    if (!cta) return;
+    cta.innerHTML =
+      '<h3 style="margin-bottom:0.35rem">Free on the App Store</h3>' +
+      '<p style="margin:0 0 0.75rem">For iPhone on iOS 17 or later. No account, no ads, nothing collected.</p>' +
+      '<a class="btn" href="' + s.appStoreUrl.replace(/"/g, '') + '" rel="noopener">Download on the App Store</a>';
+  }).catch(function () {});
+})();
+</script>
 </body>
 </html>
