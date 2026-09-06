@@ -689,6 +689,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "cleveland-reptile-show-medina-2026-10-18",
+    "seriesId": "cleveland-reptile-show",
+    "title": "Cleveland Reptile Show and Sale",
+    "city": "Medina",
+    "state": "OH",
+    "venue": "Medina Fairgrounds Community Building, 735 Lafayette Road",
+    "startDate": "2026-10-18",
+    "endDate": null,
+    "url": "https://www.facebook.com/clevreptileshow/",
+    "source": "https://www.facebook.com/clevreptileshow/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "cold-blooded-expos-bellevue-2026-10-18",
     "seriesId": "cold-blooded-expos",
     "title": "Nebraska Reptile Show",
@@ -988,6 +1001,19 @@
     "checkedAt": "2026-08-22"
   },
   {
+    "id": "cleveland-reptile-show-medina-2026-11-15",
+    "seriesId": "cleveland-reptile-show",
+    "title": "Cleveland Reptile Show and Sale",
+    "city": "Medina",
+    "state": "OH",
+    "venue": "Medina Fairgrounds Community Building, 735 Lafayette Road",
+    "startDate": "2026-11-15",
+    "endDate": null,
+    "url": "https://www.facebook.com/clevreptileshow/",
+    "source": "https://www.facebook.com/clevreptileshow/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "cold-blooded-expos-des-moines-2026-11-15",
     "seriesId": "cold-blooded-expos",
     "title": "Iowa Reptile Show",
@@ -1248,6 +1274,19 @@
     "checkedAt": "2026-08-31"
   },
   {
+    "id": "cleveland-reptile-show-medina-2026-12-20",
+    "seriesId": "cleveland-reptile-show",
+    "title": "Cleveland Reptile Show and Sale",
+    "city": "Medina",
+    "state": "OH",
+    "venue": "Medina Fairgrounds Community Building, 735 Lafayette Road",
+    "startDate": "2026-12-20",
+    "endDate": null,
+    "url": "https://www.facebook.com/clevreptileshow/",
+    "source": "https://www.facebook.com/clevreptileshow/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "west-virginia-reptile-expo-huntington-2026-12-20",
     "seriesId": "west-virginia-reptile-expo",
     "title": "West Virginia Reptile Expo (Huntington)",
@@ -1272,6 +1311,19 @@
     "url": "https://www.scaledupexpos.com/all-expo-dates",
     "source": "https://www.scaledupexpos.com/all-expo-dates",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "reptile-super-show-pomona-2027-01-09",
+    "seriesId": "reptile-super-show",
+    "title": "Reptile Super Show Los Angeles",
+    "city": "Pomona",
+    "state": "CA",
+    "venue": "Pomona Fairplex/Los Angeles County Fairgrounds",
+    "startDate": "2027-01-09",
+    "endDate": "2027-01-10",
+    "url": "https://reptilesupershow.com/",
+    "source": "https://reptilesupershow.com/reptile-super-show-los-angeles-california",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "ny-metro-reptile-expo-white-plains-2027-01-31",
@@ -1376,6 +1428,19 @@
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
     "checkedAt": "2026-08-31"
+  },
+  {
+    "id": "narbc-tinley-park-2027-03-13",
+    "seriesId": "narbc",
+    "title": "NARBC Tinley Park",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "TINLEY PARK CONVENTION CENTER",
+    "startDate": "2027-03-13",
+    "endDate": "2027-03-14",
+    "url": "https://www.narbc.com/",
+    "source": "http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "west-virginia-reptile-expo-shepherdstown-2027-03-20",
@@ -1495,6 +1560,19 @@
     "checkedAt": "2026-08-31"
   },
   {
+    "id": "narbc-tinley-park-2027-06-19",
+    "seriesId": "narbc",
+    "title": "NARBC Tinley Park",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "TINLEY PARK CONVENTION CENTER",
+    "startDate": "2027-06-19",
+    "endDate": "2027-06-20",
+    "url": "https://www.narbc.com/",
+    "source": "http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "new-england-reptile-expo-manchester-2027-06-27",
     "seriesId": "new-england-reptile-expo",
     "title": "New England ReptileExpo",
@@ -1573,6 +1651,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "national-reptile-breeders-expo-daytona-beach-2027-08-14",
+    "seriesId": "national-reptile-breeders-expo",
+    "title": "National Reptile Breeders Expo",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "venue": "Ocean Center",
+    "startDate": "2027-08-14",
+    "endDate": "2027-08-15",
+    "url": "https://www.reptilebreedersexpo.com/",
+    "source": "https://tockify.com/api/feeds/ics/oceancenter",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "scaled-up-reptile-expo-green-bay-2027-08-22",
     "seriesId": "scaled-up-reptile-expo",
     "title": "Scaled Up Reptile Expo - Green Bay",
@@ -1636,6 +1727,19 @@
     "url": "https://www.wvreptileexpo.com/",
     "source": "https://www.wvreptileexpo.com/",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "narbc-tinley-park-2027-10-09",
+    "seriesId": "narbc",
+    "title": "NARBC Tinley Park",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "TINLEY PARK CONVENTION CENTER",
+    "startDate": "2027-10-09",
+    "endDate": "2027-10-10",
+    "url": "https://www.narbc.com/",
+    "source": "http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "scaled-up-reptile-expo-la-crosse-2027-10-23",

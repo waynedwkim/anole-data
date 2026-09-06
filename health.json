@@ -1,18 +1,10 @@
 {
-  "checkedAt": "2026-08-31",
-  "totalEvents": 136,
+  "checkedAt": "2026-09-04",
+  "totalEvents": 144,
   "states": 36,
   "seriesTracked": 35,
-  "seriesWithEvents": 34,
-  "empty": [
-    {
-      "id": "national-reptile-breeders-expo",
-      "name": "National Reptile Breeders' Expo",
-      "website": "https://www.reptilebreedersexpo.com/",
-      "upcoming": 0,
-      "lastDate": null
-    }
-  ],
+  "seriesWithEvents": 35,
+  "empty": [],
   "expiring": [
     {
       "id": "kentucky-reptile-expo",
@@ -29,13 +21,6 @@
       "lastDate": "2026-09-19"
     },
     {
-      "id": "cleveland-reptile-show",
-      "name": "Cleveland Reptile Show & Sale",
-      "website": "https://www.facebook.com/clevreptileshow/",
-      "upcoming": 1,
-      "lastDate": "2026-09-20"
-    },
-    {
       "id": "washington-reptile-expos",
       "name": "Washington Reptile Expos",
       "website": "https://washingtonreptileexpos.com/",
@@ -48,13 +33,6 @@
       "website": "https://sacreptileshow.com/",
       "upcoming": 1,
       "lastDate": "2026-09-27"
-    },
-    {
-      "id": "reptile-super-show",
-      "name": "Reptile Super Show",
-      "website": "https://reptilesupershow.com/",
-      "upcoming": 1,
-      "lastDate": "2026-10-04"
     },
     {
       "id": "tucson-reptile-show",
