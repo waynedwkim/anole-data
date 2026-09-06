@@ -715,6 +715,19 @@
     "checkedAt": "2026-08-31"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-lawton-2026-10-24",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Lawton",
+    "city": "Lawton",
+    "state": "OK",
+    "venue": null,
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-25",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=1",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "show-me-reptile-show-albuquerque-2026-10-24",
     "seriesId": "show-me-reptile-show",
     "title": "Albuquerque Reptile Expo",
@@ -1053,6 +1066,19 @@
     "checkedAt": "2026-08-22"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-west-monroe-2026-11-21",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS West Monroe",
+    "city": "West Monroe",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-22",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=1",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "phoenix-reptile-expo-mesa-2026-11-21",
     "seriesId": "phoenix-reptile-expo",
     "title": "Phoenix Reptile Expo",
@@ -1131,6 +1157,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-belton-2026-12-05",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Belton",
+    "city": "Belton",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-06",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=1",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "cold-blooded-expos-bellevue-2026-12-06",
     "seriesId": "cold-blooded-expos",
     "title": "Nebraska Reptile Show",
@@ -1155,6 +1194,19 @@
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
     "checkedAt": "2026-08-31"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-slidell-2026-12-12",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Slidell",
+    "city": "Slidell",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-13",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=2",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "md-reptile-farm-havre-de-grace-2026-12-12",
@@ -1313,6 +1365,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-oklahoma-city-2027-01-09",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Oklahoma City",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "venue": null,
+    "startDate": "2027-01-09",
+    "endDate": "2027-01-10",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=2",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "reptile-super-show-pomona-2027-01-09",
     "seriesId": "reptile-super-show",
     "title": "Reptile Super Show Los Angeles",
@@ -1323,6 +1388,32 @@
     "endDate": "2027-01-10",
     "url": "https://reptilesupershow.com/",
     "source": "https://reptilesupershow.com/reptile-super-show-los-angeles-california",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-longview-2027-01-16",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Longview",
+    "city": "Longview",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-01-16",
+    "endDate": null,
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=2",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-conroe-2027-01-30",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Conroe",
+    "city": "Conroe",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-01-30",
+    "endDate": "2027-01-31",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=2",
     "checkedAt": "2026-09-04"
   },
   {
@@ -1378,6 +1469,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-taylor-2027-02-13",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Taylor",
+    "city": "Taylor",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-02-13",
+    "endDate": "2027-02-14",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=2",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "scaled-up-reptile-expo-madison-2027-02-14",
     "seriesId": "scaled-up-reptile-expo",
     "title": "Scaled Up Reptile Expo - Madison",
@@ -1404,6 +1508,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-corpus-christi-2027-02-27",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Corpus Christi",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-02-27",
+    "endDate": "2027-02-28",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=2",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "scaled-up-reptile-expo-green-bay-2027-02-28",
     "seriesId": "scaled-up-reptile-expo",
     "title": "Scaled Up Reptile Expo - Green Bay",
@@ -1415,6 +1532,19 @@
     "url": "https://www.scaledupexpos.com/all-expo-dates",
     "source": "https://www.scaledupexpos.com/all-expo-dates",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-baton-rouge-2027-03-06",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Baton Rouge",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2027-03-06",
+    "endDate": "2027-03-07",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=2",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "cvre-del-mar-2027-03-13",
@@ -1430,6 +1560,19 @@
     "checkedAt": "2026-08-31"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-bryan-college-station-2027-03-13",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Bryan-College Station",
+    "city": "Bryan-College Station",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-03-13",
+    "endDate": "2027-03-14",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=2",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "narbc-tinley-park-2027-03-13",
     "seriesId": "narbc",
     "title": "NARBC Tinley Park",
@@ -1440,6 +1583,19 @@
     "endDate": "2027-03-14",
     "url": "https://www.narbc.com/",
     "source": "http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-alexandria-2027-03-20",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Alexandria",
+    "city": "Alexandria",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2027-03-20",
+    "endDate": "2027-03-21",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=3",
     "checkedAt": "2026-09-04"
   },
   {
@@ -1456,6 +1612,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-slidell-2027-04-03",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Slidell",
+    "city": "Slidell",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2027-04-03",
+    "endDate": "2027-04-04",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=3",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "scaled-up-reptile-expo-fond-du-lac-2027-04-04",
     "seriesId": "scaled-up-reptile-expo",
     "title": "Scaled Up Reptile Expo - Fond du Lac",
@@ -1467,6 +1636,19 @@
     "url": "https://www.scaledupexpos.com/all-expo-dates",
     "source": "https://www.scaledupexpos.com/all-expo-dates",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-abilene-2027-04-10",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Abilene",
+    "city": "Abilene",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-04-10",
+    "endDate": "2027-04-11",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=3",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "ny-metro-reptile-expo-white-plains-2027-04-11",
@@ -1495,6 +1677,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-belton-2027-04-24",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Belton",
+    "city": "Belton",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-04-24",
+    "endDate": "2027-04-25",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=3",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "west-virginia-reptile-expo-huntington-2027-04-24",
     "seriesId": "west-virginia-reptile-expo",
     "title": "West Virginia Reptile Expo (Huntington)",
@@ -1519,6 +1714,32 @@
     "url": "https://reptileexpo.com/new-hampshire-reptile-expo/",
     "source": "https://reptileexpo.com/new-hampshire-reptile-expo/",
     "checkedAt": "2026-08-31"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-west-monroe-2027-05-01",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS West Monroe",
+    "city": "West Monroe",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2027-05-01",
+    "endDate": "2027-05-02",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=3",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-stillwater-2027-05-22",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Stillwater",
+    "city": "Stillwater",
+    "state": "OK",
+    "venue": null,
+    "startDate": "2027-05-22",
+    "endDate": "2027-05-23",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=3",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "scaled-up-reptile-expo-rothschild-2027-05-23",
@@ -1560,6 +1781,32 @@
     "checkedAt": "2026-08-31"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-sulphur-2027-06-05",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Sulphur",
+    "city": "Sulphur",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2027-06-05",
+    "endDate": "2027-06-06",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=3",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-conroe-2027-06-12",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Conroe",
+    "city": "Conroe",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-06-12",
+    "endDate": "2027-06-13",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=3",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "narbc-tinley-park-2027-06-19",
     "seriesId": "narbc",
     "title": "NARBC Tinley Park",
@@ -1570,6 +1817,19 @@
     "endDate": "2027-06-20",
     "url": "https://www.narbc.com/",
     "source": "http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-longview-2027-06-26",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Longview",
+    "city": "Longview",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-06-26",
+    "endDate": "2027-06-27",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=4",
     "checkedAt": "2026-09-04"
   },
   {
@@ -1612,6 +1872,19 @@
     "checkedAt": "2026-08-31"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-slidell-2027-07-17",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Slidell",
+    "city": "Slidell",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2027-07-17",
+    "endDate": "2027-07-18",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=4",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "scaled-up-reptile-expo-madison-2027-07-18",
     "seriesId": "scaled-up-reptile-expo",
     "title": "Scaled Up Reptile Expo - Madison",
@@ -1638,6 +1911,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-oklahoma-city-2027-07-31",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Oklahoma City",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "venue": null,
+    "startDate": "2027-07-31",
+    "endDate": "2027-08-01",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=4",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "scaled-up-reptile-expo-fond-du-lac-2027-08-01",
     "seriesId": "scaled-up-reptile-expo",
     "title": "Scaled Up Reptile Expo - Fond du Lac",
@@ -1651,6 +1937,32 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-corpus-christi-2027-08-07",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Corpus Christi",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-08-07",
+    "endDate": "2027-08-08",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=4",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-taylor-2027-08-14",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Taylor",
+    "city": "Taylor",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-08-14",
+    "endDate": "2027-08-15",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=4",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "national-reptile-breeders-expo-daytona-beach-2027-08-14",
     "seriesId": "national-reptile-breeders-expo",
     "title": "National Reptile Breeders Expo",
@@ -1661,6 +1973,19 @@
     "endDate": "2027-08-15",
     "url": "https://www.reptilebreedersexpo.com/",
     "source": "https://tockify.com/api/feeds/ics/oceancenter",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-baton-rouge-2027-08-21",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Baton Rouge",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2027-08-21",
+    "endDate": "2027-08-22",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=4",
     "checkedAt": "2026-09-04"
   },
   {
@@ -1690,6 +2015,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-conroe-2027-09-11",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Conroe",
+    "city": "Conroe",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-09-11",
+    "endDate": "2027-09-12",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=4",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "ny-metro-reptile-expo-white-plains-2027-09-12",
     "seriesId": "ny-metro-reptile-expo",
     "title": "New York Metro ReptileExpo",
@@ -1701,6 +2039,32 @@
     "url": "https://reptileexpo.com/new-york-metro-reptileexpo/",
     "source": "https://reptileexpo.com/new-york-metro-reptileexpo/",
     "checkedAt": "2026-08-31"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-bryan-college-station-2027-09-18",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Bryan-College Station",
+    "city": "Bryan-College Station",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-09-18",
+    "endDate": "2027-09-19",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=4",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-abilene-2027-09-25",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Abilene",
+    "city": "Abilene",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-09-25",
+    "endDate": "2027-09-26",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=5",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "scaled-up-reptile-expo-rothschild-2027-09-26",
@@ -1729,6 +2093,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-alexandria-2027-10-02",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Alexandria",
+    "city": "Alexandria",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2027-10-02",
+    "endDate": "2027-10-03",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=5",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "narbc-tinley-park-2027-10-09",
     "seriesId": "narbc",
     "title": "NARBC Tinley Park",
@@ -1739,6 +2116,19 @@
     "endDate": "2027-10-10",
     "url": "https://www.narbc.com/",
     "source": "http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-lawton-2027-10-23",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Lawton",
+    "city": "Lawton",
+    "state": "OK",
+    "venue": null,
+    "startDate": "2027-10-23",
+    "endDate": "2027-10-24",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=5",
     "checkedAt": "2026-09-04"
   },
   {
@@ -1781,6 +2171,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "herps-exotic-reptile-pet-shows-west-monroe-2027-11-06",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS West Monroe",
+    "city": "West Monroe",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2027-11-06",
+    "endDate": "2027-11-07",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=5",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "new-england-reptile-expo-manchester-2027-11-07",
     "seriesId": "new-england-reptile-expo",
     "title": "New England ReptileExpo",
@@ -1805,6 +2208,19 @@
     "url": "https://www.scaledupexpos.com/all-expo-dates",
     "source": "https://www.scaledupexpos.com/all-expo-dates",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-sulphur-2027-11-13",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Sulphur",
+    "city": "Sulphur",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2027-11-13",
+    "endDate": "2027-11-14",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=5",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "scaled-up-reptile-expo-fond-du-lac-2027-11-14",
@@ -1844,6 +2260,32 @@
     "url": "https://www.wvreptileexpo.com/",
     "source": "https://www.wvreptileexpo.com/",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-belton-2027-12-04",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Belton",
+    "city": "Belton",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-12-04",
+    "endDate": "2027-12-05",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=5",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "herps-exotic-reptile-pet-shows-slidell-2027-12-11",
+    "seriesId": "herps-exotic-reptile-pet-shows",
+    "title": "HERPS Slidell",
+    "city": "Slidell",
+    "state": "LA",
+    "venue": null,
+    "startDate": "2027-12-11",
+    "endDate": "2027-12-12",
+    "url": "https://www.herpshow.net/shows",
+    "source": "https://www.herpshow.net/shows?ae7ec6fc_page=5",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "west-virginia-reptile-expo-huntington-2027-12-18",
