@@ -21,4 +21,43 @@ URL:https://www.zerklereptilecompany.com/current-show-schedule
 DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
+BEGIN:VEVENT
+UID:cleveland-reptile-show-medina-2026-10-18@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Cleveland Reptile Show and Sale
+TRANSP:TRANSPARENT
+LOCATION:Medina Fairgrounds Community Building\, 735 Lafayette Road\, Medin
+ a\, OH
+URL:https://www.facebook.com/clevreptileshow/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cleveland-reptile-show-medina-2026-11-15@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Cleveland Reptile Show and Sale
+TRANSP:TRANSPARENT
+LOCATION:Medina Fairgrounds Community Building\, 735 Lafayette Road\, Medin
+ a\, OH
+URL:https://www.facebook.com/clevreptileshow/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:cleveland-reptile-show-medina-2026-12-20@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Cleveland Reptile Show and Sale
+TRANSP:TRANSPARENT
+LOCATION:Medina Fairgrounds Community Building\, 735 Lafayette Road\, Medin
+ a\, OH
+URL:https://www.facebook.com/clevreptileshow/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
 END:VCALENDAR

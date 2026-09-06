@@ -20,4 +20,16 @@ URL:https://reptilesupershow.com/
 DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
+BEGIN:VEVENT
+UID:reptile-super-show-pomona-2027-01-09@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+SUMMARY:Reptile Super Show Los Angeles
+TRANSP:TRANSPARENT
+LOCATION:Pomona Fairplex/Los Angeles County Fairgrounds\, Pomona\, CA
+URL:https://reptilesupershow.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
 END:VCALENDAR

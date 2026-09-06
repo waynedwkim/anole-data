@@ -9,4 +9,16 @@ X-WR-CALDESC:National Reptile Breeders' Expo — dates verified against the
   organizer.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:national-reptile-breeders-expo-daytona-beach-2027-08-14@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270816
+SUMMARY:National Reptile Breeders Expo
+TRANSP:TRANSPARENT
+LOCATION:Ocean Center\, Daytona Beach\, FL
+URL:https://www.reptilebreedersexpo.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
 END:VCALENDAR

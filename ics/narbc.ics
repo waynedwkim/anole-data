@@ -33,4 +33,40 @@ URL:http://www.narbc.com/StLouis/show_info_narbc_stlouis.html
 DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
+BEGIN:VEVENT
+UID:narbc-tinley-park-2027-03-13@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+SUMMARY:NARBC Tinley Park
+TRANSP:TRANSPARENT
+LOCATION:TINLEY PARK CONVENTION CENTER\, Tinley Park\, IL
+URL:https://www.narbc.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:narbc-tinley-park-2027-06-19@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270621
+SUMMARY:NARBC Tinley Park
+TRANSP:TRANSPARENT
+LOCATION:TINLEY PARK CONVENTION CENTER\, Tinley Park\, IL
+URL:https://www.narbc.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:narbc-tinley-park-2027-10-09@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271011
+SUMMARY:NARBC Tinley Park
+TRANSP:TRANSPARENT
+LOCATION:TINLEY PARK CONVENTION CENTER\, Tinley Park\, IL
+URL:https://www.narbc.com/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
 END:VCALENDAR

@@ -70,6 +70,18 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-lawton-2026-10-24@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:HERPS Lawton
+TRANSP:TRANSPARENT
+LOCATION:Lawton\, OK
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
 UID:herps-sulphur-2026-11-14@anole.app
 DTSTAMP:20260822T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -79,6 +91,404 @@ TRANSP:TRANSPARENT
 LOCATION:Sulphur\, LA
 URL:https://www.herpshow.net/shows
 DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-west-monroe-2026-11-21@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:HERPS West Monroe
+TRANSP:TRANSPARENT
+LOCATION:West Monroe\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-belton-2026-12-05@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:HERPS Belton
+TRANSP:TRANSPARENT
+LOCATION:Belton\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-slidell-2026-12-12@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:HERPS Slidell
+TRANSP:TRANSPARENT
+LOCATION:Slidell\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-oklahoma-city-2027-01-09@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+SUMMARY:HERPS Oklahoma City
+TRANSP:TRANSPARENT
+LOCATION:Oklahoma City\, OK
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-longview-2027-01-16@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:HERPS Longview
+TRANSP:TRANSPARENT
+LOCATION:Longview\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-conroe-2027-01-30@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+SUMMARY:HERPS Conroe
+TRANSP:TRANSPARENT
+LOCATION:Conroe\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-taylor-2027-02-13@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+SUMMARY:HERPS Taylor
+TRANSP:TRANSPARENT
+LOCATION:Taylor\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-corpus-christi-2027-02-27@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+SUMMARY:HERPS Corpus Christi
+TRANSP:TRANSPARENT
+LOCATION:Corpus Christi\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-baton-rouge-2027-03-06@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270308
+SUMMARY:HERPS Baton Rouge
+TRANSP:TRANSPARENT
+LOCATION:Baton Rouge\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-bryan-college-station-2027-03-13@anole.a
+ pp
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+SUMMARY:HERPS Bryan-College Station
+TRANSP:TRANSPARENT
+LOCATION:Bryan-College Station\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-alexandria-2027-03-20@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270322
+SUMMARY:HERPS Alexandria
+TRANSP:TRANSPARENT
+LOCATION:Alexandria\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-slidell-2027-04-03@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270405
+SUMMARY:HERPS Slidell
+TRANSP:TRANSPARENT
+LOCATION:Slidell\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-abilene-2027-04-10@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270412
+SUMMARY:HERPS Abilene
+TRANSP:TRANSPARENT
+LOCATION:Abilene\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-belton-2027-04-24@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+SUMMARY:HERPS Belton
+TRANSP:TRANSPARENT
+LOCATION:Belton\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-west-monroe-2027-05-01@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270503
+SUMMARY:HERPS West Monroe
+TRANSP:TRANSPARENT
+LOCATION:West Monroe\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-stillwater-2027-05-22@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270524
+SUMMARY:HERPS Stillwater
+TRANSP:TRANSPARENT
+LOCATION:Stillwater\, OK
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-sulphur-2027-06-05@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+SUMMARY:HERPS Sulphur
+TRANSP:TRANSPARENT
+LOCATION:Sulphur\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-conroe-2027-06-12@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270614
+SUMMARY:HERPS Conroe
+TRANSP:TRANSPARENT
+LOCATION:Conroe\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-longview-2027-06-26@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270628
+SUMMARY:HERPS Longview
+TRANSP:TRANSPARENT
+LOCATION:Longview\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-slidell-2027-07-17@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270719
+SUMMARY:HERPS Slidell
+TRANSP:TRANSPARENT
+LOCATION:Slidell\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-oklahoma-city-2027-07-31@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270802
+SUMMARY:HERPS Oklahoma City
+TRANSP:TRANSPARENT
+LOCATION:Oklahoma City\, OK
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-corpus-christi-2027-08-07@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270809
+SUMMARY:HERPS Corpus Christi
+TRANSP:TRANSPARENT
+LOCATION:Corpus Christi\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-taylor-2027-08-14@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270816
+SUMMARY:HERPS Taylor
+TRANSP:TRANSPARENT
+LOCATION:Taylor\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-baton-rouge-2027-08-21@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270823
+SUMMARY:HERPS Baton Rouge
+TRANSP:TRANSPARENT
+LOCATION:Baton Rouge\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-conroe-2027-09-11@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270913
+SUMMARY:HERPS Conroe
+TRANSP:TRANSPARENT
+LOCATION:Conroe\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-bryan-college-station-2027-09-18@anole.a
+ pp
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270920
+SUMMARY:HERPS Bryan-College Station
+TRANSP:TRANSPARENT
+LOCATION:Bryan-College Station\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-abilene-2027-09-25@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270927
+SUMMARY:HERPS Abilene
+TRANSP:TRANSPARENT
+LOCATION:Abilene\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-alexandria-2027-10-02@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271004
+SUMMARY:HERPS Alexandria
+TRANSP:TRANSPARENT
+LOCATION:Alexandria\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-lawton-2027-10-23@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271025
+SUMMARY:HERPS Lawton
+TRANSP:TRANSPARENT
+LOCATION:Lawton\, OK
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-west-monroe-2027-11-06@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271108
+SUMMARY:HERPS West Monroe
+TRANSP:TRANSPARENT
+LOCATION:West Monroe\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-sulphur-2027-11-13@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271115
+SUMMARY:HERPS Sulphur
+TRANSP:TRANSPARENT
+LOCATION:Sulphur\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-belton-2027-12-04@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271206
+SUMMARY:HERPS Belton
+TRANSP:TRANSPARENT
+LOCATION:Belton\, TX
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:herps-exotic-reptile-pet-shows-slidell-2027-12-11@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271213
+SUMMARY:HERPS Slidell
+TRANSP:TRANSPARENT
+LOCATION:Slidell\, LA
+URL:https://www.herpshow.net/shows
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 END:VCALENDAR

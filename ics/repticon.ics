@@ -47,6 +47,66 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
+UID:repticon-port-charlotte-2026-09-12@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Repticon Port Charlotte
+TRANSP:TRANSPARENT
+LOCATION:Port Charlotte\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-kissimmee-2026-09-19@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Repticon Kissimmee
+TRANSP:TRANSPARENT
+LOCATION:Kissimmee\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-baltimore-2026-09-26@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Repticon Baltimore
+TRANSP:TRANSPARENT
+LOCATION:Baltimore\, MD
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-charleston-2026-09-26@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Repticon Charleston
+TRANSP:TRANSPARENT
+LOCATION:Charleston\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-lakeland-2026-09-26@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:Repticon Lakeland
+TRANSP:TRANSPARENT
+LOCATION:Lakeland\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
 UID:repticon-houston-2026-10-03@anole.app
 DTSTAMP:20260822T000000Z
 DTSTART;VALUE=DATE:20261003
@@ -56,6 +116,18 @@ TRANSP:TRANSPARENT
 LOCATION:Houston\, TX
 URL:https://repticon.com/texas/houston/
 DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-charlotte-2026-10-10@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Repticon Charlotte
+TRANSP:TRANSPARENT
+LOCATION:Charlotte\, NC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -71,6 +143,90 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
+UID:repticon-ft-walton-beach-2026-10-10@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Repticon Ft Walton Beach
+TRANSP:TRANSPARENT
+LOCATION:Ft Walton Beach\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-atlanta-2026-10-17@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Repticon Atlanta
+TRANSP:TRANSPARENT
+LOCATION:Atlanta\, GA
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-chattanooga-2026-10-17@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Repticon Chattanooga
+TRANSP:TRANSPARENT
+LOCATION:Chattanooga\, TN
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-ft-pierce-2026-10-24@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Repticon Ft Pierce
+TRANSP:TRANSPARENT
+LOCATION:Ft Pierce\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-columbia-2026-10-31@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:Repticon Columbia
+TRANSP:TRANSPARENT
+LOCATION:Columbia\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-sarasota-2026-10-31@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Repticon Sarasota
+TRANSP:TRANSPARENT
+LOCATION:Sarasota\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-inverness-2026-11-01@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Repticon Inverness
+TRANSP:TRANSPARENT
+LOCATION:Inverness\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
 UID:repticon-costa-mesa-2026-11-07@anole.app
 DTSTAMP:20260822T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -80,6 +236,66 @@ TRANSP:TRANSPARENT
 LOCATION:Costa Mesa\, CA
 URL:https://repticon.com/california/los-angeles-costa-mesa/
 DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-orlando-2026-11-07@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Repticon Orlando
+TRANSP:TRANSPARENT
+LOCATION:Orlando\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-tampa-2026-11-14@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Repticon Tampa
+TRANSP:TRANSPARENT
+LOCATION:Tampa\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-dallas-2026-11-21@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:Repticon Dallas
+TRANSP:TRANSPARENT
+LOCATION:Dallas\, TX
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-huntsville-2026-11-21@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:Repticon Huntsville
+TRANSP:TRANSPARENT
+LOCATION:Huntsville\, AL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-port-charlotte-2026-11-28@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Repticon Port Charlotte
+TRANSP:TRANSPARENT
+LOCATION:Port Charlotte\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -93,6 +309,534 @@ LOCATION:Agri Supply Exposition Center\, NC State Fairgrounds\, 4825 Trinit
  y Rd\, Raleigh\, NC
 URL:https://www.visitraleigh.com/event/repticon-2026/104758/
 DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-lakeland-2026-12-05@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Repticon Lakeland
+TRANSP:TRANSPARENT
+LOCATION:Lakeland\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-charlotte-2026-12-12@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Repticon Charlotte
+TRANSP:TRANSPARENT
+LOCATION:Charlotte\, NC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-fayetteville-2026-12-19@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+SUMMARY:Repticon Fayetteville
+TRANSP:TRANSPARENT
+LOCATION:Fayetteville\, NC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-pembroke-pines-2026-12-19@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+SUMMARY:Repticon Pembroke Pines
+TRANSP:TRANSPARENT
+LOCATION:Pembroke Pines\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-melbourne-2026-12-27@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Repticon Melbourne
+TRANSP:TRANSPARENT
+LOCATION:Melbourne\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-atlanta-2027-01-02@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270104
+SUMMARY:Repticon Atlanta
+TRANSP:TRANSPARENT
+LOCATION:Atlanta\, GA
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-orlando-2027-01-02@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270104
+SUMMARY:Repticon Orlando
+TRANSP:TRANSPARENT
+LOCATION:Orlando\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-houston-2027-01-09@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+SUMMARY:Repticon Houston
+TRANSP:TRANSPARENT
+LOCATION:Houston\, TX
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-huntsville-2027-01-30@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+SUMMARY:Repticon Huntsville
+TRANSP:TRANSPARENT
+LOCATION:Huntsville\, AL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-greenville-2027-02-06@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+SUMMARY:Repticon Greenville
+TRANSP:TRANSPARENT
+LOCATION:Greenville\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-charlotte-2027-02-13@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+SUMMARY:Repticon Charlotte
+TRANSP:TRANSPARENT
+LOCATION:Charlotte\, NC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-dallas-2027-02-13@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+SUMMARY:Repticon Dallas
+TRANSP:TRANSPARENT
+LOCATION:Dallas\, TX
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-columbia-2027-02-20@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270222
+SUMMARY:Repticon Columbia
+TRANSP:TRANSPARENT
+LOCATION:Columbia\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-tampa-2027-02-20@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270222
+SUMMARY:Repticon Tampa
+TRANSP:TRANSPARENT
+LOCATION:Tampa\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-charleston-2027-03-20@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270322
+SUMMARY:Repticon Charleston
+TRANSP:TRANSPARENT
+LOCATION:Charleston\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-raleigh-2027-04-03@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270405
+SUMMARY:Repticon Raleigh
+TRANSP:TRANSPARENT
+LOCATION:Raleigh\, NC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-atlanta-2027-04-10@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270412
+SUMMARY:Repticon Atlanta
+TRANSP:TRANSPARENT
+LOCATION:Atlanta\, GA
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-greenville-2027-04-24@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+SUMMARY:Repticon Greenville
+TRANSP:TRANSPARENT
+LOCATION:Greenville\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-columbia-2027-05-01@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270503
+SUMMARY:Repticon Columbia
+TRANSP:TRANSPARENT
+LOCATION:Columbia\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-orlando-2027-05-22@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270524
+SUMMARY:Repticon Orlando
+TRANSP:TRANSPARENT
+LOCATION:Orlando\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-houston-2027-05-29@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270531
+SUMMARY:Repticon Houston
+TRANSP:TRANSPARENT
+LOCATION:Houston\, TX
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-charlotte-2027-06-05@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+SUMMARY:Repticon Charlotte
+TRANSP:TRANSPARENT
+LOCATION:Charlotte\, NC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-tampa-2027-06-05@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+SUMMARY:Repticon Tampa
+TRANSP:TRANSPARENT
+LOCATION:Tampa\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-charleston-2027-06-12@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270614
+SUMMARY:Repticon Charleston
+TRANSP:TRANSPARENT
+LOCATION:Charleston\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-nashville-2027-06-19@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270621
+SUMMARY:Repticon Nashville
+TRANSP:TRANSPARENT
+LOCATION:Nashville\, TN
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-chattanooga-2027-06-26@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270628
+SUMMARY:Repticon Chattanooga
+TRANSP:TRANSPARENT
+LOCATION:Chattanooga\, TN
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-dallas-2027-06-26@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270628
+SUMMARY:Repticon Dallas
+TRANSP:TRANSPARENT
+LOCATION:Dallas\, TX
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-greenville-2027-07-03@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270705
+SUMMARY:Repticon Greenville
+TRANSP:TRANSPARENT
+LOCATION:Greenville\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-atlanta-2027-07-10@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270712
+SUMMARY:Repticon Atlanta
+TRANSP:TRANSPARENT
+LOCATION:Atlanta\, GA
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-houston-2027-07-24@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270726
+SUMMARY:Repticon Houston
+TRANSP:TRANSPARENT
+LOCATION:Houston\, TX
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-orlando-2027-07-24@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270726
+SUMMARY:Repticon Orlando
+TRANSP:TRANSPARENT
+LOCATION:Orlando\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-columbia-2027-07-31@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270802
+SUMMARY:Repticon Columbia
+TRANSP:TRANSPARENT
+LOCATION:Columbia\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-trussville-birmingham-2027-08-28@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270830
+SUMMARY:Repticon Trussville (Birmingham)
+TRANSP:TRANSPARENT
+LOCATION:Trussville (Birmingham)\, AL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-greenville-2027-09-11@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270913
+SUMMARY:Repticon Greenville
+TRANSP:TRANSPARENT
+LOCATION:Greenville\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-charleston-2027-09-25@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270927
+SUMMARY:Repticon Charleston
+TRANSP:TRANSPARENT
+LOCATION:Charleston\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-charlotte-2027-10-02@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271004
+SUMMARY:Repticon Charlotte
+TRANSP:TRANSPARENT
+LOCATION:Charlotte\, NC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-houston-2027-10-09@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271011
+SUMMARY:Repticon Houston
+TRANSP:TRANSPARENT
+LOCATION:Houston\, TX
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-atlanta-2027-10-16@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271018
+SUMMARY:Repticon Atlanta
+TRANSP:TRANSPARENT
+LOCATION:Atlanta\, GA
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-columbia-2027-10-30@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271101
+SUMMARY:Repticon Columbia
+TRANSP:TRANSPARENT
+LOCATION:Columbia\, SC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-tampa-2027-11-13@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271115
+SUMMARY:Repticon Tampa
+TRANSP:TRANSPARENT
+LOCATION:Tampa\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-dallas-2027-11-20@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271122
+SUMMARY:Repticon Dallas
+TRANSP:TRANSPARENT
+LOCATION:Dallas\, TX
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-charlotte-2027-12-04@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271206
+SUMMARY:Repticon Charlotte
+TRANSP:TRANSPARENT
+LOCATION:Charlotte\, NC
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-orlando-2027-12-04@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271206
+SUMMARY:Repticon Orlando
+TRANSP:TRANSPARENT
+LOCATION:Orlando\, FL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
+ tes can move\; confirm with the organizer before travelling.
+END:VEVENT
+BEGIN:VEVENT
+UID:repticon-trussville-birmingham-2027-12-11@anole.app
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271213
+SUMMARY:Repticon Trussville (Birmingham)
+TRANSP:TRANSPARENT
+LOCATION:Trussville (Birmingham)\, AL
+URL:https://repticon.com/show-calendar/
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 END:VCALENDAR
