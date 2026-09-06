@@ -169,6 +169,19 @@
     "checkedAt": "2026-08-22"
   },
   {
+    "id": "repticon-port-charlotte-2026-09-12",
+    "seriesId": "repticon",
+    "title": "Repticon Port Charlotte",
+    "city": "Port Charlotte",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-09-12",
+    "endDate": null,
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "cold-blooded-expos-overland-park-2026-09-13",
     "seriesId": "cold-blooded-expos",
     "title": "Kansas City Reptile Show",
@@ -258,6 +271,19 @@
     "url": "https://nwreptileexpos.com/events/",
     "source": "https://nwreptileexpos.com/events/",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "repticon-kissimmee-2026-09-19",
+    "seriesId": "repticon",
+    "title": "Repticon Kissimmee",
+    "city": "Kissimmee",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "reptilian-nation-expo-atlanta-2026-09-19",
@@ -362,6 +388,45 @@
     "url": "https://mdreptilefarm.com/events/reptiles-at-the-york-expo-923-562-461-772-907-331/",
     "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
     "checkedAt": "2026-08-31"
+  },
+  {
+    "id": "repticon-baltimore-2026-09-26",
+    "seriesId": "repticon",
+    "title": "Repticon Baltimore",
+    "city": "Baltimore",
+    "state": "MD",
+    "venue": null,
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-27",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-charleston-2026-09-26",
+    "seriesId": "repticon",
+    "title": "Repticon Charleston",
+    "city": "Charleston",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-27",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-lakeland-2026-09-26",
+    "seriesId": "repticon",
+    "title": "Repticon Lakeland",
+    "city": "Lakeland",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-27",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "sacramento-reptile-show-sacramento-2026-09-26",
@@ -533,6 +598,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "repticon-charlotte-2026-10-10",
+    "seriesId": "repticon",
+    "title": "Repticon Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": null,
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-11",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "repticon-denver-2026-10-10",
     "seriesId": "repticon",
     "title": "Repticon Denver",
@@ -544,6 +622,19 @@
     "url": "https://repticon.com/colorado/denver/",
     "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-08-22"
+  },
+  {
+    "id": "repticon-ft-walton-beach-2026-10-10",
+    "seriesId": "repticon",
+    "title": "Repticon Ft Walton Beach",
+    "city": "Ft Walton Beach",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-11",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "cold-blooded-expos-st-paul-2026-10-11",
@@ -637,6 +728,32 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "repticon-atlanta-2026-10-17",
+    "seriesId": "repticon",
+    "title": "Repticon Atlanta",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": null,
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-18",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-chattanooga-2026-10-17",
+    "seriesId": "repticon",
+    "title": "Repticon Chattanooga",
+    "city": "Chattanooga",
+    "state": "TN",
+    "venue": null,
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-18",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "reptilian-nation-expo-oklahoma-city-2026-10-17",
     "seriesId": "reptilian-nation-expo",
     "title": "Reptilian Nation Expo Oklahoma City",
@@ -728,6 +845,19 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-ft-pierce-2026-10-24",
+    "seriesId": "repticon",
+    "title": "Repticon Ft Pierce",
+    "city": "Ft Pierce",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-10-24",
+    "endDate": null,
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "show-me-reptile-show-albuquerque-2026-10-24",
     "seriesId": "show-me-reptile-show",
     "title": "Albuquerque Reptile Expo",
@@ -806,6 +936,32 @@
     "checkedAt": "2026-08-31"
   },
   {
+    "id": "repticon-columbia-2026-10-31",
+    "seriesId": "repticon",
+    "title": "Repticon Columbia",
+    "city": "Columbia",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2026-10-31",
+    "endDate": "2026-11-01",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-sarasota-2026-10-31",
+    "seriesId": "repticon",
+    "title": "Repticon Sarasota",
+    "city": "Sarasota",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-10-31",
+    "endDate": null,
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "cold-blooded-expos-overland-park-2026-11-01",
     "seriesId": "cold-blooded-expos",
     "title": "Kansas City Reptile Show",
@@ -830,6 +986,19 @@
     "url": "https://collisonzoo.com/kalamazooreptileexpo/",
     "source": "https://collisonzoo.com/kalamazooreptileexpo/",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "repticon-inverness-2026-11-01",
+    "seriesId": "repticon",
+    "title": "Repticon Inverness",
+    "city": "Inverness",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-11-01",
+    "endDate": null,
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "all-maryland-reptile-show-2026-11-07",
@@ -869,6 +1038,19 @@
     "url": "https://repticon.com/california/los-angeles-costa-mesa/",
     "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-08-22"
+  },
+  {
+    "id": "repticon-orlando-2026-11-07",
+    "seriesId": "repticon",
+    "title": "Repticon Orlando",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-08",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "scaled-up-reptile-expo-la-crosse-2026-11-07",
@@ -1014,6 +1196,19 @@
     "checkedAt": "2026-08-22"
   },
   {
+    "id": "repticon-tampa-2026-11-14",
+    "seriesId": "repticon",
+    "title": "Repticon Tampa",
+    "city": "Tampa",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-15",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "cleveland-reptile-show-medina-2026-11-15",
     "seriesId": "cleveland-reptile-show",
     "title": "Cleveland Reptile Show and Sale",
@@ -1092,6 +1287,32 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "repticon-dallas-2026-11-21",
+    "seriesId": "repticon",
+    "title": "Repticon Dallas",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-22",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-huntsville-2026-11-21",
+    "seriesId": "repticon",
+    "title": "Repticon Huntsville",
+    "city": "Huntsville",
+    "state": "AL",
+    "venue": null,
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-22",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "ny-metro-reptile-expo-white-plains-2026-11-22",
     "seriesId": "ny-metro-reptile-expo",
     "title": "New York Metro ReptileExpo",
@@ -1131,6 +1352,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "repticon-port-charlotte-2026-11-28",
+    "seriesId": "repticon",
+    "title": "Repticon Port Charlotte",
+    "city": "Port Charlotte",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-11-28",
+    "endDate": null,
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "repticon-raleigh-2026-11-28",
     "seriesId": "repticon",
     "title": "Repticon Raleigh",
@@ -1167,6 +1401,19 @@
     "endDate": "2026-12-06",
     "url": "https://www.herpshow.net/shows",
     "source": "https://www.herpshow.net/shows?ae7ec6fc_page=1",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-lakeland-2026-12-05",
+    "seriesId": "repticon",
+    "title": "Repticon Lakeland",
+    "city": "Lakeland",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-06",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-09-04"
   },
   {
@@ -1233,6 +1480,19 @@
     "url": "https://www.michiganreptileshow.com/",
     "source": "https://www.michiganreptileshow.com/images/Copilot_20260815_184050.png",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "repticon-charlotte-2026-12-12",
+    "seriesId": "repticon",
+    "title": "Repticon Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": null,
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-13",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "show-me-reptile-show-knoxville-2026-12-12",
@@ -1326,6 +1586,32 @@
     "checkedAt": "2026-08-31"
   },
   {
+    "id": "repticon-fayetteville-2026-12-19",
+    "seriesId": "repticon",
+    "title": "Repticon Fayetteville",
+    "city": "Fayetteville",
+    "state": "NC",
+    "venue": null,
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-pembroke-pines-2026-12-19",
+    "seriesId": "repticon",
+    "title": "Repticon Pembroke Pines",
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "cleveland-reptile-show-medina-2026-12-20",
     "seriesId": "cleveland-reptile-show",
     "title": "Cleveland Reptile Show and Sale",
@@ -1352,6 +1638,45 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "repticon-melbourne-2026-12-27",
+    "seriesId": "repticon",
+    "title": "Repticon Melbourne",
+    "city": "Melbourne",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2026-12-27",
+    "endDate": null,
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-atlanta-2027-01-02",
+    "seriesId": "repticon",
+    "title": "Repticon Atlanta",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": null,
+    "startDate": "2027-01-02",
+    "endDate": "2027-01-03",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-orlando-2027-01-02",
+    "seriesId": "repticon",
+    "title": "Repticon Orlando",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2027-01-02",
+    "endDate": "2027-01-03",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "scaled-up-reptile-expo-fond-du-lac-2027-01-03",
     "seriesId": "scaled-up-reptile-expo",
     "title": "Scaled Up Reptile Expo - Fond du Lac",
@@ -1375,6 +1700,19 @@
     "endDate": "2027-01-10",
     "url": "https://www.herpshow.net/shows",
     "source": "https://www.herpshow.net/shows?ae7ec6fc_page=2",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-houston-2027-01-09",
+    "seriesId": "repticon",
+    "title": "Repticon Houston",
+    "city": "Houston",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-01-09",
+    "endDate": "2027-01-10",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-09-04"
   },
   {
@@ -1417,6 +1755,19 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-huntsville-2027-01-30",
+    "seriesId": "repticon",
+    "title": "Repticon Huntsville",
+    "city": "Huntsville",
+    "state": "AL",
+    "venue": null,
+    "startDate": "2027-01-30",
+    "endDate": "2027-01-31",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "ny-metro-reptile-expo-white-plains-2027-01-31",
     "seriesId": "ny-metro-reptile-expo",
     "title": "New York Metro ReptileExpo",
@@ -1441,6 +1792,19 @@
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
     "checkedAt": "2026-08-31"
+  },
+  {
+    "id": "repticon-greenville-2027-02-06",
+    "seriesId": "repticon",
+    "title": "Repticon Greenville",
+    "city": "Greenville",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2027-02-06",
+    "endDate": "2027-02-07",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "new-england-reptile-expo-manchester-2027-02-07",
@@ -1482,6 +1846,32 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-charlotte-2027-02-13",
+    "seriesId": "repticon",
+    "title": "Repticon Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": null,
+    "startDate": "2027-02-13",
+    "endDate": "2027-02-14",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-dallas-2027-02-13",
+    "seriesId": "repticon",
+    "title": "Repticon Dallas",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-02-13",
+    "endDate": "2027-02-14",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "scaled-up-reptile-expo-madison-2027-02-14",
     "seriesId": "scaled-up-reptile-expo",
     "title": "Scaled Up Reptile Expo - Madison",
@@ -1493,6 +1883,32 @@
     "url": "https://www.scaledupexpos.com/all-expo-dates",
     "source": "https://www.scaledupexpos.com/all-expo-dates",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "repticon-columbia-2027-02-20",
+    "seriesId": "repticon",
+    "title": "Repticon Columbia",
+    "city": "Columbia",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2027-02-20",
+    "endDate": "2027-02-21",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-tampa-2027-02-20",
+    "seriesId": "repticon",
+    "title": "Repticon Tampa",
+    "city": "Tampa",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2027-02-20",
+    "endDate": "2027-02-21",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "west-virginia-reptile-expo-institute-2027-02-21",
@@ -1599,6 +2015,19 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-charleston-2027-03-20",
+    "seriesId": "repticon",
+    "title": "Repticon Charleston",
+    "city": "Charleston",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2027-03-20",
+    "endDate": "2027-03-21",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "west-virginia-reptile-expo-shepherdstown-2027-03-20",
     "seriesId": "west-virginia-reptile-expo",
     "title": "West Virginia Reptile Expo (Shepherdstown)",
@@ -1625,6 +2054,19 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-raleigh-2027-04-03",
+    "seriesId": "repticon",
+    "title": "Repticon Raleigh",
+    "city": "Raleigh",
+    "state": "NC",
+    "venue": null,
+    "startDate": "2027-04-03",
+    "endDate": "2027-04-04",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "scaled-up-reptile-expo-fond-du-lac-2027-04-04",
     "seriesId": "scaled-up-reptile-expo",
     "title": "Scaled Up Reptile Expo - Fond du Lac",
@@ -1648,6 +2090,19 @@
     "endDate": "2027-04-11",
     "url": "https://www.herpshow.net/shows",
     "source": "https://www.herpshow.net/shows?ae7ec6fc_page=3",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-atlanta-2027-04-10",
+    "seriesId": "repticon",
+    "title": "Repticon Atlanta",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": null,
+    "startDate": "2027-04-10",
+    "endDate": "2027-04-11",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-09-04"
   },
   {
@@ -1690,6 +2145,19 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-greenville-2027-04-24",
+    "seriesId": "repticon",
+    "title": "Repticon Greenville",
+    "city": "Greenville",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2027-04-24",
+    "endDate": "2027-04-25",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "west-virginia-reptile-expo-huntington-2027-04-24",
     "seriesId": "west-virginia-reptile-expo",
     "title": "West Virginia Reptile Expo (Huntington)",
@@ -1729,6 +2197,19 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-columbia-2027-05-01",
+    "seriesId": "repticon",
+    "title": "Repticon Columbia",
+    "city": "Columbia",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2027-05-01",
+    "endDate": "2027-05-02",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "herps-exotic-reptile-pet-shows-stillwater-2027-05-22",
     "seriesId": "herps-exotic-reptile-pet-shows",
     "title": "HERPS Stillwater",
@@ -1739,6 +2220,19 @@
     "endDate": "2027-05-23",
     "url": "https://www.herpshow.net/shows",
     "source": "https://www.herpshow.net/shows?ae7ec6fc_page=3",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-orlando-2027-05-22",
+    "seriesId": "repticon",
+    "title": "Repticon Orlando",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2027-05-22",
+    "endDate": "2027-05-23",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-09-04"
   },
   {
@@ -1768,6 +2262,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "repticon-houston-2027-05-29",
+    "seriesId": "repticon",
+    "title": "Repticon Houston",
+    "city": "Houston",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-05-29",
+    "endDate": "2027-05-30",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "cvre-fresno-2027-06-05",
     "seriesId": "cvre",
     "title": "Fresno Pet & Reptile Expo",
@@ -1794,6 +2301,32 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-charlotte-2027-06-05",
+    "seriesId": "repticon",
+    "title": "Repticon Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": null,
+    "startDate": "2027-06-05",
+    "endDate": "2027-06-06",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-tampa-2027-06-05",
+    "seriesId": "repticon",
+    "title": "Repticon Tampa",
+    "city": "Tampa",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2027-06-05",
+    "endDate": "2027-06-06",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "herps-exotic-reptile-pet-shows-conroe-2027-06-12",
     "seriesId": "herps-exotic-reptile-pet-shows",
     "title": "HERPS Conroe",
@@ -1804,6 +2337,19 @@
     "endDate": "2027-06-13",
     "url": "https://www.herpshow.net/shows",
     "source": "https://www.herpshow.net/shows?ae7ec6fc_page=3",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-charleston-2027-06-12",
+    "seriesId": "repticon",
+    "title": "Repticon Charleston",
+    "city": "Charleston",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2027-06-12",
+    "endDate": "2027-06-13",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-09-04"
   },
   {
@@ -1820,6 +2366,19 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-nashville-2027-06-19",
+    "seriesId": "repticon",
+    "title": "Repticon Nashville",
+    "city": "Nashville",
+    "state": "TN",
+    "venue": null,
+    "startDate": "2027-06-19",
+    "endDate": "2027-06-20",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "herps-exotic-reptile-pet-shows-longview-2027-06-26",
     "seriesId": "herps-exotic-reptile-pet-shows",
     "title": "HERPS Longview",
@@ -1830,6 +2389,32 @@
     "endDate": "2027-06-27",
     "url": "https://www.herpshow.net/shows",
     "source": "https://www.herpshow.net/shows?ae7ec6fc_page=4",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-chattanooga-2027-06-26",
+    "seriesId": "repticon",
+    "title": "Repticon Chattanooga",
+    "city": "Chattanooga",
+    "state": "TN",
+    "venue": null,
+    "startDate": "2027-06-26",
+    "endDate": "2027-06-27",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-dallas-2027-06-26",
+    "seriesId": "repticon",
+    "title": "Repticon Dallas",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-06-26",
+    "endDate": "2027-06-27",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-09-04"
   },
   {
@@ -1857,6 +2442,32 @@
     "url": "https://www.wvreptileexpo.com/",
     "source": "https://www.wvreptileexpo.com/",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "repticon-greenville-2027-07-03",
+    "seriesId": "repticon",
+    "title": "Repticon Greenville",
+    "city": "Greenville",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2027-07-03",
+    "endDate": "2027-07-04",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-atlanta-2027-07-10",
+    "seriesId": "repticon",
+    "title": "Repticon Atlanta",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": null,
+    "startDate": "2027-07-10",
+    "endDate": "2027-07-11",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "ny-metro-reptile-expo-white-plains-2027-07-11",
@@ -1898,6 +2509,32 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "repticon-houston-2027-07-24",
+    "seriesId": "repticon",
+    "title": "Repticon Houston",
+    "city": "Houston",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-07-24",
+    "endDate": "2027-07-25",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-orlando-2027-07-24",
+    "seriesId": "repticon",
+    "title": "Repticon Orlando",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2027-07-24",
+    "endDate": "2027-07-25",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "west-virginia-reptile-expo-institute-2027-07-25",
     "seriesId": "west-virginia-reptile-expo",
     "title": "West Virginia Reptile Expo (Charleston)",
@@ -1921,6 +2558,19 @@
     "endDate": "2027-08-01",
     "url": "https://www.herpshow.net/shows",
     "source": "https://www.herpshow.net/shows?ae7ec6fc_page=4",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-columbia-2027-07-31",
+    "seriesId": "repticon",
+    "title": "Repticon Columbia",
+    "city": "Columbia",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2027-07-31",
+    "endDate": "2027-08-01",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-09-04"
   },
   {
@@ -2002,6 +2652,19 @@
     "checkedAt": "2026-08-29"
   },
   {
+    "id": "repticon-trussville-birmingham-2027-08-28",
+    "seriesId": "repticon",
+    "title": "Repticon Trussville (Birmingham)",
+    "city": "Trussville (Birmingham)",
+    "state": "AL",
+    "venue": null,
+    "startDate": "2027-08-28",
+    "endDate": "2027-08-29",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "west-virginia-reptile-expo-huntington-2027-08-29",
     "seriesId": "west-virginia-reptile-expo",
     "title": "West Virginia Reptile Expo (Huntington)",
@@ -2025,6 +2688,19 @@
     "endDate": "2027-09-12",
     "url": "https://www.herpshow.net/shows",
     "source": "https://www.herpshow.net/shows?ae7ec6fc_page=4",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-greenville-2027-09-11",
+    "seriesId": "repticon",
+    "title": "Repticon Greenville",
+    "city": "Greenville",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2027-09-11",
+    "endDate": "2027-09-12",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-09-04"
   },
   {
@@ -2067,6 +2743,19 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-charleston-2027-09-25",
+    "seriesId": "repticon",
+    "title": "Repticon Charleston",
+    "city": "Charleston",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2027-09-25",
+    "endDate": "2027-09-26",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "scaled-up-reptile-expo-rothschild-2027-09-26",
     "seriesId": "scaled-up-reptile-expo",
     "title": "Scaled Up Reptile Expo - Rothschild",
@@ -2106,6 +2795,19 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-charlotte-2027-10-02",
+    "seriesId": "repticon",
+    "title": "Repticon Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": null,
+    "startDate": "2027-10-02",
+    "endDate": "2027-10-03",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "narbc-tinley-park-2027-10-09",
     "seriesId": "narbc",
     "title": "NARBC Tinley Park",
@@ -2116,6 +2818,32 @@
     "endDate": "2027-10-10",
     "url": "https://www.narbc.com/",
     "source": "http://www.narbc.com/Tinley/show_info_narbc_tinley_park.html",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-houston-2027-10-09",
+    "seriesId": "repticon",
+    "title": "Repticon Houston",
+    "city": "Houston",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-10-09",
+    "endDate": "2027-10-10",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-atlanta-2027-10-16",
+    "seriesId": "repticon",
+    "title": "Repticon Atlanta",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": null,
+    "startDate": "2027-10-16",
+    "endDate": "2027-10-17",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-09-04"
   },
   {
@@ -2156,6 +2884,19 @@
     "url": "https://www.scaledupexpos.com/all-expo-dates",
     "source": "https://www.scaledupexpos.com/all-expo-dates",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "repticon-columbia-2027-10-30",
+    "seriesId": "repticon",
+    "title": "Repticon Columbia",
+    "city": "Columbia",
+    "state": "SC",
+    "venue": null,
+    "startDate": "2027-10-30",
+    "endDate": "2027-10-31",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "west-virginia-reptile-expo-huntington-2027-10-31",
@@ -2223,6 +2964,19 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-tampa-2027-11-13",
+    "seriesId": "repticon",
+    "title": "Repticon Tampa",
+    "city": "Tampa",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2027-11-13",
+    "endDate": "2027-11-14",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "scaled-up-reptile-expo-fond-du-lac-2027-11-14",
     "seriesId": "scaled-up-reptile-expo",
     "title": "Scaled Up Reptile Expo - Fond du Lac",
@@ -2234,6 +2988,19 @@
     "url": "https://www.scaledupexpos.com/all-expo-dates",
     "source": "https://www.scaledupexpos.com/all-expo-dates",
     "checkedAt": "2026-08-29"
+  },
+  {
+    "id": "repticon-dallas-2027-11-20",
+    "seriesId": "repticon",
+    "title": "Repticon Dallas",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": null,
+    "startDate": "2027-11-20",
+    "endDate": "2027-11-21",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
   },
   {
     "id": "ny-metro-reptile-expo-white-plains-2027-11-21",
@@ -2275,6 +3042,32 @@
     "checkedAt": "2026-09-04"
   },
   {
+    "id": "repticon-charlotte-2027-12-04",
+    "seriesId": "repticon",
+    "title": "Repticon Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": null,
+    "startDate": "2027-12-04",
+    "endDate": "2027-12-05",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-orlando-2027-12-04",
+    "seriesId": "repticon",
+    "title": "Repticon Orlando",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": null,
+    "startDate": "2027-12-04",
+    "endDate": "2027-12-05",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
+    "checkedAt": "2026-09-04"
+  },
+  {
     "id": "herps-exotic-reptile-pet-shows-slidell-2027-12-11",
     "seriesId": "herps-exotic-reptile-pet-shows",
     "title": "HERPS Slidell",
@@ -2285,6 +3078,19 @@
     "endDate": "2027-12-12",
     "url": "https://www.herpshow.net/shows",
     "source": "https://www.herpshow.net/shows?ae7ec6fc_page=5",
+    "checkedAt": "2026-09-04"
+  },
+  {
+    "id": "repticon-trussville-birmingham-2027-12-11",
+    "seriesId": "repticon",
+    "title": "Repticon Trussville (Birmingham)",
+    "city": "Trussville (Birmingham)",
+    "state": "AL",
+    "venue": null,
+    "startDate": "2027-12-11",
+    "endDate": "2027-12-12",
+    "url": "https://repticon.com/show-calendar/",
+    "source": "https://repticon.com/show-calendar/",
     "checkedAt": "2026-09-04"
   },
   {
