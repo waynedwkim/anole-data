@@ -9,32 +9,6 @@ X-WR-CALDESC:Repticon — dates verified against the organizer.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:repticon-trussville-2026-08-29@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260831
-SUMMARY:Repticon Birmingham
-TRANSP:TRANSPARENT
-LOCATION:Trussville Civic Center\, 5381 Trussville Clay Rd\, Trussville\, A
- L
-URL:https://www.trussvilletribune.com/2026/08/04/repticon-returning-to-trus
- sville-in-august/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:reptiday-ft-myers-2026-09-05@anole.app
-DTSTAMP:20260822T000000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:ReptiDay Ft Myers
-TRANSP:TRANSPARENT
-LOCATION:Ft Myers\, FL
-URL:https://repticon.com/florida/reptiday-ft-myers/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:repticon-greenville-2026-09-12@anole.app
 DTSTAMP:20260822T000000Z
 DTSTART;VALUE=DATE:20260912

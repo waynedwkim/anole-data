@@ -10,19 +10,6 @@ X-WR-CALDESC:Scaled Up Reptile Expo — dates verified against the organize
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:scaled-up-reptile-expo-green-bay-2026-08-30@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:Scaled Up Reptile Expo - Green Bay
-TRANSP:TRANSPARENT
-LOCATION:Oneida Hotel and Conference Center\, 2040 Airport Dr\, Green Bay\,
-  WI
-URL:https://www.scaledupexpos.com/green-bay-wi
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:scaled-up-reptile-expo-rothschild-2026-09-20@anole.app
 DTSTAMP:20260829T000000Z
 DTSTART;VALUE=DATE:20260920

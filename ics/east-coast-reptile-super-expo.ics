@@ -10,18 +10,6 @@ X-WR-CALDESC:East Coast Reptile Super Expos — dates verified against the
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:east-coast-reptile-super-expo-oaks-2026-09-05@anole.app
-DTSTAMP:20260822T000000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:East Coast Reptile Super Expo
-TRANSP:TRANSPARENT
-LOCATION:Greater Philadelphia Expo Center\, Oaks\, PA
-URL:https://eastcoastreptilesuperexpos.com/info.html
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:east-coast-reptile-super-expo-oaks-2026-11-21@anole.app
 DTSTAMP:20260822T000000Z
 DTSTART;VALUE=DATE:20261121

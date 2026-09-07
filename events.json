@@ -1,83 +1,5 @@
 [
   {
-    "id": "herps-bryan-college-station-2026-08-29",
-    "seriesId": "herps-exotic-reptile-pet-shows",
-    "title": "HERPS Bryan-College Station",
-    "city": "Bryan-College Station",
-    "state": "TX",
-    "venue": null,
-    "startDate": "2026-08-29",
-    "endDate": "2026-08-30",
-    "url": "https://www.herpshow.net/shows",
-    "source": "https://www.herpshow.net/shows",
-    "checkedAt": "2026-08-22"
-  },
-  {
-    "id": "repticon-trussville-2026-08-29",
-    "seriesId": "repticon",
-    "title": "Repticon Birmingham",
-    "city": "Trussville",
-    "state": "AL",
-    "venue": "Trussville Civic Center, 5381 Trussville Clay Rd",
-    "startDate": "2026-08-29",
-    "endDate": "2026-08-30",
-    "url": "https://www.trussvilletribune.com/2026/08/04/repticon-returning-to-trussville-in-august/",
-    "source": "https://www.trussvilletribune.com/2026/08/04/repticon-returning-to-trussville-in-august/",
-    "checkedAt": "2026-08-29"
-  },
-  {
-    "id": "reptilian-nation-expo-san-antonio-2026-08-29",
-    "seriesId": "reptilian-nation-expo",
-    "title": "Reptilian Nation Expo San Antonio",
-    "city": "San Antonio",
-    "state": "TX",
-    "venue": "Freeman Expo Hall",
-    "startDate": "2026-08-29",
-    "endDate": "2026-08-30",
-    "url": "https://reptiliannationexpo.com/",
-    "source": "https://reptiliannationexpo.com/",
-    "checkedAt": "2026-08-22"
-  },
-  {
-    "id": "scaled-up-reptile-expo-green-bay-2026-08-30",
-    "seriesId": "scaled-up-reptile-expo",
-    "title": "Scaled Up Reptile Expo - Green Bay",
-    "city": "Green Bay",
-    "state": "WI",
-    "venue": "Oneida Hotel and Conference Center, 2040 Airport Dr",
-    "startDate": "2026-08-30",
-    "endDate": null,
-    "url": "https://www.scaledupexpos.com/green-bay-wi",
-    "source": "https://www.scaledupexpos.com/",
-    "checkedAt": "2026-08-29"
-  },
-  {
-    "id": "east-coast-reptile-super-expo-oaks-2026-09-05",
-    "seriesId": "east-coast-reptile-super-expo",
-    "title": "East Coast Reptile Super Expo",
-    "city": "Oaks",
-    "state": "PA",
-    "venue": "Greater Philadelphia Expo Center",
-    "startDate": "2026-09-05",
-    "endDate": null,
-    "url": "https://eastcoastreptilesuperexpos.com/info.html",
-    "source": "https://eastcoastreptilesuperexpos.com/info.html",
-    "checkedAt": "2026-08-22"
-  },
-  {
-    "id": "reptiday-ft-myers-2026-09-05",
-    "seriesId": "repticon",
-    "title": "ReptiDay Ft Myers",
-    "city": "Ft Myers",
-    "state": "FL",
-    "venue": null,
-    "startDate": "2026-09-05",
-    "endDate": null,
-    "url": "https://repticon.com/florida/reptiday-ft-myers/",
-    "source": "https://repticon.com/show-calendar/",
-    "checkedAt": "2026-08-22"
-  },
-  {
     "id": "all-maryland-reptile-show-2026-09-12",
     "seriesId": "all-maryland-reptile-show",
     "title": "All-Maryland Reptile Show",
@@ -114,7 +36,7 @@
     "endDate": "2026-09-13",
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "herps-conroe-2026-09-12",
@@ -191,8 +113,8 @@
     "startDate": "2026-09-13",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/kansas-city-reptile-show-52/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-31",
-    "checkedAt": "2026-08-31"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-07",
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "md-reptile-farm-state-college-2026-09-13",
@@ -205,7 +127,7 @@
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/state-college-pa-reptile-show-829-665-850-912/",
     "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "ny-metro-reptile-expo-white-plains-2026-09-13",
@@ -244,7 +166,7 @@
     "endDate": "2026-09-20",
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "kentucky-reptile-expo-lexington-2026-09-19",
@@ -321,8 +243,8 @@
     "startDate": "2026-09-20",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/chicago-reptile-show-17/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-31",
-    "checkedAt": "2026-08-31"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-07",
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "midwest-reptile-show-indianapolis-2026-09-20",
@@ -387,7 +309,7 @@
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/reptiles-at-the-york-expo-923-562-461-772-907-331/",
     "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "repticon-baltimore-2026-09-26",
@@ -464,8 +386,8 @@
     "startDate": "2026-09-27",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/iowa-reptile-show-32/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-31",
-    "checkedAt": "2026-08-31"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-07",
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "herps-stillwater-2026-10-03",
@@ -491,7 +413,7 @@
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/northern-virginia-reptile-expo-554-642-785-132-354-513-410-272-114/",
     "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "repticon-houston-2026-10-03",
@@ -646,8 +568,8 @@
     "startDate": "2026-10-11",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/the-minnesota-reptile-show-41/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-31",
-    "checkedAt": "2026-08-31"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-07",
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "saratoga-reptile-show-saratoga-springs-2026-10-11",
@@ -686,7 +608,7 @@
     "endDate": "2026-10-18",
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "hamburg-reptile-show-2026-10-17",
@@ -828,8 +750,8 @@
     "startDate": "2026-10-18",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-26/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-31",
-    "checkedAt": "2026-08-31"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-07",
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "herps-exotic-reptile-pet-shows-lawton-2026-10-24",
@@ -894,7 +816,7 @@
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/washington-county-reptile-show-629-395/",
     "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "sewerfest-sturtevant-2026-10-25",
@@ -933,7 +855,7 @@
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/reptiles-at-the-york-expo-923-562-461-772-907/",
     "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "repticon-columbia-2026-10-31",
@@ -971,8 +893,8 @@
     "startDate": "2026-11-01",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/kansas-city-reptile-show-53/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-31",
-    "checkedAt": "2026-08-31"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-07",
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "kalamazoo-reptile-expo-kalamazoo-2026-11-01",
@@ -1024,7 +946,7 @@
     "endDate": "2026-11-08",
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "repticon-costa-mesa-2026-11-07",
@@ -1141,7 +1063,7 @@
     "endDate": "2026-11-15",
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "herps-sulphur-2026-11-14",
@@ -1167,7 +1089,7 @@
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/richmond-reptile-expo-484-441-233/",
     "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "michigan-reptile-show-taylor-2026-11-14",
@@ -1231,8 +1153,8 @@
     "startDate": "2026-11-15",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/iowa-reptile-show-33/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-31",
-    "checkedAt": "2026-08-31"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-07",
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "massachusetts-reptile-expo-hanover-2026-11-15",
@@ -1426,8 +1348,8 @@
     "startDate": "2026-12-06",
     "endDate": null,
     "url": "https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-27/",
-    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-08-31",
-    "checkedAt": "2026-08-31"
+    "source": "https://coldbloodedexpos.com/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-07",
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "cvre-san-bernardino-2026-12-12",
@@ -1440,7 +1362,7 @@
     "endDate": "2026-12-13",
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "herps-exotic-reptile-pet-shows-slidell-2026-12-12",
@@ -1466,7 +1388,7 @@
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/all-maryland-reptile-show-116-396-329-333-674-736-180-678-571-776/",
     "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "michigan-reptile-show-taylor-2026-12-12",
@@ -1531,7 +1453,7 @@
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/york-county-reptile-show-355-436-358-840/",
     "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "scaled-up-reptile-expo-rothschild-2026-12-13",
@@ -1583,7 +1505,7 @@
     "endDate": null,
     "url": "https://mdreptilefarm.com/events/northern-virginia-reptile-expo-554-642-785-132-552-328-929/",
     "source": "https://mdreptilefarm.com/wp-json/wp/v2/mec-events?per_page=100",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "repticon-fayetteville-2026-12-19",
@@ -1791,7 +1713,7 @@
     "endDate": "2027-02-07",
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "repticon-greenville-2027-02-06",
@@ -1973,7 +1895,7 @@
     "endDate": "2027-03-14",
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "herps-exotic-reptile-pet-shows-bryan-college-station-2027-03-13",
@@ -2285,7 +2207,7 @@
     "endDate": "2027-06-06",
     "url": "https://cvrexpo.com/expos",
     "source": "https://cvrexpo.com/_json/expos.json",
-    "checkedAt": "2026-08-31"
+    "checkedAt": "2026-09-07"
   },
   {
     "id": "herps-exotic-reptile-pet-shows-sulphur-2027-06-05",

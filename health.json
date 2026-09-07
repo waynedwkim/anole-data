@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-09-04",
-  "totalEvents": 240,
+  "checkedAt": "2026-09-07",
+  "totalEvents": 234,
   "states": 36,
   "seriesTracked": 35,
   "seriesWithEvents": 35,
@@ -59,7 +59,7 @@
       "id": "reptilian-nation-expo",
       "name": "Reptilian Nation Expo",
       "website": "https://reptiliannationexpo.com/",
-      "upcoming": 3,
+      "upcoming": 2,
       "lastDate": "2026-10-18"
     },
     {
