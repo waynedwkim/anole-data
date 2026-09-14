@@ -21,18 +21,6 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
-UID:repticon-port-charlotte-2026-09-12@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Repticon Port Charlotte
-TRANSP:TRANSPARENT
-LOCATION:Port Charlotte\, FL
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:repticon-kissimmee-2026-09-19@anole.app
 DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20260919

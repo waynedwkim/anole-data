@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-09-07",
-  "totalEvents": 234,
+  "checkedAt": "2026-09-14",
+  "totalEvents": 230,
   "states": 36,
   "seriesTracked": 35,
   "seriesWithEvents": 35,
@@ -75,6 +75,20 @@
       "website": "https://wasatchreptileexpo.com/WRE/Page_1x.html",
       "upcoming": 1,
       "lastDate": "2026-10-25"
+    },
+    {
+      "id": "all-maryland-reptile-show",
+      "name": "All Maryland Reptile Show",
+      "website": "https://mdreptilefarm.com/events/",
+      "upcoming": 2,
+      "lastDate": "2026-11-07"
+    },
+    {
+      "id": "midwest-reptile-show",
+      "name": "Midwest Reptile Show",
+      "website": "https://www.midwestreptile.com/",
+      "upcoming": 2,
+      "lastDate": "2026-11-08"
     }
   ]
 }
