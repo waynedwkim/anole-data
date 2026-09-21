@@ -1,25 +1,26 @@
 {
-  "checkedAt": "2026-09-14",
-  "totalEvents": 230,
-  "states": 36,
+  "checkedAt": "2026-09-21",
+  "totalEvents": 220,
+  "states": 35,
   "seriesTracked": 35,
-  "seriesWithEvents": 35,
-  "empty": [],
-  "expiring": [
+  "seriesWithEvents": 33,
+  "empty": [
     {
       "id": "kentucky-reptile-expo",
       "name": "Kentucky Reptile Expo",
       "website": "https://www.kentuckyreptileexpo.com/",
-      "upcoming": 1,
-      "lastDate": "2026-09-19"
+      "upcoming": 0,
+      "lastDate": null
     },
     {
       "id": "nw-reptile-expos",
       "name": "Northwest Reptile Expos",
       "website": "https://nwreptileexpos.com/",
-      "upcoming": 1,
-      "lastDate": "2026-09-19"
-    },
+      "upcoming": 0,
+      "lastDate": null
+    }
+  ],
+  "expiring": [
     {
       "id": "washington-reptile-expos",
       "name": "Washington Reptile Expos",
@@ -89,6 +90,13 @@
       "website": "https://www.midwestreptile.com/",
       "upcoming": 2,
       "lastDate": "2026-11-08"
+    },
+    {
+      "id": "massachusetts-reptile-expo",
+      "name": "Massachusetts Reptile Expo",
+      "website": "https://www.neherp.com/pages/massachusetts-reptile-expo",
+      "upcoming": 1,
+      "lastDate": "2026-11-15"
     }
   ]
 }

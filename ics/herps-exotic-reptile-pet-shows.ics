@@ -10,18 +10,6 @@ X-WR-CALDESC:HERPS Exotic Reptile & Pet Shows — dates verified against th
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:herps-conroe-2026-09-12@anole.app
-DTSTAMP:20260822T000000Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260914
-SUMMARY:HERPS Conroe
-TRANSP:TRANSPARENT
-LOCATION:Conroe\, TX
-URL:https://www.herpshow.net/shows
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:herps-abilene-2026-09-26@anole.app
 DTSTAMP:20260822T000000Z
 DTSTART;VALUE=DATE:20260926

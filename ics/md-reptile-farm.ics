@@ -10,21 +10,8 @@ X-WR-CALDESC:Maryland Reptile Farm Shows — dates verified against the org
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:md-reptile-farm-state-college-2026-09-13@anole.app
-DTSTAMP:20260907T000000Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:State College PA Reptile Show
-TRANSP:TRANSPARENT
-LOCATION:State College\, PA
-URL:https://mdreptilefarm.com/events/state-college-pa-reptile-show-829-665-
- 850-912/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-07. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:md-reptile-farm-york-2026-09-26@anole.app
-DTSTAMP:20260914T000000Z
+DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Reptiles at the York Expo
@@ -32,12 +19,12 @@ TRANSP:TRANSPARENT
 LOCATION:York\, PA
 URL:https://mdreptilefarm.com/events/reptiles-at-the-york-expo-923-562-461-
  772-907-331/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-14. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-berryville-2026-10-03@anole.app
-DTSTAMP:20260914T000000Z
+DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Northern Virginia Reptile Expo – Berryville
@@ -45,12 +32,12 @@ TRANSP:TRANSPARENT
 LOCATION:Berryville\, VA
 URL:https://mdreptilefarm.com/events/northern-virginia-reptile-expo-554-642
  -785-132-354-513-410-272-114/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-14. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-boonsboro-2026-10-25@anole.app
-DTSTAMP:20260914T000000Z
+DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Washington County Reptile Show
@@ -58,12 +45,12 @@ TRANSP:TRANSPARENT
 LOCATION:Boonsboro\, MD
 URL:https://mdreptilefarm.com/events/washington-county-reptile-show-629-395
  /
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-14. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-york-2026-10-31@anole.app
-DTSTAMP:20260914T000000Z
+DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Reptiles at the York Expo
@@ -71,24 +58,24 @@ TRANSP:TRANSPARENT
 LOCATION:York\, PA
 URL:https://mdreptilefarm.com/events/reptiles-at-the-york-expo-923-562-461-
  772-907/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-14. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-richmond-2026-11-14@anole.app
-DTSTAMP:20260914T000000Z
+DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Richmond Reptile Expo
 TRANSP:TRANSPARENT
 LOCATION:Richmond\, VA
 URL:https://mdreptilefarm.com/events/richmond-reptile-expo-484-441-233/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-14. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-havre-de-grace-2026-12-12@anole.app
-DTSTAMP:20260914T000000Z
+DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:All-Maryland Reptile Show
@@ -96,12 +83,12 @@ TRANSP:TRANSPARENT
 LOCATION:Havre De Grace\, MD
 URL:https://mdreptilefarm.com/events/all-maryland-reptile-show-116-396-329-
  333-674-736-180-678-571-776/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-14. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-york-2026-12-13@anole.app
-DTSTAMP:20260914T000000Z
+DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:York County Reptile Show
@@ -109,12 +96,12 @@ TRANSP:TRANSPARENT
 LOCATION:York\, PA
 URL:https://mdreptilefarm.com/events/york-county-reptile-show-355-436-358-8
  40/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-14. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-fredericksburg-2026-12-19@anole.app
-DTSTAMP:20260914T000000Z
+DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Northern Virginia Reptile Expo – Fredericksburg
@@ -122,7 +109,7 @@ TRANSP:TRANSPARENT
 LOCATION:Fredericksburg\, VA
 URL:https://mdreptilefarm.com/events/northern-virginia-reptile-expo-554-642
  -785-132-552-328-929/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-14. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 END:VCALENDAR

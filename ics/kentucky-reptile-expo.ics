@@ -9,17 +9,4 @@ X-WR-CALDESC:Kentucky Reptile Expo — dates verified against the organizer
  .
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:kentucky-reptile-expo-lexington-2026-09-19@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Kentucky Reptile Expo
-TRANSP:TRANSPARENT
-LOCATION:Central Bank Center\, 430 W Vine St\, Lexington\, KY
-URL:https://www.centralbankcenter.com/events/detail/kentucky-reptile-expo-3
- 6
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
 END:VCALENDAR
