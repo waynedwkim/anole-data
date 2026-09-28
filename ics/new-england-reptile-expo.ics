@@ -11,62 +11,62 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:new-england-reptile-expo-manchester-2026-11-08@anole.app
-DTSTAMP:20260921T000000Z
+DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:New England ReptileExpo
 TRANSP:TRANSPARENT
 LOCATION:DoubleTree Hotel\, 700 Elm Street\, Manchester\, NH
 URL:https://reptileexpo.com/new-hampshire-reptile-expo/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-28. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:new-england-reptile-expo-manchester-2027-02-07@anole.app
-DTSTAMP:20260921T000000Z
+DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:New England ReptileExpo
 TRANSP:TRANSPARENT
 LOCATION:DoubleTree Hotel\, 700 Elm Street\, Manchester\, NH
 URL:https://reptileexpo.com/new-hampshire-reptile-expo/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-28. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:new-england-reptile-expo-manchester-2027-04-25@anole.app
-DTSTAMP:20260921T000000Z
+DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:New England ReptileExpo
 TRANSP:TRANSPARENT
 LOCATION:DoubleTree Hotel\, 700 Elm Street\, Manchester\, NH
 URL:https://reptileexpo.com/new-hampshire-reptile-expo/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-28. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:new-england-reptile-expo-manchester-2027-06-27@anole.app
-DTSTAMP:20260921T000000Z
+DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:New England ReptileExpo
 TRANSP:TRANSPARENT
 LOCATION:DoubleTree Hotel\, 700 Elm Street\, Manchester\, NH
 URL:https://reptileexpo.com/new-hampshire-reptile-expo/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-28. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:new-england-reptile-expo-manchester-2027-11-07@anole.app
-DTSTAMP:20260921T000000Z
+DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20271107
 DTEND;VALUE=DATE:20271108
 SUMMARY:New England ReptileExpo
 TRANSP:TRANSPARENT
 LOCATION:DoubleTree Hotel\, 700 Elm Street\, Manchester\, NH
 URL:https://reptileexpo.com/new-hampshire-reptile-expo/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-21. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-09-28. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 END:VCALENDAR

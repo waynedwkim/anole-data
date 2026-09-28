@@ -10,19 +10,6 @@ X-WR-CALDESC:Scaled Up Reptile Expo — dates verified against the organize
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:scaled-up-reptile-expo-rothschild-2026-09-20@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:Scaled Up Reptile Expo - Rothschild
-TRANSP:TRANSPARENT
-LOCATION:Central WI Convention & Expo Center\, 10101 Market St\, Rothschild
- \, WI
-URL:https://www.scaledupexpos.com/rothschild-wi
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:scaled-up-reptile-expo-fond-du-lac-2026-10-04@anole.app
 DTSTAMP:20260829T000000Z
 DTSTART;VALUE=DATE:20261004

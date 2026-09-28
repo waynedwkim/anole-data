@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-21",
-  "totalEvents": 220,
-  "states": 35,
+  "checkedAt": "2026-09-28",
+  "totalEvents": 210,
+  "states": 33,
   "seriesTracked": 35,
-  "seriesWithEvents": 33,
+  "seriesWithEvents": 32,
   "empty": [
     {
       "id": "kentucky-reptile-expo",
@@ -18,16 +18,16 @@
       "website": "https://nwreptileexpos.com/",
       "upcoming": 0,
       "lastDate": null
-    }
-  ],
-  "expiring": [
+    },
     {
       "id": "washington-reptile-expos",
       "name": "Washington Reptile Expos",
       "website": "https://washingtonreptileexpos.com/",
-      "upcoming": 1,
-      "lastDate": "2026-09-26"
-    },
+      "upcoming": 0,
+      "lastDate": null
+    }
+  ],
+  "expiring": [
     {
       "id": "sacramento-reptile-show",
       "name": "Sacramento Reptile Show",
@@ -60,7 +60,7 @@
       "id": "reptilian-nation-expo",
       "name": "Reptilian Nation Expo",
       "website": "https://reptiliannationexpo.com/",
-      "upcoming": 2,
+      "upcoming": 1,
       "lastDate": "2026-10-18"
     },
     {
@@ -88,7 +88,7 @@
       "id": "midwest-reptile-show",
       "name": "Midwest Reptile Show",
       "website": "https://www.midwestreptile.com/",
-      "upcoming": 2,
+      "upcoming": 1,
       "lastDate": "2026-11-08"
     },
     {
@@ -97,6 +97,20 @@
       "website": "https://www.neherp.com/pages/massachusetts-reptile-expo",
       "upcoming": 1,
       "lastDate": "2026-11-15"
+    },
+    {
+      "id": "east-coast-reptile-super-expo",
+      "name": "East Coast Reptile Super Expos",
+      "website": "https://eastcoastreptilesuperexpos.com/info.html",
+      "upcoming": 1,
+      "lastDate": "2026-11-21"
+    },
+    {
+      "id": "phoenix-reptile-expo",
+      "name": "Phoenix Reptile Expo",
+      "website": "http://www.phxreptileexpo.com/",
+      "upcoming": 1,
+      "lastDate": "2026-11-22"
     }
   ]
 }

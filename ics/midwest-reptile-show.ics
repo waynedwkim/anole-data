@@ -9,18 +9,6 @@ X-WR-CALDESC:Midwest Reptile Show — dates verified against the organizer.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:midwest-reptile-show-indianapolis-2026-09-20@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:Midwest Reptile Show
-TRANSP:TRANSPARENT
-LOCATION:Indiana State Fairgrounds - Harvest Pavilion\, Indianapolis\, IN
-URL:https://www.midwestreptile.com/index.php?target=dates
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:midwest-reptile-show-indianapolis-2026-11-08@anole.app
 DTSTAMP:20260829T000000Z
 DTSTART;VALUE=DATE:20261108

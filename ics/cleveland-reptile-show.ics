@@ -10,18 +10,6 @@ X-WR-CALDESC:Cleveland Reptile Show & Sale — dates verified against the o
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:cleveland-reptile-show-medina-2026-09-20@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:Cleveland Reptile Show & Sale
-TRANSP:TRANSPARENT
-LOCATION:Medina County Fairgrounds\, Medina\, OH
-URL:https://www.zerklereptilecompany.com/current-show-schedule
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:cleveland-reptile-show-medina-2026-10-18@anole.app
 DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20261018

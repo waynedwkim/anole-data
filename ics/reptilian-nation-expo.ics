@@ -10,18 +10,6 @@ X-WR-CALDESC:Reptilian Nation Expo — dates verified against the organizer
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:reptilian-nation-expo-atlanta-2026-09-19@anole.app
-DTSTAMP:20260822T000000Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-SUMMARY:Reptilian Nation Expo Atlanta
-TRANSP:TRANSPARENT
-LOCATION:Cobb Galleria\, Atlanta\, GA
-URL:https://reptiliannationexpo.com/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:reptilian-nation-expo-oklahoma-city-2026-10-17@anole.app
 DTSTAMP:20260822T000000Z
 DTSTART;VALUE=DATE:20261017
