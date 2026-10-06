@@ -10,30 +10,6 @@ X-WR-CALDESC:HERPS Exotic Reptile & Pet Shows — dates verified against th
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:herps-abilene-2026-09-26@anole.app
-DTSTAMP:20260822T000000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260928
-SUMMARY:HERPS Abilene
-TRANSP:TRANSPARENT
-LOCATION:Abilene\, TX
-URL:https://www.herpshow.net/shows
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:herps-stillwater-2026-10-03@anole.app
-DTSTAMP:20260822T000000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-SUMMARY:HERPS Stillwater
-TRANSP:TRANSPARENT
-LOCATION:Stillwater\, OK
-URL:https://www.herpshow.net/shows
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:herps-alexandria-2026-10-17@anole.app
 DTSTAMP:20260822T000000Z
 DTSTART;VALUE=DATE:20261017

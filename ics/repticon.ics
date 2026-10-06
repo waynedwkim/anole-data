@@ -9,54 +9,6 @@ X-WR-CALDESC:Repticon — dates verified against the organizer.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:repticon-baltimore-2026-09-26@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260928
-SUMMARY:Repticon Baltimore
-TRANSP:TRANSPARENT
-LOCATION:Baltimore\, MD
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:repticon-charleston-2026-09-26@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260928
-SUMMARY:Repticon Charleston
-TRANSP:TRANSPARENT
-LOCATION:Charleston\, SC
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:repticon-lakeland-2026-09-26@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260928
-SUMMARY:Repticon Lakeland
-TRANSP:TRANSPARENT
-LOCATION:Lakeland\, FL
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:repticon-houston-2026-10-03@anole.app
-DTSTAMP:20260822T000000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-SUMMARY:Repticon Houston
-TRANSP:TRANSPARENT
-LOCATION:Houston\, TX
-URL:https://repticon.com/texas/houston/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:repticon-charlotte-2026-10-10@anole.app
 DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20261010

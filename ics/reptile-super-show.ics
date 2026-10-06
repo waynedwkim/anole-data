@@ -9,18 +9,6 @@ X-WR-CALDESC:Reptile Super Show — dates verified against the organizer.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:reptile-super-show-anaheim-2026-10-03@anole.app
-DTSTAMP:20260822T000000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-SUMMARY:Reptile Super Show Anaheim
-TRANSP:TRANSPARENT
-LOCATION:Anaheim Convention Center Hall D\, Anaheim\, CA
-URL:https://reptilesupershow.com/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:reptile-super-show-pomona-2027-01-09@anole.app
 DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20270109

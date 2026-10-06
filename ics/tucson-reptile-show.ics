@@ -9,16 +9,4 @@ X-WR-CALDESC:Tucson Reptile & Amphibian Show — dates verified against the
   organizer.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:tucson-reptile-show-tucson-2026-10-03@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-SUMMARY:Tucson Reptile & Amphibian Show
-TRANSP:TRANSPARENT
-LOCATION:Pima County Fairgrounds (Old Pueblo Hall)\, Tucson\, AZ
-URL:https://tucsonreptileshow.com/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
 END:VCALENDAR

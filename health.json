@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-09-28",
-  "totalEvents": 210,
-  "states": 33,
+  "checkedAt": "2026-10-06",
+  "totalEvents": 203,
+  "states": 34,
   "seriesTracked": 35,
-  "seriesWithEvents": 32,
+  "seriesWithEvents": 30,
   "empty": [
     {
       "id": "kentucky-reptile-expo",
@@ -20,6 +20,20 @@
       "lastDate": null
     },
     {
+      "id": "sacramento-reptile-show",
+      "name": "Sacramento Reptile Show",
+      "website": "https://sacreptileshow.com/",
+      "upcoming": 0,
+      "lastDate": null
+    },
+    {
+      "id": "tucson-reptile-show",
+      "name": "Tucson Reptile & Amphibian Show",
+      "website": "https://tucsonreptileshow.com/",
+      "upcoming": 0,
+      "lastDate": null
+    },
+    {
       "id": "washington-reptile-expos",
       "name": "Washington Reptile Expos",
       "website": "https://washingtonreptileexpos.com/",
@@ -28,20 +42,6 @@
     }
   ],
   "expiring": [
-    {
-      "id": "sacramento-reptile-show",
-      "name": "Sacramento Reptile Show",
-      "website": "https://sacreptileshow.com/",
-      "upcoming": 1,
-      "lastDate": "2026-09-27"
-    },
-    {
-      "id": "tucson-reptile-show",
-      "name": "Tucson Reptile & Amphibian Show",
-      "website": "https://tucsonreptileshow.com/",
-      "upcoming": 1,
-      "lastDate": "2026-10-04"
-    },
     {
       "id": "pacnwrs",
       "name": "Pacific NW Reptile & Exotic Animal Show",
@@ -111,6 +111,13 @@
       "website": "http://www.phxreptileexpo.com/",
       "upcoming": 1,
       "lastDate": "2026-11-22"
+    },
+    {
+      "id": "exotic-pet-expos",
+      "name": "Exotic Pet Expos (TN/KY/AL)",
+      "website": "https://www.exoticpetexpos.com/",
+      "upcoming": 1,
+      "lastDate": "2026-11-29"
     }
   ]
 }
