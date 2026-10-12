@@ -10,18 +10,6 @@ X-WR-CALDESC:Michigan Reptile Show — dates verified against the organizer
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:michigan-reptile-show-taylor-2026-10-10@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Michigan Reptile Expo
-TRANSP:TRANSPARENT
-LOCATION:Taylor Town Trade Center\, 22525 Ecorse Rd\, Taylor\, MI
-URL:https://www.michiganreptileshow.com/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:michigan-reptile-show-taylor-2026-11-14@anole.app
 DTSTAMP:20260829T000000Z
 DTSTART;VALUE=DATE:20261114

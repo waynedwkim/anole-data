@@ -10,30 +10,6 @@ X-WR-CALDESC:US reptile expos — verified — dates verified against the o
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:all-maryland-reptile-show-2026-10-10@anole.app
-DTSTAMP:20260822T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:All-Maryland Reptile Show
-TRANSP:TRANSPARENT
-LOCATION:Havre de Grace Community Center\, Havre de Grace\, MD
-URL:https://mdreptilefarm.com/events/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-reptile-show-taylor-2026-10-10@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Michigan Reptile Expo
-TRANSP:TRANSPARENT
-LOCATION:Taylor Town Trade Center\, 22525 Ecorse Rd\, Taylor\, MI
-URL:https://www.michiganreptileshow.com/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:narbc-tinley-park-2026-10-10@anole.app
 DTSTAMP:20260822T000000Z
 DTSTART;VALUE=DATE:20261010
@@ -133,14 +109,14 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-san-luis-obispo-2026-10-17@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY:San Luis Obispo Reptile Expo
 TRANSP:TRANSPARENT
 LOCATION:Madonna Inn\, 100 Madonna Road\, San Luis Obispo\, CA
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -266,7 +242,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cold-blooded-expos-bellevue-2026-10-18@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Nebraska Reptile Show
@@ -274,7 +250,7 @@ TRANSP:TRANSPARENT
 LOCATION:Courtyard Marriott Bellevue At Beardmore Event Center\, Bellevue\,
   NE
 URL:https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-26/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -328,7 +304,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-boonsboro-2026-10-25@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Washington County Reptile Show
@@ -336,7 +312,7 @@ TRANSP:TRANSPARENT
 LOCATION:Boonsboro\, MD
 URL:https://mdreptilefarm.com/events/washington-county-reptile-show-629-395
  /
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -365,7 +341,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-york-2026-10-31@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Reptiles at the York Expo
@@ -373,7 +349,7 @@ TRANSP:TRANSPARENT
 LOCATION:York\, PA
 URL:https://mdreptilefarm.com/events/reptiles-at-the-york-expo-923-562-461-
  772-907/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -402,7 +378,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cold-blooded-expos-overland-park-2026-11-01@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Kansas City Reptile Show
@@ -410,7 +386,7 @@ TRANSP:TRANSPARENT
 LOCATION:DoubleTree by Hilton Hotel Kansas City – Overland Park\, Overlan
  d Park\, KS
 URL:https://coldbloodedexpos.com/reptile-show/kansas-city-reptile-show-53/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -451,7 +427,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-ventura-2026-11-07@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
 SUMMARY:Ventura Pet & Reptile Expo
@@ -459,7 +435,7 @@ TRANSP:TRANSPARENT
 LOCATION:Ventura County Fairgrounds\, 10 West Harbor Boulevard\, Ventura\, 
  CA
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -561,14 +537,14 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-lancaster-2026-11-14@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY:Lancaster Pet & Reptile Expo
 TRANSP:TRANSPARENT
 LOCATION:AV Fair & Event Center\, 2551 West Avenue H\, Lancaster\, CA
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -585,14 +561,14 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-richmond-2026-11-14@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Richmond Reptile Expo
 TRANSP:TRANSPARENT
 LOCATION:Richmond\, VA
 URL:https://mdreptilefarm.com/events/richmond-reptile-expo-484-441-233/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -646,14 +622,14 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cold-blooded-expos-des-moines-2026-11-15@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Iowa Reptile Show
 TRANSP:TRANSPARENT
 LOCATION:Hilton Garden Inn West Des Moines\, Des Moines\, IA
 URL:https://coldbloodedexpos.com/reptile-show/iowa-reptile-show-33/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -828,7 +804,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cold-blooded-expos-bellevue-2026-12-06@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Nebraska Reptile Show
@@ -836,12 +812,12 @@ TRANSP:TRANSPARENT
 LOCATION:Courtyard Marriott Bellevue At Beardmore Event Center\, Bellevue\,
   NE
 URL:https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-27/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-san-bernardino-2026-12-12@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
 SUMMARY:San Bernardino Reptile Expo
@@ -849,7 +825,7 @@ TRANSP:TRANSPARENT
 LOCATION:National Orange Show @ NOS Event Center\, 690 S. Arrowhead Avenue\
  , Gate 8\, San Bernardino\, CA
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -866,7 +842,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-havre-de-grace-2026-12-12@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:All-Maryland Reptile Show
@@ -874,7 +850,7 @@ TRANSP:TRANSPARENT
 LOCATION:Havre De Grace\, MD
 URL:https://mdreptilefarm.com/events/all-maryland-reptile-show-116-396-329-
  333-674-736-180-678-571-776/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -927,7 +903,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-york-2026-12-13@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:York County Reptile Show
@@ -935,7 +911,7 @@ TRANSP:TRANSPARENT
 LOCATION:York\, PA
 URL:https://mdreptilefarm.com/events/york-county-reptile-show-355-436-358-8
  40/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -977,7 +953,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:md-reptile-farm-fredericksburg-2026-12-19@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Northern Virginia Reptile Expo – Fredericksburg
@@ -985,7 +961,7 @@ TRANSP:TRANSPARENT
 LOCATION:Fredericksburg\, VA
 URL:https://mdreptilefarm.com/events/northern-virginia-reptile-expo-554-642
  -785-132-552-328-929/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -1172,7 +1148,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-bakersfield-2027-02-06@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270208
 SUMMARY:Bakersfield Pet & Reptile Expo
@@ -1180,7 +1156,7 @@ TRANSP:TRANSPARENT
 LOCATION:Kern County Fair and Event Center\, 1142 South P Street\, Bakersfi
  eld\, CA
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -1345,14 +1321,14 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-del-mar-2027-03-13@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270315
 SUMMARY:Del Mar/San Diego Pet & Reptile Expo
 TRANSP:TRANSPARENT
 LOCATION:Del Mar Fairgrounds\, 2260 Jimmy Durante Blvd.\, Del Mar\, CA
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -1419,7 +1395,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-las-vegas-2027-04-03@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270405
 SUMMARY:Las Vegas Exotic Pet & Reptile Expo
@@ -1427,7 +1403,7 @@ TRANSP:TRANSPARENT
 LOCATION:World Market Center (North Hall)\, 435 S. Grand Central Parkway\, 
  Las Vegas\, NV
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -1469,14 +1445,14 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-costa-mesa-2027-04-10@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270412
 SUMMARY:Orange County Pet & Reptile Expo
 TRANSP:TRANSPARENT
 LOCATION:OC Fair & Event Center\, 88 Fair Drive\, Gate #4\, Costa Mesa\, CA
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -1601,7 +1577,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-santa-rosa-2027-05-22@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270524
 SUMMARY:Santa Rosa Reptile Expo
@@ -1609,7 +1585,7 @@ TRANSP:TRANSPARENT
 LOCATION:Sonoma County Event Center at the Fairgrounds\, 1350 Bennett Valle
  y Road\, Santa Rosa\, CA
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -1676,14 +1652,14 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-fresno-2027-06-05@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270607
 SUMMARY:Fresno Pet & Reptile Expo
 TRANSP:TRANSPARENT
 LOCATION:Fresno Fairgrounds\, 1121 S. Chance Avenue\, Fresno\, CA
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -2052,14 +2028,14 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-del-mar-2027-09-11@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270913
 SUMMARY:Del Mar/San Diego Pet & Reptile Expo
 TRANSP:TRANSPARENT
 LOCATION:Del Mar Fairgrounds\, 2260 Jimmy Durante Blvd.\, Del Mar\, CA
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
@@ -2100,7 +2076,7 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cvre-las-vegas-2027-09-18@anole.app
-DTSTAMP:20261006T000000Z
+DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270920
 SUMMARY:Las Vegas Exotic Pet & Reptile Expo
@@ -2108,7 +2084,7 @@ TRANSP:TRANSPARENT
 LOCATION:World Market Center (North Hall)\, 435 S. Grand Central Parkway\, 
  Las Vegas\, NV
 URL:https://cvrexpo.com/expos
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-06. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-10-12. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT

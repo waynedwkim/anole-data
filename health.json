@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-06",
-  "totalEvents": 203,
+  "checkedAt": "2026-10-12",
+  "totalEvents": 201,
   "states": 34,
   "seriesTracked": 35,
   "seriesWithEvents": 30,
@@ -81,7 +81,7 @@
       "id": "all-maryland-reptile-show",
       "name": "All Maryland Reptile Show",
       "website": "https://mdreptilefarm.com/events/",
-      "upcoming": 2,
+      "upcoming": 1,
       "lastDate": "2026-11-07"
     },
     {
@@ -118,6 +118,20 @@
       "website": "https://www.exoticpetexpos.com/",
       "upcoming": 1,
       "lastDate": "2026-11-29"
+    },
+    {
+      "id": "hamburg-reptile-show",
+      "name": "Hamburg Reptile Show",
+      "website": "https://hamburgreptileshow.com/",
+      "upcoming": 2,
+      "lastDate": "2026-12-05"
+    },
+    {
+      "id": "cold-blooded-expos",
+      "name": "Cold Blooded Expos",
+      "website": "https://coldbloodedexpos.com/",
+      "upcoming": 5,
+      "lastDate": "2026-12-06"
     }
   ]
 }
