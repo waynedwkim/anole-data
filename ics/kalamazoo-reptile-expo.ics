@@ -10,18 +10,6 @@ X-WR-CALDESC:Kalamazoo Reptile Expo — dates verified against the organize
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:kalamazoo-reptile-expo-kalamazoo-2026-10-17@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Kalamazoo Reptile Expo
-TRANSP:TRANSPARENT
-LOCATION:Kalamazoo County Expo Center (2900 Lake St)\, Kalamazoo\, MI
-URL:https://collisonzoo.com/kalamazooreptileexpo/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:kalamazoo-reptile-expo-kalamazoo-2026-11-01@anole.app
 DTSTAMP:20260829T000000Z
 DTSTART;VALUE=DATE:20261101

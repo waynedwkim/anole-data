@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-10-12",
-  "totalEvents": 201,
-  "states": 34,
+  "checkedAt": "2026-10-19",
+  "totalEvents": 191,
+  "states": 31,
   "seriesTracked": 35,
-  "seriesWithEvents": 30,
+  "seriesWithEvents": 28,
   "empty": [
     {
       "id": "kentucky-reptile-expo",
@@ -20,9 +20,23 @@
       "lastDate": null
     },
     {
+      "id": "pacnwrs",
+      "name": "Pacific NW Reptile & Exotic Animal Show",
+      "website": "https://www.pacnwrs.com/",
+      "upcoming": 0,
+      "lastDate": null
+    },
+    {
       "id": "sacramento-reptile-show",
       "name": "Sacramento Reptile Show",
       "website": "https://sacreptileshow.com/",
+      "upcoming": 0,
+      "lastDate": null
+    },
+    {
+      "id": "saratoga-reptile-show",
+      "name": "Saratoga Reptile Show",
+      "website": "https://www.saratogareptileshow.com/",
       "upcoming": 0,
       "lastDate": null
     },
@@ -42,20 +56,6 @@
     }
   ],
   "expiring": [
-    {
-      "id": "pacnwrs",
-      "name": "Pacific NW Reptile & Exotic Animal Show",
-      "website": "https://www.pacnwrs.com/",
-      "upcoming": 1,
-      "lastDate": "2026-10-11"
-    },
-    {
-      "id": "saratoga-reptile-show",
-      "name": "Saratoga Reptile Show",
-      "website": "https://www.saratogareptileshow.com/",
-      "upcoming": 1,
-      "lastDate": "2026-10-11"
-    },
     {
       "id": "reptilian-nation-expo",
       "name": "Reptilian Nation Expo",
@@ -123,15 +123,36 @@
       "id": "hamburg-reptile-show",
       "name": "Hamburg Reptile Show",
       "website": "https://hamburgreptileshow.com/",
-      "upcoming": 2,
+      "upcoming": 1,
       "lastDate": "2026-12-05"
     },
     {
       "id": "cold-blooded-expos",
       "name": "Cold Blooded Expos",
       "website": "https://coldbloodedexpos.com/",
-      "upcoming": 5,
+      "upcoming": 4,
       "lastDate": "2026-12-06"
+    },
+    {
+      "id": "michigan-reptile-show",
+      "name": "Michigan Reptile Show",
+      "website": "https://www.michiganreptileshow.com/",
+      "upcoming": 2,
+      "lastDate": "2026-12-12"
+    },
+    {
+      "id": "cin-city-reptile-show",
+      "name": "Cin City Reptile Show",
+      "website": "https://www.cincityreptileshow.com/",
+      "upcoming": 3,
+      "lastDate": "2026-12-13"
+    },
+    {
+      "id": "show-me-reptile-show",
+      "name": "Show Me Reptile & Exotic Show",
+      "website": "https://showmereptileshow.com/shows/event-calendar",
+      "upcoming": 4,
+      "lastDate": "2026-12-13"
     }
   ]
 }
