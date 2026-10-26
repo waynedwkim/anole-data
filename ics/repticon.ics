@@ -9,42 +9,6 @@ X-WR-CALDESC:Repticon — dates verified against the organizer.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:repticon-atlanta-2026-10-17@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261019
-SUMMARY:Repticon Atlanta
-TRANSP:TRANSPARENT
-LOCATION:Atlanta\, GA
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:repticon-chattanooga-2026-10-17@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261019
-SUMMARY:Repticon Chattanooga
-TRANSP:TRANSPARENT
-LOCATION:Chattanooga\, TN
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:repticon-ft-pierce-2026-10-24@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Repticon Ft Pierce
-TRANSP:TRANSPARENT
-LOCATION:Ft Pierce\, FL
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:repticon-columbia-2026-10-31@anole.app
 DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20261031

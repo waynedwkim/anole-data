@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-10-19",
-  "totalEvents": 191,
-  "states": 31,
+  "checkedAt": "2026-10-26",
+  "totalEvents": 181,
+  "states": 30,
   "seriesTracked": 35,
-  "seriesWithEvents": 28,
+  "seriesWithEvents": 27,
   "empty": [
     {
       "id": "kentucky-reptile-expo",
@@ -23,6 +23,13 @@
       "id": "pacnwrs",
       "name": "Pacific NW Reptile & Exotic Animal Show",
       "website": "https://www.pacnwrs.com/",
+      "upcoming": 0,
+      "lastDate": null
+    },
+    {
+      "id": "reptilian-nation-expo",
+      "name": "Reptilian Nation Expo",
+      "website": "https://reptiliannationexpo.com/",
       "upcoming": 0,
       "lastDate": null
     },
@@ -56,13 +63,6 @@
     }
   ],
   "expiring": [
-    {
-      "id": "reptilian-nation-expo",
-      "name": "Reptilian Nation Expo",
-      "website": "https://reptiliannationexpo.com/",
-      "upcoming": 1,
-      "lastDate": "2026-10-18"
-    },
     {
       "id": "sewerfest",
       "name": "SEWERFest",
@@ -130,7 +130,7 @@
       "id": "cold-blooded-expos",
       "name": "Cold Blooded Expos",
       "website": "https://coldbloodedexpos.com/",
-      "upcoming": 4,
+      "upcoming": 3,
       "lastDate": "2026-12-06"
     },
     {
@@ -144,15 +144,43 @@
       "id": "cin-city-reptile-show",
       "name": "Cin City Reptile Show",
       "website": "https://www.cincityreptileshow.com/",
-      "upcoming": 3,
+      "upcoming": 2,
       "lastDate": "2026-12-13"
     },
     {
       "id": "show-me-reptile-show",
       "name": "Show Me Reptile & Exotic Show",
       "website": "https://showmereptileshow.com/shows/event-calendar",
-      "upcoming": 4,
+      "upcoming": 2,
       "lastDate": "2026-12-13"
+    },
+    {
+      "id": "all-ohio-reptile-show",
+      "name": "All Ohio Reptile Show",
+      "website": "https://www.facebook.com/AllOhioReptileShow",
+      "upcoming": 2,
+      "lastDate": "2026-12-19"
+    },
+    {
+      "id": "kalamazoo-reptile-expo",
+      "name": "Kalamazoo Reptile Expo",
+      "website": "https://collisonzoo.com/kalamazooreptileexpo/",
+      "upcoming": 2,
+      "lastDate": "2026-12-19"
+    },
+    {
+      "id": "md-reptile-farm",
+      "name": "Maryland Reptile Farm Shows",
+      "website": "https://mdreptilefarm.com/events/",
+      "upcoming": 6,
+      "lastDate": "2026-12-19"
+    },
+    {
+      "id": "cleveland-reptile-show",
+      "name": "Cleveland Reptile Show & Sale",
+      "website": "https://www.facebook.com/clevreptileshow/",
+      "upcoming": 2,
+      "lastDate": "2026-12-20"
     }
   ]
 }
