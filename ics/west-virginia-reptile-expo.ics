@@ -10,18 +10,6 @@ X-WR-CALDESC:West Virginia Reptile Expo — dates verified against the orga
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:west-virginia-reptile-expo-huntington-2026-10-25@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:West Virginia Reptile Expo (Huntington)
-TRANSP:TRANSPARENT
-LOCATION:Marshall Health Network Arena\, 1 Center Plaza\, Huntington\, WV
-URL:https://www.wvreptileexpo.com/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:west-virginia-reptile-expo-institute-2026-11-22@anole.app
 DTSTAMP:20260829T000000Z
 DTSTART;VALUE=DATE:20261122

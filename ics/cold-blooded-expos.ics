@@ -23,19 +23,19 @@ DESCRIPTION:Verified against the organizer's own schedule on 2026-10-26. Da
 END:VEVENT
 BEGIN:VEVENT
 UID:cold-blooded-expos-des-moines-2026-11-15@anole.app
-DTSTAMP:20261026T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Iowa Reptile Show
 TRANSP:TRANSPARENT
 LOCATION:Hilton Garden Inn West Des Moines\, Des Moines\, IA
 URL:https://coldbloodedexpos.com/reptile-show/iowa-reptile-show-33/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-26. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-11-02. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 BEGIN:VEVENT
 UID:cold-blooded-expos-bellevue-2026-12-06@anole.app
-DTSTAMP:20261026T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Nebraska Reptile Show
@@ -43,7 +43,7 @@ TRANSP:TRANSPARENT
 LOCATION:Courtyard Marriott Bellevue At Beardmore Event Center\, Bellevue\,
   NE
 URL:https://coldbloodedexpos.com/reptile-show/nebraska-reptile-show-27/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-10-26. Da
+DESCRIPTION:Verified against the organizer's own schedule on 2026-11-02. Da
  tes can move\; confirm with the organizer before travelling.
 END:VEVENT
 END:VCALENDAR

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-10-26",
-  "totalEvents": 181,
-  "states": 30,
+  "checkedAt": "2026-11-02",
+  "totalEvents": 206,
+  "states": 28,
   "seriesTracked": 35,
-  "seriesWithEvents": 27,
+  "seriesWithEvents": 25,
   "empty": [
     {
       "id": "kentucky-reptile-expo",
@@ -34,6 +34,13 @@
       "lastDate": null
     },
     {
+      "id": "sewerfest",
+      "name": "SEWERFest",
+      "website": "https://www.sewerfest.com/",
+      "upcoming": 0,
+      "lastDate": null
+    },
+    {
       "id": "sacramento-reptile-show",
       "name": "Sacramento Reptile Show",
       "website": "https://sacreptileshow.com/",
@@ -55,6 +62,13 @@
       "lastDate": null
     },
     {
+      "id": "wasatch-reptile-expo",
+      "name": "Wasatch Reptile Expo",
+      "website": "https://wasatchreptileexpo.com/WRE/Page_1x.html",
+      "upcoming": 0,
+      "lastDate": null
+    },
+    {
       "id": "washington-reptile-expos",
       "name": "Washington Reptile Expos",
       "website": "https://washingtonreptileexpos.com/",
@@ -63,20 +77,6 @@
     }
   ],
   "expiring": [
-    {
-      "id": "sewerfest",
-      "name": "SEWERFest",
-      "website": "https://www.sewerfest.com/",
-      "upcoming": 1,
-      "lastDate": "2026-10-25"
-    },
-    {
-      "id": "wasatch-reptile-expo",
-      "name": "Wasatch Reptile Expo",
-      "website": "https://wasatchreptileexpo.com/WRE/Page_1x.html",
-      "upcoming": 1,
-      "lastDate": "2026-10-25"
-    },
     {
       "id": "all-maryland-reptile-show",
       "name": "All Maryland Reptile Show",
@@ -151,7 +151,7 @@
       "id": "show-me-reptile-show",
       "name": "Show Me Reptile & Exotic Show",
       "website": "https://showmereptileshow.com/shows/event-calendar",
-      "upcoming": 2,
+      "upcoming": 1,
       "lastDate": "2026-12-13"
     },
     {
@@ -166,13 +166,6 @@
       "name": "Kalamazoo Reptile Expo",
       "website": "https://collisonzoo.com/kalamazooreptileexpo/",
       "upcoming": 2,
-      "lastDate": "2026-12-19"
-    },
-    {
-      "id": "md-reptile-farm",
-      "name": "Maryland Reptile Farm Shows",
-      "website": "https://mdreptilefarm.com/events/",
-      "upcoming": 6,
       "lastDate": "2026-12-19"
     },
     {

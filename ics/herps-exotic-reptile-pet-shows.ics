@@ -10,18 +10,6 @@ X-WR-CALDESC:HERPS Exotic Reptile & Pet Shows — dates verified against th
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:herps-exotic-reptile-pet-shows-lawton-2026-10-24@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-SUMMARY:HERPS Lawton
-TRANSP:TRANSPARENT
-LOCATION:Lawton\, OK
-URL:https://www.herpshow.net/shows
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:herps-sulphur-2026-11-14@anole.app
 DTSTAMP:20260822T000000Z
 DTSTART;VALUE=DATE:20261114

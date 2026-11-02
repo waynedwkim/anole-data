@@ -10,19 +10,6 @@ X-WR-CALDESC:Show Me Reptile & Exotic Show — dates verified against the o
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:show-me-reptile-show-albuquerque-2026-10-24@anole.app
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-SUMMARY:Albuquerque Reptile Expo
-TRANSP:TRANSPARENT
-LOCATION:Expo New Mexico\, Creative Arts Center\, 300 San Pedro Dr NE\, Alb
- uquerque\, NM
-URL:https://www.exponm.com/events?view=list&search=reptile
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-29. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:show-me-reptile-show-knoxville-2026-12-12@anole.app
 DTSTAMP:20260829T000000Z
 DTSTART;VALUE=DATE:20261212
