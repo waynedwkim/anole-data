@@ -9,30 +9,6 @@ X-WR-CALDESC:Repticon — dates verified against the organizer.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:repticon-columbia-2026-10-31@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-SUMMARY:Repticon Columbia
-TRANSP:TRANSPARENT
-LOCATION:Columbia\, SC
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:repticon-inverness-2026-11-01@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:Repticon Inverness
-TRANSP:TRANSPARENT
-LOCATION:Inverness\, FL
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:repticon-costa-mesa-2026-11-07@anole.app
 DTSTAMP:20260822T000000Z
 DTSTART;VALUE=DATE:20261107

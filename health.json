@@ -1,10 +1,17 @@
 {
-  "checkedAt": "2026-11-02",
-  "totalEvents": 206,
-  "states": 28,
+  "checkedAt": "2026-11-09",
+  "totalEvents": 222,
+  "states": 29,
   "seriesTracked": 35,
-  "seriesWithEvents": 25,
+  "seriesWithEvents": 24,
   "empty": [
+    {
+      "id": "all-maryland-reptile-show",
+      "name": "All Maryland Reptile Show",
+      "website": "https://mdreptilefarm.com/events/",
+      "upcoming": 0,
+      "lastDate": null
+    },
     {
       "id": "kentucky-reptile-expo",
       "name": "Kentucky Reptile Expo",
@@ -78,13 +85,6 @@
   ],
   "expiring": [
     {
-      "id": "all-maryland-reptile-show",
-      "name": "All Maryland Reptile Show",
-      "website": "https://mdreptilefarm.com/events/",
-      "upcoming": 1,
-      "lastDate": "2026-11-07"
-    },
-    {
       "id": "midwest-reptile-show",
       "name": "Midwest Reptile Show",
       "website": "https://www.midwestreptile.com/",
@@ -127,13 +127,6 @@
       "lastDate": "2026-12-05"
     },
     {
-      "id": "cold-blooded-expos",
-      "name": "Cold Blooded Expos",
-      "website": "https://coldbloodedexpos.com/",
-      "upcoming": 3,
-      "lastDate": "2026-12-06"
-    },
-    {
       "id": "michigan-reptile-show",
       "name": "Michigan Reptile Show",
       "website": "https://www.michiganreptileshow.com/",
@@ -165,7 +158,7 @@
       "id": "kalamazoo-reptile-expo",
       "name": "Kalamazoo Reptile Expo",
       "website": "https://collisonzoo.com/kalamazooreptileexpo/",
-      "upcoming": 2,
+      "upcoming": 1,
       "lastDate": "2026-12-19"
     },
     {
