@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-09",
-  "totalEvents": 222,
-  "states": 29,
+  "checkedAt": "2026-11-16",
+  "totalEvents": 215,
+  "states": 28,
   "seriesTracked": 35,
-  "seriesWithEvents": 24,
+  "seriesWithEvents": 23,
   "empty": [
     {
       "id": "all-maryland-reptile-show",
@@ -16,6 +16,13 @@
       "id": "kentucky-reptile-expo",
       "name": "Kentucky Reptile Expo",
       "website": "https://www.kentuckyreptileexpo.com/",
+      "upcoming": 0,
+      "lastDate": null
+    },
+    {
+      "id": "midwest-reptile-show",
+      "name": "Midwest Reptile Show",
+      "website": "https://www.midwestreptile.com/",
       "upcoming": 0,
       "lastDate": null
     },
@@ -85,13 +92,6 @@
   ],
   "expiring": [
     {
-      "id": "midwest-reptile-show",
-      "name": "Midwest Reptile Show",
-      "website": "https://www.midwestreptile.com/",
-      "upcoming": 1,
-      "lastDate": "2026-11-08"
-    },
-    {
       "id": "massachusetts-reptile-expo",
       "name": "Massachusetts Reptile Expo",
       "website": "https://www.neherp.com/pages/massachusetts-reptile-expo",
@@ -130,14 +130,14 @@
       "id": "michigan-reptile-show",
       "name": "Michigan Reptile Show",
       "website": "https://www.michiganreptileshow.com/",
-      "upcoming": 2,
+      "upcoming": 1,
       "lastDate": "2026-12-12"
     },
     {
       "id": "cin-city-reptile-show",
       "name": "Cin City Reptile Show",
       "website": "https://www.cincityreptileshow.com/",
-      "upcoming": 2,
+      "upcoming": 1,
       "lastDate": "2026-12-13"
     },
     {
@@ -151,7 +151,7 @@
       "id": "all-ohio-reptile-show",
       "name": "All Ohio Reptile Show",
       "website": "https://www.facebook.com/AllOhioReptileShow",
-      "upcoming": 2,
+      "upcoming": 1,
       "lastDate": "2026-12-19"
     },
     {
@@ -167,6 +167,13 @@
       "website": "https://www.facebook.com/clevreptileshow/",
       "upcoming": 2,
       "lastDate": "2026-12-20"
+    },
+    {
+      "id": "reptile-super-show",
+      "name": "Reptile Super Show",
+      "website": "https://reptilesupershow.com/",
+      "upcoming": 1,
+      "lastDate": "2027-01-10"
     }
   ]
 }
