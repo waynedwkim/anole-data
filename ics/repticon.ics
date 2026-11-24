@@ -9,42 +9,6 @@ X-WR-CALDESC:Repticon — dates verified against the organizer.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:repticon-tampa-2026-11-14@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261116
-SUMMARY:Repticon Tampa
-TRANSP:TRANSPARENT
-LOCATION:Tampa\, FL
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:repticon-dallas-2026-11-21@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261123
-SUMMARY:Repticon Dallas
-TRANSP:TRANSPARENT
-LOCATION:Dallas\, TX
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:repticon-huntsville-2026-11-21@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261123
-SUMMARY:Repticon Huntsville
-TRANSP:TRANSPARENT
-LOCATION:Huntsville\, AL
-URL:https://repticon.com/show-calendar/
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:repticon-port-charlotte-2026-11-28@anole.app
 DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20261128

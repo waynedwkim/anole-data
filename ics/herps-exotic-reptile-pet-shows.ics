@@ -10,30 +10,6 @@ X-WR-CALDESC:HERPS Exotic Reptile & Pet Shows — dates verified against th
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:herps-sulphur-2026-11-14@anole.app
-DTSTAMP:20260822T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261116
-SUMMARY:HERPS Sulphur
-TRANSP:TRANSPARENT
-LOCATION:Sulphur\, LA
-URL:https://www.herpshow.net/shows
-DESCRIPTION:Verified against the organizer's own schedule on 2026-08-22. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
-UID:herps-exotic-reptile-pet-shows-west-monroe-2026-11-21@anole.app
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261123
-SUMMARY:HERPS West Monroe
-TRANSP:TRANSPARENT
-LOCATION:West Monroe\, LA
-URL:https://www.herpshow.net/shows
-DESCRIPTION:Verified against the organizer's own schedule on 2026-09-04. Da
- tes can move\; confirm with the organizer before travelling.
-END:VEVENT
-BEGIN:VEVENT
 UID:herps-exotic-reptile-pet-shows-belton-2026-12-05@anole.app
 DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20261205

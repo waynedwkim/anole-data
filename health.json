@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-16",
-  "totalEvents": 215,
-  "states": 28,
+  "checkedAt": "2026-11-24",
+  "totalEvents": 201,
+  "states": 25,
   "seriesTracked": 35,
-  "seriesWithEvents": 23,
+  "seriesWithEvents": 20,
   "empty": [
     {
       "id": "all-maryland-reptile-show",
@@ -13,9 +13,23 @@
       "lastDate": null
     },
     {
+      "id": "east-coast-reptile-super-expo",
+      "name": "East Coast Reptile Super Expos",
+      "website": "https://eastcoastreptilesuperexpos.com/info.html",
+      "upcoming": 0,
+      "lastDate": null
+    },
+    {
       "id": "kentucky-reptile-expo",
       "name": "Kentucky Reptile Expo",
       "website": "https://www.kentuckyreptileexpo.com/",
+      "upcoming": 0,
+      "lastDate": null
+    },
+    {
+      "id": "massachusetts-reptile-expo",
+      "name": "Massachusetts Reptile Expo",
+      "website": "https://www.neherp.com/pages/massachusetts-reptile-expo",
       "upcoming": 0,
       "lastDate": null
     },
@@ -37,6 +51,13 @@
       "id": "pacnwrs",
       "name": "Pacific NW Reptile & Exotic Animal Show",
       "website": "https://www.pacnwrs.com/",
+      "upcoming": 0,
+      "lastDate": null
+    },
+    {
+      "id": "phoenix-reptile-expo",
+      "name": "Phoenix Reptile Expo",
+      "website": "http://www.phxreptileexpo.com/",
       "upcoming": 0,
       "lastDate": null
     },
@@ -92,27 +113,6 @@
   ],
   "expiring": [
     {
-      "id": "massachusetts-reptile-expo",
-      "name": "Massachusetts Reptile Expo",
-      "website": "https://www.neherp.com/pages/massachusetts-reptile-expo",
-      "upcoming": 1,
-      "lastDate": "2026-11-15"
-    },
-    {
-      "id": "east-coast-reptile-super-expo",
-      "name": "East Coast Reptile Super Expos",
-      "website": "https://eastcoastreptilesuperexpos.com/info.html",
-      "upcoming": 1,
-      "lastDate": "2026-11-21"
-    },
-    {
-      "id": "phoenix-reptile-expo",
-      "name": "Phoenix Reptile Expo",
-      "website": "http://www.phxreptileexpo.com/",
-      "upcoming": 1,
-      "lastDate": "2026-11-22"
-    },
-    {
       "id": "exotic-pet-expos",
       "name": "Exotic Pet Expos (TN/KY/AL)",
       "website": "https://www.exoticpetexpos.com/",
@@ -165,7 +165,7 @@
       "id": "cleveland-reptile-show",
       "name": "Cleveland Reptile Show & Sale",
       "website": "https://www.facebook.com/clevreptileshow/",
-      "upcoming": 2,
+      "upcoming": 1,
       "lastDate": "2026-12-20"
     },
     {
